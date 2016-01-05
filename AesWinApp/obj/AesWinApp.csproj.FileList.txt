@@ -1,0 +1,7 @@
+bin\Debug\AesWinApp.dll
+bin\Debug\AesWinApp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AesWinApp.Form1.resources
+obj\Debug\AesWinApp.csproj.GenerateResource.Cache
+obj\Debug\AesWinApp.dll
+obj\Debug\AesWinApp.pdb

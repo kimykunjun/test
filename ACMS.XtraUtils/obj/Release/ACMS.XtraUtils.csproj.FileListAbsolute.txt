@@ -1,0 +1,50 @@
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\ACMS.XtraUtils.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\AesWinApp.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\Acms.Core.dll
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMS.XtraUtils\obj\Release\ACMS.XtraUtils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMS.XtraUtils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMS.Utils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMSLogic.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\AesWinApp.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Acms.Core.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.XtraUtils\obj\Release\ACMS.XtraUtils.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\ACMS.XtraUtils.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\AesWinApp.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\Acms.Core.dll
+C:\ACMS Source\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMS.XtraUtils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMS.XtraUtils\obj\Release\ACMS.XtraUtils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMS.XtraUtils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\AesWinApp.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMS.XtraUtils\obj\Release\ACMS.XtraUtils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\ACMS.XtraUtils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.XtraUtils\obj\Release\ACMS.XtraUtils.dll

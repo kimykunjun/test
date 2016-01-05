@@ -1,0 +1,211 @@
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\ACMS Source\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Ezytronic\Project\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+D:\Ezytronic\Project\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Work\ACMS\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\Work\ACMS\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\Work\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Work\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Work\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\Work\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\Work\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+E:\Working\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+E:\Working\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\Working\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\Working\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+E:\Working\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+E:\Working\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+E:\ACMS\ACMS.Control\bin\Debug\ACMS.Control.dll
+E:\ACMS\ACMS.Control\bin\Debug\ACMS.Control.pdb
+E:\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.dll
+E:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ACMS\ACMS.Control\bin\Debug\ACMSDAL.dll
+E:\ACMS\ACMS.Control\bin\Debug\ACMSDAL.pdb
+E:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\ACMS\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\ACMS\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+E:\ACMS\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.dll
+E:\ACMS\ACMS.Control\obj\Debug\ACMS.Control.pdb
+C:\Live\ACMS.Control\bin\Debug\ACMS.Control.dll
+C:\Live\ACMS.Control\bin\Debug\ACMS.Control.pdb
+C:\Live\ACMS.Control\bin\Debug\ACMS.Utils.dll
+C:\Live\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Live\ACMS.Control\bin\Debug\ACMSDAL.dll
+C:\Live\ACMS.Control\bin\Debug\MySql.Data.dll
+C:\Live\ACMS.Control\bin\Debug\ACMSDAL.pdb
+C:\Live\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Live\ACMS.Control\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Live\ACMS.Control\bin\Debug\ACMS.Utils.pdb
+C:\Live\ACMS.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ClassComponent.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ClassReportComponent2.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.DayClassReportComponent.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ACMSMonthlyTargetTable.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterDetails.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.ACMSRosterHeader.resources
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.csproj.GenerateResource.Cache
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.dll.licenses
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.dll
+C:\Live\ACMS.Control\obj\Debug\ACMS.Control.pdb

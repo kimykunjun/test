@@ -1,0 +1,178 @@
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\bin\Debug\updateCheck.exe
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\bin\Debug\updateCheck.pdb
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+E:\ACMS\Live\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+E:\ACMS\Live\ACMS\ACMS\bin\Debug\updateCheck.exe
+E:\ACMS\Live\ACMS\ACMS\bin\Debug\updateCheck.pdb
+E:\ACMS\Live\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+E:\Working\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+E:\Working\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.exe
+E:\Working\ACMS\Signature\ACMS\ACMS\bin\Debug\updateCheck.pdb
+E:\Working\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+E:\Working\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+E:\Working\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+E:\Working\ACMS\Signature\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\StevenKong\Desktop\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+E:\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+E:\ACMS\ACMS\bin\Debug\updateCheck.exe
+E:\ACMS\ACMS\bin\Debug\updateCheck.pdb
+E:\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+E:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+E:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+E:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+D:\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+D:\ACMS\ACMS\bin\Debug\updateCheck.exe
+D:\ACMS\ACMS\bin\Debug\updateCheck.pdb
+D:\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+D:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+D:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+D:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\ACMS_20140305\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMS\bin\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\stevenkong\Desktop\Live\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\stevenkong\Desktop\Live\ACMS\bin\Debug\updateCheck.exe
+C:\Users\stevenkong\Desktop\Live\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\stevenkong\Desktop\Live\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stevenkong\Desktop\Live\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\stevenkong\Desktop\Live\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\stevenkong\Desktop\Live\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\stevenkong\Desktop\Live\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Live\ACMS\bin\Debug\updateCheck.exe.config
+C:\Live\ACMS\bin\Debug\updateCheck.exe
+C:\Live\ACMS\bin\Debug\updateCheck.pdb
+C:\Live\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Live\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Live\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Live\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Live\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMS\bin\Debug\updateCheck.exe
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+E:\CSharpProject\ACMS\ACMS\bin\Debug\updateCheck.exe.config
+E:\CSharpProject\ACMS\ACMS\bin\Debug\updateCheck.exe
+E:\CSharpProject\ACMS\ACMS\bin\Debug\updateCheck.pdb
+E:\CSharpProject\ACMS\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProject\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+E:\CSharpProject\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+E:\CSharpProject\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+E:\CSharpProject\ACMS\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMS\bin\Debug\updateCheck.exe.config
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMS\bin\Debug\updateCheck.exe
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMS\bin\Debug\updateCheck.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\updateCheck\updateCheck\obj\Debug\updateCheck.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMS\bin\Debug\updateCheck.exe.config
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMS\bin\Debug\updateCheck.exe
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMS\bin\Debug\updateCheck.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\updateCheck\updateCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\updateCheck\updateCheck\obj\Debug\updateCheck.Properties.Resources.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\updateCheck\updateCheck\obj\Debug\updateCheck.csproj.GenerateResource.Cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\updateCheck\updateCheck\obj\Debug\updateCheck.exe
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\updateCheck\updateCheck\obj\Debug\updateCheck.pdb

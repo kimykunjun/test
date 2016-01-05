@@ -1,0 +1,605 @@
+using System;
+using System.Windows.Forms;
+using ACMS.Utils;
+using ACMSDAL;
+
+
+
+namespace ACMS.ACMSStaff.Contacts
+{
+	/// <summary>
+	/// Summary description for frmContacts.
+	/// </summary>
+	public class frmContacts : System.Windows.Forms.Form
+	{
+		private int nEmployeeID;
+        private int nContactID;
+        private string strBranchCode;
+		private System.Windows.Forms.Label label1;
+		private DevExpress.XtraEditors.TextEdit txtContactPerson;
+		private DevExpress.XtraEditors.TextEdit txtMobileNo;
+		private System.Windows.Forms.Label label2;
+		private DevExpress.XtraEditors.TextEdit txtEmail;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label5;
+		private DevExpress.XtraEditors.SimpleButton sbtnSave;
+        private DevExpress.XtraEditors.SimpleButton sbtnCancel;
+        private DevExpress.XtraEditors.TextEdit txtBranchCode;
+        private RadioButton rbFemale;
+        private RadioButton rbMale;
+        private DevExpress.XtraEditors.LookUpEdit luedtMediaSource;
+        internal Label label47;
+        internal DevExpress.XtraEditors.TextEdit txtNRICFIN;
+        private DevExpress.XtraEditors.DateEdit dateedtDOB;
+        internal Label label4;
+        internal Label label6;
+        private DevExpress.XtraEditors.TextEdit txtMediaSource;
+        private ACMS.XtraUtils.LookupEditBuilder.MediaSourceLookupEditBuilder myMediaSourceLookupBuilder;
+        //private ACMS.XtraUtils.LookupEditBuilder.EmployeeIDLookupEditBuilder myAssigntoStaffLookupBuilder;
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.Container components = null;
+        internal Label label7;
+        private string strgender;
+        internal Label label8;
+        private DevExpress.XtraEditors.LookUpEdit luedtAssigntoStaff;
+        private DevExpress.XtraEditors.MemoEdit rtxtRemarks;
+        internal Label label9;
+        private ComboBox cbStatus;
+        private int inMediaSource;
+        private int nStatus;
+        private int nStatusActiveID;
+        private int nStatusInActiveID;
+        private string strStatus;
+
+		public string ContactPerson
+		{
+			set {txtContactPerson.Text = value;}
+		}
+
+        public string MobileNo
+		{
+			set {txtMobileNo.Text = value;}
+		}
+        
+        public string Nric
+        {
+            set { txtNRICFIN.Text = value; }
+        }
+
+        public string Email
+		{
+			set {txtEmail.Text = value;}
+		}
+
+
+        public string Remarks
+		{
+			set {rtxtRemarks.Text = value;}
+		}
+
+
+        public string BranchCode
+        {
+            set { txtBranchCode.Text = value; }
+        }
+       
+        public DateTime DateOfBirth
+        {
+            set { dateedtDOB.EditValue = value; }
+        }
+
+        public int NStatusActive
+        {
+           // set { nStatusActiveID = value; }
+             set {   cbStatus.Text = "Active"; }
+        }
+
+        public int NStatusInActive
+        {
+           // set { nStatusInActiveID = value; }
+             set {   cbStatus.Text = "InActive"; }
+        }
+       
+        public int MediaSourceID
+        {
+            set { luedtMediaSource.EditValue = value; }
+        }
+
+        public bool IsGenderFemale
+        {
+            set { rbFemale.Checked = value; }
+        }
+
+        public bool IsGenderMale
+        {
+            set { rbMale.Checked = value; }
+        }
+        public frmContacts(int nEmployeeID, int nContactID, string strBranchCode)
+		{
+			//
+			// Required for Windows Form Designer support
+			//
+			InitializeComponent();
+            
+			//
+			// TODO: Add any constructor code after InitializeComponent call
+			//
+            this.nEmployeeID = nEmployeeID;
+            this.strBranchCode = strBranchCode;
+			this.nContactID = nContactID;
+            txtBranchCode.Text = strBranchCode;
+            dateedtDOB.DateTime = DateTime.Now.Date;
+
+            if (nStatusInActiveID == 0)
+                cbStatus.Text = "InActive";
+            else
+              cbStatus.Text = "Active";
+
+            if (nContactID < 0)
+            {
+                this.Text = string.Format(this.Text, "New");
+                cbStatus.Text = "Active";
+                strStatus = "New";
+            }
+            else
+            {
+                this.Text = string.Format(this.Text, "Edit") + " - ID: " + nContactID;
+                strStatus = "Edit";
+            }
+		}
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		protected override void Dispose( bool disposing )
+		{
+			if( disposing )
+			{
+				if(components != null)
+				{
+					components.Dispose();
+				}
+			}
+			base.Dispose( disposing );
+		}
+
+		#region Windows Form Designer generated code
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtContactPerson = new DevExpress.XtraEditors.TextEdit();
+            this.txtMobileNo = new DevExpress.XtraEditors.TextEdit();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtEmail = new DevExpress.XtraEditors.TextEdit();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.sbtnSave = new DevExpress.XtraEditors.SimpleButton();
+            this.sbtnCancel = new DevExpress.XtraEditors.SimpleButton();
+            this.txtBranchCode = new DevExpress.XtraEditors.TextEdit();
+            this.rbFemale = new System.Windows.Forms.RadioButton();
+            this.rbMale = new System.Windows.Forms.RadioButton();
+            this.luedtMediaSource = new DevExpress.XtraEditors.LookUpEdit();
+            this.label47 = new System.Windows.Forms.Label();
+            this.txtNRICFIN = new DevExpress.XtraEditors.TextEdit();
+            this.dateedtDOB = new DevExpress.XtraEditors.DateEdit();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtMediaSource = new DevExpress.XtraEditors.TextEdit();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.luedtAssigntoStaff = new DevExpress.XtraEditors.LookUpEdit();
+            this.rtxtRemarks = new DevExpress.XtraEditors.MemoEdit();
+            this.label9 = new System.Windows.Forms.Label();
+            this.cbStatus = new System.Windows.Forms.ComboBox();
+            ((System.ComponentModel.ISupportInitialize)(this.txtContactPerson.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMobileNo.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtEmail.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtBranchCode.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.luedtMediaSource.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtNRICFIN.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateedtDOB.Properties.VistaTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateedtDOB.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMediaSource.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.luedtAssigntoStaff.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rtxtRemarks.Properties)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.Location = new System.Drawing.Point(12, 14);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(108, 21);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "Contact Person:";
+            // 
+            // txtContactPerson
+            // 
+            this.txtContactPerson.EditValue = "";
+            this.txtContactPerson.Location = new System.Drawing.Point(127, 12);
+            this.txtContactPerson.Name = "txtContactPerson";
+            this.txtContactPerson.Properties.MaxLength = 50;
+            this.txtContactPerson.Size = new System.Drawing.Size(336, 22);
+            this.txtContactPerson.TabIndex = 0;
+            // 
+            // txtMobileNo
+            // 
+            this.txtMobileNo.EditValue = "";
+            this.txtMobileNo.Location = new System.Drawing.Point(127, 98);
+            this.txtMobileNo.Name = "txtMobileNo";
+            this.txtMobileNo.Properties.MaxLength = 50;
+            this.txtMobileNo.Size = new System.Drawing.Size(336, 22);
+            this.txtMobileNo.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.Location = new System.Drawing.Point(12, 100);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(108, 21);
+            this.label2.TabIndex = 20;
+            this.label2.Text = "Mobile Number:";
+            // 
+            // txtEmail
+            // 
+            this.txtEmail.EditValue = "";
+            this.txtEmail.Location = new System.Drawing.Point(127, 130);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Properties.MaxLength = 50;
+            this.txtEmail.Size = new System.Drawing.Size(336, 22);
+            this.txtEmail.TabIndex = 3;
+            // 
+            // label3
+            // 
+            this.label3.Location = new System.Drawing.Point(12, 133);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(108, 20);
+            this.label3.TabIndex = 41;
+            this.label3.Text = "Email:";
+            // 
+            // label5
+            // 
+            this.label5.Location = new System.Drawing.Point(12, 267);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(108, 20);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "Remarks:";
+            // 
+            // sbtnSave
+            // 
+            this.sbtnSave.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
+            this.sbtnSave.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.sbtnSave.Location = new System.Drawing.Point(282, 489);
+            this.sbtnSave.Name = "sbtnSave";
+            this.sbtnSave.Size = new System.Drawing.Size(90, 27);
+            this.sbtnSave.TabIndex = 8;
+            this.sbtnSave.Text = "Save";
+            this.sbtnSave.Click += new System.EventHandler(this.sbtnSave_Click);
+            // 
+            // sbtnCancel
+            // 
+            this.sbtnCancel.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
+            this.sbtnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.sbtnCancel.Location = new System.Drawing.Point(380, 489);
+            this.sbtnCancel.Name = "sbtnCancel";
+            this.sbtnCancel.Size = new System.Drawing.Size(90, 27);
+            this.sbtnCancel.TabIndex = 9;
+            this.sbtnCancel.Text = "Cancel";
+            // 
+            // txtBranchCode
+            // 
+            this.txtBranchCode.EditValue = "";
+            this.txtBranchCode.Enabled = false;
+            this.txtBranchCode.Location = new System.Drawing.Point(343, 168);
+            this.txtBranchCode.Name = "txtBranchCode";
+            this.txtBranchCode.Properties.MaxLength = 50;
+            this.txtBranchCode.Size = new System.Drawing.Size(120, 22);
+            this.txtBranchCode.TabIndex = 14;
+            // 
+            // rbFemale
+            // 
+            this.rbFemale.AutoSize = true;
+            this.rbFemale.Checked = true;
+            this.rbFemale.Location = new System.Drawing.Point(127, 42);
+            this.rbFemale.Name = "rbFemale";
+            this.rbFemale.Size = new System.Drawing.Size(75, 21);
+            this.rbFemale.TabIndex = 32;
+            this.rbFemale.TabStop = true;
+            this.rbFemale.Text = "Female";
+            this.rbFemale.UseVisualStyleBackColor = true;
+            // 
+            // rbMale
+            // 
+            this.rbMale.AutoSize = true;
+            this.rbMale.Location = new System.Drawing.Point(205, 42);
+            this.rbMale.Name = "rbMale";
+            this.rbMale.Size = new System.Drawing.Size(59, 21);
+            this.rbMale.TabIndex = 22;
+            this.rbMale.Text = "Male";
+            this.rbMale.UseVisualStyleBackColor = true;
+            // 
+            // luedtMediaSource
+            // 
+            this.luedtMediaSource.EditValue = "";
+            this.luedtMediaSource.Location = new System.Drawing.Point(127, 198);
+            this.luedtMediaSource.Name = "luedtMediaSource";
+            this.luedtMediaSource.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.luedtMediaSource.Properties.PopupWidth = 200;
+            this.luedtMediaSource.Size = new System.Drawing.Size(144, 22);
+            this.luedtMediaSource.TabIndex = 5;
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label47.Location = new System.Drawing.Point(12, 202);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(95, 17);
+            this.label47.TabIndex = 107;
+            this.label47.Text = "Media Source";
+            // 
+            // txtNRICFIN
+            // 
+            this.txtNRICFIN.EditValue = "";
+            this.txtNRICFIN.Location = new System.Drawing.Point(127, 68);
+            this.txtNRICFIN.Name = "txtNRICFIN";
+            this.txtNRICFIN.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNRICFIN.Properties.Appearance.Options.UseFont = true;
+            this.txtNRICFIN.Properties.MaxLength = 50;
+            this.txtNRICFIN.Size = new System.Drawing.Size(336, 23);
+            this.txtNRICFIN.TabIndex = 1;
+            // 
+            // dateedtDOB
+            // 
+            this.dateedtDOB.EditValue = null;
+            this.dateedtDOB.Location = new System.Drawing.Point(127, 168);
+            this.dateedtDOB.Name = "dateedtDOB";
+            this.dateedtDOB.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateedtDOB.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.DateTimeAdvancingCaret;
+            this.dateedtDOB.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
+            this.dateedtDOB.Size = new System.Drawing.Size(118, 22);
+            this.dateedtDOB.TabIndex = 4;
+            // 
+            // label4
+            // 
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(12, 172);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(118, 21);
+            this.label4.TabIndex = 105;
+            this.label4.Text = "Date-of-Birth:";
+            // 
+            // label6
+            // 
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(12, 70);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(118, 21);
+            this.label6.TabIndex = 104;
+            this.label6.Text = "NRIC/FIN No:";
+            // 
+            // txtMediaSource
+            // 
+            this.txtMediaSource.EditValue = "";
+            this.txtMediaSource.Location = new System.Drawing.Point(278, 200);
+            this.txtMediaSource.Name = "txtMediaSource";
+            this.txtMediaSource.Properties.MaxLength = 50;
+            this.txtMediaSource.Size = new System.Drawing.Size(185, 22);
+            this.txtMediaSource.TabIndex = 108;
+            this.txtMediaSource.Visible = false;
+            // 
+            // label7
+            // 
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(252, 171);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(122, 21);
+            this.label7.TabIndex = 109;
+            this.label7.Text = "Branch Code :";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label8.Location = new System.Drawing.Point(12, 234);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(99, 17);
+            this.label8.TabIndex = 110;
+            this.label8.Text = "Assign to Staff";
+            // 
+            // luedtAssigntoStaff
+            // 
+            this.luedtAssigntoStaff.EditValue = "";
+            this.luedtAssigntoStaff.Location = new System.Drawing.Point(127, 231);
+            this.luedtAssigntoStaff.Name = "luedtAssigntoStaff";
+            this.luedtAssigntoStaff.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.luedtAssigntoStaff.Properties.PopupWidth = 200;
+            this.luedtAssigntoStaff.Size = new System.Drawing.Size(336, 22);
+            this.luedtAssigntoStaff.TabIndex = 6;
+            // 
+            // rtxtRemarks
+            // 
+            this.rtxtRemarks.EditValue = "";
+            this.rtxtRemarks.Location = new System.Drawing.Point(127, 264);
+            this.rtxtRemarks.Name = "rtxtRemarks";
+            this.rtxtRemarks.Properties.MaxLength = 1000;
+            this.rtxtRemarks.Size = new System.Drawing.Size(336, 180);
+            this.rtxtRemarks.TabIndex = 7;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label9.Location = new System.Drawing.Point(31, 459);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(56, 17);
+            this.label9.TabIndex = 112;
+            this.label9.Text = "Status :";
+            // 
+            // cbStatus
+            // 
+            this.cbStatus.FormattingEnabled = true;
+            this.cbStatus.Items.AddRange(new object[] {
+            "Active",
+            "InActive"});
+            this.cbStatus.Location = new System.Drawing.Point(127, 452);
+            this.cbStatus.Name = "cbStatus";
+            this.cbStatus.Size = new System.Drawing.Size(145, 24);
+            this.cbStatus.TabIndex = 113;
+            // 
+            // frmContacts
+            // 
+            this.AcceptButton = this.sbtnSave;
+            this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
+            this.CancelButton = this.sbtnCancel;
+            this.ClientSize = new System.Drawing.Size(491, 533);
+            this.Controls.Add(this.cbStatus);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.rtxtRemarks);
+            this.Controls.Add(this.luedtAssigntoStaff);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.txtMediaSource);
+            this.Controls.Add(this.luedtMediaSource);
+            this.Controls.Add(this.label47);
+            this.Controls.Add(this.txtNRICFIN);
+            this.Controls.Add(this.dateedtDOB);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.rbFemale);
+            this.Controls.Add(this.rbMale);
+            this.Controls.Add(this.txtBranchCode);
+            this.Controls.Add(this.sbtnSave);
+            this.Controls.Add(this.sbtnCancel);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.txtEmail);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.txtMobileNo);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtContactPerson);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.label7);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "frmContacts";
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "{0} Call List";
+            this.Load += new System.EventHandler(this.frmContacts_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.txtContactPerson.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMobileNo.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtEmail.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtBranchCode.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.luedtMediaSource.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtNRICFIN.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateedtDOB.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateedtDOB.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMediaSource.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.luedtAssigntoStaff.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rtxtRemarks.Properties)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+		}
+		#endregion
+
+		private void sbtnSave_Click(object sender, System.EventArgs e)
+		{
+			if (!ValidateBeforeSave())
+			{
+				DialogResult = DialogResult.None;
+				return;
+			}
+			ACMSLogic.Staff.Contacts myContact = new ACMSLogic.Staff.Contacts();
+
+            strgender = "F";
+
+            if (rbMale.Checked)
+            {
+                strgender = "M";
+            }
+
+            if (cbStatus.Text == "Active")
+                nStatus = 1;
+            else
+                nStatus = 0;
+
+            if (luedtAssigntoStaff.EditValue != "")
+            {
+                nEmployeeID = Convert.ToInt32(luedtAssigntoStaff.EditValue);
+            }
+
+            if (luedtMediaSource.EditValue != "")
+            {
+                inMediaSource = Convert.ToInt32(luedtMediaSource.EditValue);
+            }
+			if (nContactID < 0)
+			{
+                myContact.NewContact(nEmployeeID, txtContactPerson.Text, txtNRICFIN.Text, txtBranchCode.Text, txtEmail.Text, strgender, dateedtDOB.DateTime, inMediaSource, txtMediaSource.Text, txtMobileNo.Text, rtxtRemarks.Text, nStatus);
+                DialogResult = DialogResult.OK;
+			}
+			else
+			{
+                myContact.EditContact(nContactID, nEmployeeID, txtContactPerson.Text, txtNRICFIN.Text, txtBranchCode.Text, txtEmail.Text, strgender, dateedtDOB.DateTime, inMediaSource, txtMediaSource.Text, txtMobileNo.Text, rtxtRemarks.Text, nStatus);
+				DialogResult = DialogResult.OK;
+			}
+		}
+
+		private bool ValidateBeforeSave()
+		{
+			if (txtContactPerson.Text.Length == 0)
+			{
+                UI.ShowErrorMessage(this, "Please enter an Contact person name.", "Error");
+				txtContactPerson.Focus();
+				return false;
+			}
+
+            if (txtMobileNo.Text.Length == 0)
+			{
+                UI.ShowErrorMessage(this, "Please enter Mobile No.", "Error");
+                txtMobileNo.Focus();
+				return false;
+            }
+
+            if (luedtMediaSource.Text.Length == 0)
+            {
+                UI.ShowErrorMessage(this, "Please select Media Source.", "Error");
+                luedtMediaSource.Focus();
+                return false;
+            }
+
+            if (strStatus == "New")
+            {
+                ACMSLogic.Staff.Contacts myContact = new ACMSLogic.Staff.Contacts();
+                if (myContact.GetMemberNRIC(txtNRICFIN.Text, txtMobileNo.Text) == true)
+                {
+
+                    UI.ShowErrorMessage(this, "This Lead already in our database, Please proceed to appointment", "Error");
+                    return false;
+
+                }
+
+            }
+			return true;
+		}
+
+
+        private void frmContacts_Load(object sender, EventArgs e)
+        {
+           
+            myMediaSourceLookupBuilder = new ACMS.XtraUtils.LookupEditBuilder.MediaSourceLookupEditBuilder(luedtMediaSource.Properties);
+            new XtraUtils.LookupEditBuilder.EmployeeIDLookupEditBuilder(luedtAssigntoStaff.Properties);
+
+        }
+
+       
+	}
+}

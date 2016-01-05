@@ -1,0 +1,255 @@
+C:\ACMS Source\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+D:\Ezytronic\Project\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+D:\Ezytronic\Project\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+D:\Ezytronic\Project\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Ezytronic\Project\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+D:\Ezytronic\Project\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Work\ACMS\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Work\ACMS\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Work\ACMS\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Work\ACMS\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Work\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Work\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Work\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Work\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\Working\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+E:\Working\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\Working\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+E:\Working\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+E:\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+E:\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+D:\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+D:\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+D:\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+D:\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.dll
+E:\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\ACMS - Merge\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.dll
+E:\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+E:\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+E:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+D:\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+D:\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+D:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+D:\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\Working\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+E:\Working\ACMS\Signature\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\Working\ACMS\Signature\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+E:\Working\ACMS\Signature\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\stevenkong\Desktop\Live\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\stevenkong\Desktop\Live\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\stevenkong\Desktop\Live\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stevenkong\Desktop\Live\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\stevenkong\Desktop\Live\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Live\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Live\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Live\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Live\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Live\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\Acms.Core\obj\Debug\Acms.Core.pdb
+E:\CSharpProject\ACMS\Acms.Core\bin\Debug\Acms.Core.dll
+E:\CSharpProject\ACMS\Acms.Core\bin\Debug\Acms.Core.pdb
+E:\CSharpProject\ACMS\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProject\ACMS\Acms.Core\obj\Debug\Acms.Core.dll
+E:\CSharpProject\ACMS\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\Acms.Core\bin\Debug\Acms.Core.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\Acms.Core\obj\Debug\Acms.Core.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\Acms.Core\obj\Debug\Acms.Core.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\Acms.Core\bin\Debug\Acms.Core.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\Acms.Core\bin\Debug\Acms.Core.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\Acms.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\Acms.Core\obj\Debug\Acms.Core.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\Acms.Core\obj\Debug\Acms.Core.pdb

@@ -1,0 +1,20 @@
+C:\ACMS Source\ACMS2008\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2008\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2008\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Documents and Settings\Administrator\Desktop\ACMS\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll

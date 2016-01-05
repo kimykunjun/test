@@ -1,0 +1,18 @@
+C:\ACMS Source\ACMS2008\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\obj\Release\ACMSDAL.dll

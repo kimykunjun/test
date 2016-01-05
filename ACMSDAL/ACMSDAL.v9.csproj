@@ -1,0 +1,481 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{15C97DBD-25FE-4886-A4AF-5654B82A3932}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ACMSDAL</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ACMSDAL</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccAuxPath>
+    </SccAuxPath>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblSchedule.cs" />
+    <Compile Include="Common.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ConnectionProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DBInteractionBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblAppointment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblAppointmentType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblAudit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBank.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBankBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBankIPPRate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBanklPPMerchant.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBranchReceiptNo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBranchTarget.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblBrand.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCardRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCaseAction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCaseCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCaseMode.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCaseType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblClassAttendance.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblClassInstance.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblClassSchedule.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblClassType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblColor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCommissionScheme.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCommissionSchemeEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCompany.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblContacts.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCostCenter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCreditPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblCreditPackageRestriction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblDepartment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblDiscountCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblEmployee.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblEmployeeBranchRights.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblEmployeeCommissionScheme.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblGIRO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblGIROBatch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblGIROBatchEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblIBT.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblIBTEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblInstructorCommission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblInstructorType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblInstructorTypeCommission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblIPP.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblItemPromotion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblJobPosition.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLeave.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLeaveAdjust.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLeaveEarnings.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLeaveEntitlement.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLeaveType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLocker.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblLoyaltyStatus.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMember.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tblMemberActivities.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemberCreditPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemberPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoBulletin.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoGroupEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoRead.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblMemoReceipient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblOvertime.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageExtension.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageExtensionReasonType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageGroupEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPackageService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPayment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPaymentGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPayroll.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPayrollEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPOSCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblProduct.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblProductBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblProductInventory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblProductType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPromotion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPromotionBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPromotionFreebie.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPromotionPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPromotionReceiptSalesCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPTCommLevel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblPublicHoliday.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblReceipt.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblReceiptEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblReceiptFreebie.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblReceiptPayment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRewards.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRewardsBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRewardsCatalogue.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRewardsTransaction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRights.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRightsLevel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRightsLevelEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblRoster.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblSalesCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblSalonUse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblServiceSession.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblServiceType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblShift.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblSize.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblStockRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblStockRequestEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblStyle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblTax.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblTerminalUser.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblTimeCard.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblUOBBooking.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblUpgradeRestriction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TblVoucherType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="VBranchBulletin.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="vwRights.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

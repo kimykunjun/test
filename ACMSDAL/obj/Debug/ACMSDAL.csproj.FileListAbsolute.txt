@@ -1,0 +1,301 @@
+C:\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS2008\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2008\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS-backup b4 signature\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+D:\Ezytronic\Project\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+D:\Ezytronic\Project\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+D:\Ezytronic\Project\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ezytronic\Project\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+D:\Ezytronic\Project\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\Working\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\Working\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\Working\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\Working\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+D:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+D:\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+D:\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+D:\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\ACMS - Merge\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+D:\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+D:\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+D:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+D:\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\Working\ACMS\Signature\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\Working\ACMS\Signature\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\bin\Debug\MySql.Data.dll
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\stevenkong\Desktop\Live\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Live\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Live\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Live\ACMSDAL\bin\Debug\MySql.Data.dll
+C:\Live\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Live\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Live\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\bin\Debug\MySql.Data.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSDAL\obj\Debug\ACMSDAL.pdb
+E:\CSharpProject\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+E:\CSharpProject\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+E:\CSharpProject\ACMS\ACMSDAL\bin\Debug\MySql.Data.dll
+E:\CSharpProject\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProject\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+E:\CSharpProject\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\bin\Debug\MySql.Data.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\bin\Debug\MySql.Data.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSDAL\obj\Debug\ACMSDAL.pdb

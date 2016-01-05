@@ -1,0 +1,10 @@
+bin\Debug\ACMSDAL.dll
+bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+bin\Debug\ACMSDAL.pdb
+bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ACMS.Utils.dll
+obj\Debug\ACMS.Utils.pdb
+bin\Debug\ACMS.Utils.dll
+bin\Debug\ACMS.Utils.pdb

@@ -1,0 +1,491 @@
+using System;
+using System.Drawing;
+using System.Collections;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Data;
+using ACMSDAL;
+using ACMSLogic;
+using System.Data.SqlTypes;
+using System.Data.SqlClient;
+using System.Configuration;
+
+namespace ACMS.ACMSPOS2
+{
+	/// <summary>
+	/// Summary description for FormTopUpCredit.
+	/// </summary>
+	public class FormPayOutstanding : System.Windows.Forms.Form
+	{
+		private DataTable myReceiptItemsTable;
+		private DevExpress.XtraEditors.PanelControl panelControl1;
+		private DevExpress.XtraEditors.PanelControl panelControl2;
+		private DevExpress.XtraEditors.PanelControl panelControl3;
+		private DevExpress.XtraEditors.SimpleButton simpleButtonCancel;
+		private DevExpress.XtraEditors.SimpleButton simpleButtonOK;
+		private System.Windows.Forms.Label label1;
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.Container components = null;
+		
+		private ACMSLogic.POS myPOS;
+		internal DevExpress.XtraGrid.GridControl GridControl11;
+		internal DevExpress.XtraGrid.Views.Grid.GridView GridView12;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn75;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn78;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn79;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn80;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn81;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn82;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn83;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn99;
+		internal DevExpress.XtraGrid.Columns.GridColumn GridColumn100;
+		private DevExpress.XtraGrid.Columns.GridColumn gridColumn265;
+		private ACMSLogic.Payment myReceiptPayment;
+		protected	SqlConnection			_mainConnection;
+		protected	int						_rowsAffected;
+		protected	SqlInt32				_errorCode;
+		protected	bool					_mainConnectionIsCreatedLocal;
+		protected	ConnectionProvider		_mainConnectionProvider;
+        internal DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
+		private		bool					_isDisposed;
+
+		public FormPayOutstanding(ACMSLogic.POS pos)
+		{
+			
+			//
+			// Required for Windows Form Designer support
+			//
+			InitializeComponent();
+
+			//
+			// TODO: Add any constructor code after InitializeComponent call
+			//
+			myPOS = pos;
+			myReceiptPayment= new ACMSLogic.Payment();
+			GridControl11.DataSource = myReceiptPayment.GetOutstandingReceipt(pos.StrMembershipID);
+		
+			string connectionString = (string)ConfigurationSettings.AppSettings["Main.ConnectionString"]; 
+			_mainConnection = new SqlConnection(connectionString);
+
+		}
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		protected override void Dispose( bool disposing )
+		{
+			if( disposing )
+			{
+				if(components != null)
+				{
+					components.Dispose();
+				}
+			}
+			base.Dispose( disposing );
+		}
+
+		#region Windows Form Designer generated code
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+            this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panelControl2 = new DevExpress.XtraEditors.PanelControl();
+            this.GridControl11 = new DevExpress.XtraGrid.GridControl();
+            this.GridView12 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.GridColumn75 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn78 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn79 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn80 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn81 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn82 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn83 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn99 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.GridColumn100 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn265 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.panelControl3 = new DevExpress.XtraEditors.PanelControl();
+            this.simpleButtonCancel = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButtonOK = new DevExpress.XtraEditors.SimpleButton();
+            this._mainConnection = new System.Data.SqlClient.SqlConnection();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
+            this.panelControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
+            this.panelControl2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.GridControl11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GridView12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl3)).BeginInit();
+            this.panelControl3.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panelControl1
+            // 
+            this.panelControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.panelControl1.Controls.Add(this.label1);
+            this.panelControl1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelControl1.Location = new System.Drawing.Point(0, 0);
+            this.panelControl1.Name = "panelControl1";
+            this.panelControl1.Size = new System.Drawing.Size(888, 40);
+            this.panelControl1.TabIndex = 0;
+            // 
+            // label1
+            // 
+            this.label1.Location = new System.Drawing.Point(18, 5);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(634, 23);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Please select the outstanding receipt that you want to pay.";
+            // 
+            // panelControl2
+            // 
+            this.panelControl2.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.panelControl2.Controls.Add(this.GridControl11);
+            this.panelControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelControl2.Location = new System.Drawing.Point(0, 40);
+            this.panelControl2.Name = "panelControl2";
+            this.panelControl2.Size = new System.Drawing.Size(888, 316);
+            this.panelControl2.TabIndex = 1;
+            // 
+            // GridControl11
+            // 
+            this.GridControl11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.GridControl11.Location = new System.Drawing.Point(0, 0);
+            this.GridControl11.LookAndFeel.UseDefaultLookAndFeel = false;
+            this.GridControl11.MainView = this.GridView12;
+            this.GridControl11.Name = "GridControl11";
+            this.GridControl11.Size = new System.Drawing.Size(888, 316);
+            this.GridControl11.TabIndex = 8;
+            this.GridControl11.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.GridView12});
+            // 
+            // GridView12
+            // 
+            this.GridView12.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.GridColumn75,
+            this.GridColumn78,
+            this.GridColumn79,
+            this.GridColumn80,
+            this.GridColumn81,
+            this.GridColumn82,
+            this.GridColumn83,
+            this.gridColumn1,
+            this.GridColumn99,
+            this.GridColumn100,
+            this.gridColumn265});
+            this.GridView12.GridControl = this.GridControl11;
+            this.GridView12.Name = "GridView12";
+            this.GridView12.OptionsView.ShowGroupPanel = false;
+            this.GridView12.SortInfo.AddRange(new DevExpress.XtraGrid.Columns.GridColumnSortInfo[] {
+            new DevExpress.XtraGrid.Columns.GridColumnSortInfo(this.GridColumn75, DevExpress.Data.ColumnSortOrder.Descending)});
+            // 
+            // GridColumn75
+            // 
+            this.GridColumn75.Caption = "Date";
+            this.GridColumn75.DisplayFormat.FormatString = "dd/MM/yyyy";
+            this.GridColumn75.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            this.GridColumn75.FieldName = "dtDate";
+            this.GridColumn75.Name = "GridColumn75";
+            this.GridColumn75.OptionsColumn.AllowEdit = false;
+            this.GridColumn75.OptionsFilter.AllowFilter = false;
+            this.GridColumn75.Visible = true;
+            this.GridColumn75.VisibleIndex = 0;
+            this.GridColumn75.Width = 157;
+            // 
+            // GridColumn78
+            // 
+            this.GridColumn78.Caption = "Receipt No";
+            this.GridColumn78.FieldName = "strReceiptNo";
+            this.GridColumn78.Name = "GridColumn78";
+            this.GridColumn78.OptionsColumn.AllowEdit = false;
+            this.GridColumn78.OptionsFilter.AllowFilter = false;
+            this.GridColumn78.Visible = true;
+            this.GridColumn78.VisibleIndex = 1;
+            this.GridColumn78.Width = 157;
+            // 
+            // GridColumn79
+            // 
+            this.GridColumn79.Caption = "Category";
+            this.GridColumn79.FieldName = "CategoryDescription";
+            this.GridColumn79.Name = "GridColumn79";
+            this.GridColumn79.OptionsColumn.AllowEdit = false;
+            this.GridColumn79.OptionsFilter.AllowFilter = false;
+            this.GridColumn79.Visible = true;
+            this.GridColumn79.VisibleIndex = 2;
+            this.GridColumn79.Width = 157;
+            // 
+            // GridColumn80
+            // 
+            this.GridColumn80.Caption = "Nett";
+            this.GridColumn80.DisplayFormat.FormatString = "n2";
+            this.GridColumn80.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.GridColumn80.FieldName = "mNettAmount";
+            this.GridColumn80.Name = "GridColumn80";
+            this.GridColumn80.OptionsColumn.AllowEdit = false;
+            this.GridColumn80.OptionsFilter.AllowFilter = false;
+            this.GridColumn80.Visible = true;
+            this.GridColumn80.VisibleIndex = 3;
+            this.GridColumn80.Width = 157;
+            // 
+            // GridColumn81
+            // 
+            this.GridColumn81.Caption = "GST";
+            this.GridColumn81.DisplayFormat.FormatString = "n2";
+            this.GridColumn81.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.GridColumn81.FieldName = "mGSTAmount";
+            this.GridColumn81.Name = "GridColumn81";
+            this.GridColumn81.OptionsColumn.AllowEdit = false;
+            this.GridColumn81.OptionsFilter.AllowFilter = false;
+            this.GridColumn81.Visible = true;
+            this.GridColumn81.VisibleIndex = 4;
+            this.GridColumn81.Width = 157;
+            // 
+            // GridColumn82
+            // 
+            this.GridColumn82.Caption = "Total";
+            this.GridColumn82.DisplayFormat.FormatString = "n2";
+            this.GridColumn82.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.GridColumn82.FieldName = "mTotalAmount";
+            this.GridColumn82.Name = "GridColumn82";
+            this.GridColumn82.OptionsColumn.AllowEdit = false;
+            this.GridColumn82.OptionsFilter.AllowFilter = false;
+            this.GridColumn82.Visible = true;
+            this.GridColumn82.VisibleIndex = 5;
+            this.GridColumn82.Width = 157;
+            // 
+            // GridColumn83
+            // 
+            this.GridColumn83.Caption = "O/S Amount";
+            this.GridColumn83.DisplayFormat.FormatString = "n2";
+            this.GridColumn83.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.GridColumn83.FieldName = "mOutstandingAmount";
+            this.GridColumn83.Name = "GridColumn83";
+            this.GridColumn83.OptionsColumn.AllowEdit = false;
+            this.GridColumn83.OptionsFilter.AllowFilter = false;
+            this.GridColumn83.Visible = true;
+            this.GridColumn83.VisibleIndex = 7;
+            this.GridColumn83.Width = 231;
+            // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "IHP";
+            this.gridColumn1.FieldName = "NextInstalmentAmt";
+            this.gridColumn1.Name = "gridColumn1";
+            this.gridColumn1.OptionsColumn.AllowEdit = false;
+            this.gridColumn1.OptionsFilter.AllowFilter = false;
+            this.gridColumn1.Visible = true;
+            this.gridColumn1.VisibleIndex = 8;
+            this.gridColumn1.Width = 127;
+            // 
+            // GridColumn99
+            // 
+            this.GridColumn99.Caption = "Salesperson";
+            this.GridColumn99.FieldName = "SalesPersonName";
+            this.GridColumn99.Name = "GridColumn99";
+            this.GridColumn99.OptionsColumn.AllowEdit = false;
+            this.GridColumn99.OptionsFilter.AllowFilter = false;
+            this.GridColumn99.Visible = true;
+            this.GridColumn99.VisibleIndex = 9;
+            this.GridColumn99.Width = 137;
+            // 
+            // GridColumn100
+            // 
+            this.GridColumn100.Caption = "Void Flag";
+            this.GridColumn100.FieldName = "fVoid";
+            this.GridColumn100.Name = "GridColumn100";
+            this.GridColumn100.OptionsColumn.AllowEdit = false;
+            this.GridColumn100.OptionsFilter.AllowFilter = false;
+            this.GridColumn100.Visible = true;
+            this.GridColumn100.VisibleIndex = 10;
+            this.GridColumn100.Width = 110;
+            // 
+            // gridColumn265
+            // 
+            this.gridColumn265.Caption = "Total Amount";
+            this.gridColumn265.DisplayFormat.FormatString = "n2";
+            this.gridColumn265.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+            this.gridColumn265.FieldName = "mTotalAmount";
+            this.gridColumn265.Name = "gridColumn265";
+            this.gridColumn265.OptionsColumn.AllowEdit = false;
+            this.gridColumn265.OptionsFilter.AllowFilter = false;
+            this.gridColumn265.Visible = true;
+            this.gridColumn265.VisibleIndex = 6;
+            this.gridColumn265.Width = 181;
+            // 
+            // panelControl3
+            // 
+            this.panelControl3.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.panelControl3.Controls.Add(this.simpleButtonCancel);
+            this.panelControl3.Controls.Add(this.simpleButtonOK);
+            this.panelControl3.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panelControl3.Location = new System.Drawing.Point(0, 356);
+            this.panelControl3.Name = "panelControl3";
+            this.panelControl3.Size = new System.Drawing.Size(888, 38);
+            this.panelControl3.TabIndex = 2;
+            // 
+            // simpleButtonCancel
+            // 
+            this.simpleButtonCancel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.simpleButtonCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.simpleButtonCancel.Location = new System.Drawing.Point(802, 6);
+            this.simpleButtonCancel.Name = "simpleButtonCancel";
+            this.simpleButtonCancel.Size = new System.Drawing.Size(75, 23);
+            this.simpleButtonCancel.TabIndex = 14;
+            this.simpleButtonCancel.Text = "Cancel";
+            // 
+            // simpleButtonOK
+            // 
+            this.simpleButtonOK.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.simpleButtonOK.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.simpleButtonOK.Location = new System.Drawing.Point(716, 6);
+            this.simpleButtonOK.Name = "simpleButtonOK";
+            this.simpleButtonOK.Size = new System.Drawing.Size(75, 23);
+            this.simpleButtonOK.TabIndex = 13;
+            this.simpleButtonOK.Text = "OK";
+            this.simpleButtonOK.Click += new System.EventHandler(this.simpleButtonOK_Click);
+            // 
+            // _mainConnection
+            // 
+            this._mainConnection.FireInfoMessageEventOnUserErrors = false;
+            // 
+            // FormPayOutstanding
+            // 
+            this.AcceptButton = this.simpleButtonOK;
+            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+            this.CancelButton = this.simpleButtonCancel;
+            this.ClientSize = new System.Drawing.Size(888, 394);
+            this.Controls.Add(this.panelControl2);
+            this.Controls.Add(this.panelControl3);
+            this.Controls.Add(this.panelControl1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FormPayOutstanding";
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Pay Outstanding Receipt";
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
+            this.panelControl1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
+            this.panelControl2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.GridControl11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GridView12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl3)).EndInit();
+            this.panelControl3.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+		}
+		#endregion
+
+		private void simpleButtonOK_Click(object sender, System.EventArgs e)
+		{
+			decimal paymentAmt = 0;
+			
+			DataRow r = GridView12.GetDataRow(GridView12.FocusedRowHandle);
+
+			if (r != null)
+			{
+				if (myPOS.ReceiptItemsTable.Rows.Count > 0)
+				{
+					MessageBox.Show(this, "Only one outstanding receipt is allow to pay.");
+					this.DialogResult = DialogResult.None;
+					return;
+				}
+
+				paymentAmt = ACMS.Convert.ToDecimal(r["mOutstandingAmount"]);
+
+				
+				SqlCommand	cmdToExecute = new SqlCommand();
+				cmdToExecute.CommandText = "dbo.[dw_tblreceiptEntry]";
+				cmdToExecute.CommandType = CommandType.StoredProcedure;
+				DataTable toReturn = new DataTable();
+				SqlDataAdapter adapter = new SqlDataAdapter(cmdToExecute);
+
+				// Use base class' connection object
+				cmdToExecute.Connection = _mainConnection;
+
+				_mainConnectionIsCreatedLocal=true;
+
+				try
+				{
+					cmdToExecute.Parameters.Add(new SqlParameter("@ReceiptNo", SqlDbType.VarChar, 20, ParameterDirection.Input, false, 0, 0, "", DataRowVersion.Proposed, r["strParentReceiptNo"]));
+					cmdToExecute.Parameters.Add(new SqlParameter("@iErrorCode", SqlDbType.Int, 4, ParameterDirection.Output, true, 10, 0, "", DataRowVersion.Proposed, _errorCode));
+
+					if(_mainConnectionIsCreatedLocal)
+					{
+						// Open connection.
+						_mainConnection.Open();
+					}
+					else
+					{
+						if(_mainConnectionProvider.IsTransactionPending)
+						{
+							cmdToExecute.Transaction = _mainConnectionProvider.CurrentTransaction;
+						}
+					}
+
+					// Execute query.
+					adapter.Fill(toReturn);
+					_errorCode = (SqlInt32)cmdToExecute.Parameters["@iErrorCode"].Value;
+
+					if(_errorCode != (int)LLBLError.AllOk)
+					{
+						// Throw error.
+						throw new Exception("Stored Procedure 'dw_tblreceiptEntry' reported the ErrorCode: " + _errorCode);
+					}
+
+					if(toReturn.Rows.Count > 0)
+					{
+						string a = toReturn.Rows[0][0].ToString();
+						string d = toReturn.Rows[0]["strReferenceNo"].ToString();
+						if (d != "")
+						{
+							if (r["nTherapistID"].ToString() != "")
+							myPOS.NTherapistID = ACMS.Convert.ToInt32(r["nTherapistID"]);	
+							myPOS.NSalespersonID = ACMS.Convert.ToInt32(r["nSalesPersonID"]);			
+							myPOS.NewReceiptEntry(r["strReceiptNo"].ToString(), -1, 
+								string.Format("Pay O/S Amt For Receipt : {0}", r["strReceiptNo"].ToString()),
+								1, paymentAmt,d);
+						}
+						}
+						else
+						{
+						if (r["nTherapistID"].ToString() != "")
+							myPOS.NTherapistID = ACMS.Convert.ToInt32(r["nTherapistID"]);							
+							myPOS.NSalespersonID = ACMS.Convert.ToInt32(r["nSalesPersonID"]);			
+							myPOS.NewReceiptEntry(r["strReceiptNo"].ToString(), -1, 
+								string.Format("Pay O/S Amt For Receipt : {0}", r["strReceiptNo"].ToString()),
+								1, paymentAmt, "Category ID : " + r["nCategoryID"].ToString()   + " -- " + 
+								r["CategoryDescription"].ToString());
+
+						}
+					}		
+				
+				catch(Exception ex)
+				{
+					// some error occured. Bubble it to caller and encapsulate Exception object
+					throw new Exception("TblTerminalUser::Insert::Error occured.", ex);
+				}
+				finally
+				{
+					if(_mainConnectionIsCreatedLocal)
+					{
+						// Close connection.
+						_mainConnection.Close();
+					}
+					cmdToExecute.Dispose();
+				}			
+				
+			
+	
+			}
+			
+
+	
+
+		}
+		}

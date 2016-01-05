@@ -1,0 +1,1601 @@
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS2008\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS-Billagiual\ACMS2008\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\backup\ACMS-Spabooking\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS-backup b4 signature\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+D:\Ezytronic\Project\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\User\Desktop\Ezytronic\ACMS-27Oct\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Work\ACMS\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Work\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Work\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Work\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\Working\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\Working\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\Working\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\Working\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Work\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+D:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+D:\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+D:\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+D:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+D:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+D:\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+D:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+D:\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+D:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+D:\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+D:\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+D:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\Live_D20130704\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\For Derek 2013-08-20\Signature\ACMS - Merge\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130906\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20130916\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130917\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130920\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130923\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130924\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130925\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20130926\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20130926B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131001\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131008\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131017\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131030B\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131120\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131125\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+D:\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\ACMS_20131129\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\Working\ACMS\Signature\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2013-12-24\For Derek\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Local Version 2 new\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-02\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\For Derek\Latest 2014-01-07\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140305\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\IMPLEMENTATION READY\Backup 20140314 (live)\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\stevenkong\Desktop\Live\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Live\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Live\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Live\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Live\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Live\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Live\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Live\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Live\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Live\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Live\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Live\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Live\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Live\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\ShermanLau\Desktop\Zar\ACMS\Production\Live\ACMSLogic\obj\Debug\ACMSLogic.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMSLogic.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMSLogic.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\Acms.Core.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMSDAL.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\AesWinApp.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\MySql.Data.dll
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\Acms.Core.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMSDAL.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+E:\CSharpProject\ACMS\ACMSLogic\bin\Debug\AesWinApp.pdb
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.dll
+E:\CSharpProject\ACMS\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\TBBC Workspace (01072015)\Apps\Source codes\1.ACMS\ACMS_2015.09.21\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\ArthurPoh\Desktop\New folder (2)\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMSLogic.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMSLogic.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\Acms.Core.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMS.Utils.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMSDAL.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\AesWinApp.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\MySql.Data.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\Acms.Core.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMSDAL.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\ACMS.Utils.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\bin\Debug\AesWinApp.pdb
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Properties.Resources.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.Receipt.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Report.XtraReport1.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.Resource1.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.dll.licenses
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.dll
+C:\Users\ArthurPoh\Desktop\ACMS THIS ONLY\ACMS_live\ACMSLogic\obj\Debug\ACMSLogic.pdb

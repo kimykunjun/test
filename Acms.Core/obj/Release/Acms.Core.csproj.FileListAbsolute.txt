@@ -1,0 +1,6 @@
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\bin\Release\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\Acms.Core\obj\Release\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\bin\Release\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\Acms.Core\obj\Release\Acms.Core.dll

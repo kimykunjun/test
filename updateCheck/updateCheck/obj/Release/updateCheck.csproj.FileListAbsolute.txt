@@ -1,0 +1,8 @@
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\bin\Release\updateCheck.exe.config
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\bin\Release\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\bin\Release\updateCheck.pdb
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Release\updateCheck.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Release\updateCheck.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Release\updateCheck.exe
+C:\Users\StevenKong\Desktop\ACMS\updateCheck\updateCheck\obj\Release\updateCheck.pdb

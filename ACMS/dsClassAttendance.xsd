@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsClassAttendance" targetNamespace="http://tempuri.org/dsClassAttendance.xsd" xmlns:mstns="http://tempuri.org/dsClassAttendance.xsd" xmlns="http://tempuri.org/dsClassAttendance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ACMSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ACMSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ACMS.Properties.Settings.GlobalReference.Default.ACMSConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblClassInstanceTableAdapter" GeneratorDataComponentClassName="tblClassInstanceTableAdapter" Name="tblClassInstance" UserDataComponentName="tblClassInstanceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ACMSConnectionString (Settings)" DbObjectName="ACMS.dbo.tblClassInstance" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM [dbo].[tblClassInstance] WHERE (([nClassInstanceID] = @Original_nClassInstanceID) AND ((@IsNull_dtDate = 1 AND [dtDate] IS NULL) OR ([dtDate] = @Original_dtDate)) AND ((@IsNull_dtStartTime = 1 AND [dtStartTime] IS NULL) OR ([dtStartTime] = @Original_dtStartTime)) AND ((@IsNull_dtEndTime = 1 AND [dtEndTime] IS NULL) OR ([dtEndTime] = @Original_dtEndTime)) AND ([strClassCode] = @Original_strClassCode) AND ([strBranchCode] = @Original_strBranchCode) AND ((@IsNull_nHallNo = 1 AND [nHallNo] IS NULL) OR ([nHallNo] = @Original_nHallNo)) AND ((@IsNull_fFree = 1 AND [fFree] IS NULL) OR ([fFree] = @Original_fFree)) AND ((@IsNull_fPeak = 1 AND [fPeak] IS NULL) OR ([fPeak] = @Original_fPeak)) AND ((@IsNull_fAllowStudentOnPeak = 1 AND [fAllowStudentOnPeak] IS NULL) OR ([fAllowStudentOnPeak] = @Original_fAllowStudentOnPeak)) AND ((@IsNull_fReservation = 1 AND [fReservation] IS NULL) OR ([fReservation] = @Original_fReservation)) AND ((@IsNull_nMaxNo = 1 AND [nMaxNo] IS NULL) OR ([nMaxNo] = @Original_nMaxNo)) AND ((@IsNull_fAllowUOBBooking = 1 AND [fAllowUOBBooking] IS NULL) OR ([fAllowUOBBooking] = @Original_fAllowUOBBooking)) AND ([nCommissionTypeID] = @Original_nCommissionTypeID) AND ([nPermanentInstructorID] = @Original_nPermanentInstructorID) AND ((@IsNull_nReplacementInstructorID = 1 AND [nReplacementInstructorID] IS NULL) OR ([nReplacementInstructorID] = @Original_nReplacementInstructorID)) AND ((@IsNull_nReplacementIssueID = 1 AND [nReplacementIssueID] IS NULL) OR ([nReplacementIssueID] = @Original_nReplacementIssueID)) AND ((@IsNull_nReplacementVerifyID = 1 AND [nReplacementVerifyID] IS NULL) OR ([nReplacementVerifyID] = @Original_nReplacementVerifyID)) AND ((@IsNull_dtReplacementIssueDate = 1 AND [dtReplacementIssueDate] IS NULL) OR ([dtReplacementIssueDate] = @Original_dtReplacementIssueDate)) AND ((@IsNull_dtReplacementVerifyDate = 1 AND [dtReplacementVerifyDate] IS NULL) OR ([dtReplacementVerifyDate] = @Original_dtReplacementVerifyDate)) AND ((@IsNull_nActualInstructorID = 1 AND [nActualInstructorID] IS NULL) OR ([nActualInstructorID] = @Original_nActualInstructorID)) AND ((@IsNull_dtInstructorLogin = 1 AND [dtInstructorLogin] IS NULL) OR ([dtInstructorLogin] = @Original_dtInstructorLogin)) AND ((@IsNull_nStandinInstructorID = 1 AND [nStandinInstructorID] IS NULL) OR ([nStandinInstructorID] = @Original_nStandinInstructorID)) AND ((@IsNull_mStandinInstructorFees = 1 AND [mStandinInstructorFees] IS NULL) OR ([mStandinInstructorFees] = @Original_mStandinInstructorFees)) AND ((@IsNull_nVerifyID = 1 AND [nVerifyID] IS NULL) OR ([nVerifyID] = @Original_nVerifyID)) AND ((@IsNull_fCancelled = 1 AND [fCancelled] IS NULL) OR ([fCancelled] = @Original_fCancelled)) AND ((@IsNull_strRemarks = 1 AND [strRemarks] IS NULL) OR ([strRemarks] = @Original_strRemarks)) AND ((@IsNull_mInstructorFees = 1 AND [mInstructorFees] IS NULL) OR ([mInstructorFees] = @Original_mInstructorFees)) AND ((@IsNull_fTraineeClass = 1 AND [fTraineeClass] IS NULL) OR ([fTraineeClass] = @Original_fTraineeClass)) AND ((@IsNull_mInstructorDeduction = 1 AND [mInstructorDeduction] IS NULL) OR ([mInstructorDeduction] = @Original_mInstructorDeduction)) AND ((@IsNull_nTempID = 1 AND [nTempID] IS NULL) OR ([nTempID] = @Original_nTempID)) AND ((@IsNull_nClassScheduleID = 1 AND [nClassScheduleID] IS NULL) OR ([nClassScheduleID] = @Original_nClassScheduleID)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nClassInstanceID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassInstanceID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtStartTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtStartTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtEndTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtEndTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strClassCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strClassCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fFree" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fFree" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fPeak" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fAllowStudentOnPeak" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fAllowStudentOnPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fReservation" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fReservation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fAllowUOBBooking" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fAllowUOBBooking" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nCommissionTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nCommissionTypeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nPermanentInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nPermanentInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtReplacementIssueDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtReplacementIssueDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtReplacementVerifyDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtReplacementVerifyDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtInstructorLogin" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtInstructorLogin" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mStandinInstructorFees" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mStandinInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fCancelled" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fCancelled" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strRemarks" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strRemarks" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mInstructorFees" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fTraineeClass" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fTraineeClass" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mInstructorDeduction" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mInstructorDeduction" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO [dbo].[tblClassInstance] ([dtDate], [dtStartTime], [dtEndTime], [strClassCode], [strBranchCode], [nHallNo], [fFree], [fPeak], [fAllowStudentOnPeak], [fReservation], [nMaxNo], [fAllowUOBBooking], [nCommissionTypeID], [nPermanentInstructorID], [nReplacementInstructorID], [nReplacementIssueID], [nReplacementVerifyID], [dtReplacementIssueDate], [dtReplacementVerifyDate], [nActualInstructorID], [dtInstructorLogin], [nStandinInstructorID], [mStandinInstructorFees], [nVerifyID], [fCancelled], [strRemarks], [mInstructorFees], [fTraineeClass], [mInstructorDeduction], [nTempID], [nClassScheduleID]) VALUES (@dtDate, @dtStartTime, @dtEndTime, @strClassCode, @strBranchCode, @nHallNo, @fFree, @fPeak, @fAllowStudentOnPeak, @fReservation, @nMaxNo, @fAllowUOBBooking, @nCommissionTypeID, @nPermanentInstructorID, @nReplacementInstructorID, @nReplacementIssueID, @nReplacementVerifyID, @dtReplacementIssueDate, @dtReplacementVerifyDate, @nActualInstructorID, @dtInstructorLogin, @nStandinInstructorID, @mStandinInstructorFees, @nVerifyID, @fCancelled, @strRemarks, @mInstructorFees, @fTraineeClass, @mInstructorDeduction, @nTempID, @nClassScheduleID);
+SELECT nClassInstanceID, dtDate, dtStartTime, dtEndTime, strClassCode, strBranchCode, nHallNo, fFree, fPeak, fAllowStudentOnPeak, fReservation, nMaxNo, fAllowUOBBooking, nCommissionTypeID, nPermanentInstructorID, nReplacementInstructorID, nReplacementIssueID, nReplacementVerifyID, dtReplacementIssueDate, dtReplacementVerifyDate, nActualInstructorID, dtInstructorLogin, nStandinInstructorID, mStandinInstructorFees, nVerifyID, fCancelled, strRemarks, mInstructorFees, fTraineeClass, mInstructorDeduction, nTempID, nClassScheduleID FROM tblClassInstance WHERE (nClassInstanceID = SCOPE_IDENTITY())</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtStartTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtEndTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strClassCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strClassCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fFree" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fAllowStudentOnPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fReservation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fAllowUOBBooking" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nCommissionTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nCommissionTypeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nPermanentInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nPermanentInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtReplacementIssueDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtReplacementVerifyDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtInstructorLogin" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mStandinInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fCancelled" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strRemarks" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fTraineeClass" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mInstructorDeduction" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT nClassInstanceID, dtDate, dtStartTime, dtEndTime, strClassCode, strBranchCode, nHallNo, fFree, fPeak, fAllowStudentOnPeak, fReservation, nMaxNo, fAllowUOBBooking, nCommissionTypeID, nPermanentInstructorID, nReplacementInstructorID, nReplacementIssueID, nReplacementVerifyID, dtReplacementIssueDate, dtReplacementVerifyDate, nActualInstructorID, dtInstructorLogin, nStandinInstructorID, mStandinInstructorFees, nVerifyID, fCancelled, strRemarks, mInstructorFees, fTraineeClass, mInstructorDeduction, nTempID, nClassScheduleID FROM dbo.tblClassInstance
+where strClassCode = @strClassCode1 and dtdate = @dtdate1</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="strClassCode1" ColumnName="strClassCode" DataSourceName="ACMS.dbo.tblClassInstance" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@strClassCode1" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="strClassCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="dtdate1" ColumnName="dtDate" DataSourceName="ACMS.dbo.tblClassInstance" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@dtdate1" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="dtDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE [dbo].[tblClassInstance] SET [dtDate] = @dtDate, [dtStartTime] = @dtStartTime, [dtEndTime] = @dtEndTime, [strClassCode] = @strClassCode, [strBranchCode] = @strBranchCode, [nHallNo] = @nHallNo, [fFree] = @fFree, [fPeak] = @fPeak, [fAllowStudentOnPeak] = @fAllowStudentOnPeak, [fReservation] = @fReservation, [nMaxNo] = @nMaxNo, [fAllowUOBBooking] = @fAllowUOBBooking, [nCommissionTypeID] = @nCommissionTypeID, [nPermanentInstructorID] = @nPermanentInstructorID, [nReplacementInstructorID] = @nReplacementInstructorID, [nReplacementIssueID] = @nReplacementIssueID, [nReplacementVerifyID] = @nReplacementVerifyID, [dtReplacementIssueDate] = @dtReplacementIssueDate, [dtReplacementVerifyDate] = @dtReplacementVerifyDate, [nActualInstructorID] = @nActualInstructorID, [dtInstructorLogin] = @dtInstructorLogin, [nStandinInstructorID] = @nStandinInstructorID, [mStandinInstructorFees] = @mStandinInstructorFees, [nVerifyID] = @nVerifyID, [fCancelled] = @fCancelled, [strRemarks] = @strRemarks, [mInstructorFees] = @mInstructorFees, [fTraineeClass] = @fTraineeClass, [mInstructorDeduction] = @mInstructorDeduction, [nTempID] = @nTempID, [nClassScheduleID] = @nClassScheduleID WHERE (([nClassInstanceID] = @Original_nClassInstanceID) AND ((@IsNull_dtDate = 1 AND [dtDate] IS NULL) OR ([dtDate] = @Original_dtDate)) AND ((@IsNull_dtStartTime = 1 AND [dtStartTime] IS NULL) OR ([dtStartTime] = @Original_dtStartTime)) AND ((@IsNull_dtEndTime = 1 AND [dtEndTime] IS NULL) OR ([dtEndTime] = @Original_dtEndTime)) AND ([strClassCode] = @Original_strClassCode) AND ([strBranchCode] = @Original_strBranchCode) AND ((@IsNull_nHallNo = 1 AND [nHallNo] IS NULL) OR ([nHallNo] = @Original_nHallNo)) AND ((@IsNull_fFree = 1 AND [fFree] IS NULL) OR ([fFree] = @Original_fFree)) AND ((@IsNull_fPeak = 1 AND [fPeak] IS NULL) OR ([fPeak] = @Original_fPeak)) AND ((@IsNull_fAllowStudentOnPeak = 1 AND [fAllowStudentOnPeak] IS NULL) OR ([fAllowStudentOnPeak] = @Original_fAllowStudentOnPeak)) AND ((@IsNull_fReservation = 1 AND [fReservation] IS NULL) OR ([fReservation] = @Original_fReservation)) AND ((@IsNull_nMaxNo = 1 AND [nMaxNo] IS NULL) OR ([nMaxNo] = @Original_nMaxNo)) AND ((@IsNull_fAllowUOBBooking = 1 AND [fAllowUOBBooking] IS NULL) OR ([fAllowUOBBooking] = @Original_fAllowUOBBooking)) AND ([nCommissionTypeID] = @Original_nCommissionTypeID) AND ([nPermanentInstructorID] = @Original_nPermanentInstructorID) AND ((@IsNull_nReplacementInstructorID = 1 AND [nReplacementInstructorID] IS NULL) OR ([nReplacementInstructorID] = @Original_nReplacementInstructorID)) AND ((@IsNull_nReplacementIssueID = 1 AND [nReplacementIssueID] IS NULL) OR ([nReplacementIssueID] = @Original_nReplacementIssueID)) AND ((@IsNull_nReplacementVerifyID = 1 AND [nReplacementVerifyID] IS NULL) OR ([nReplacementVerifyID] = @Original_nReplacementVerifyID)) AND ((@IsNull_dtReplacementIssueDate = 1 AND [dtReplacementIssueDate] IS NULL) OR ([dtReplacementIssueDate] = @Original_dtReplacementIssueDate)) AND ((@IsNull_dtReplacementVerifyDate = 1 AND [dtReplacementVerifyDate] IS NULL) OR ([dtReplacementVerifyDate] = @Original_dtReplacementVerifyDate)) AND ((@IsNull_nActualInstructorID = 1 AND [nActualInstructorID] IS NULL) OR ([nActualInstructorID] = @Original_nActualInstructorID)) AND ((@IsNull_dtInstructorLogin = 1 AND [dtInstructorLogin] IS NULL) OR ([dtInstructorLogin] = @Original_dtInstructorLogin)) AND ((@IsNull_nStandinInstructorID = 1 AND [nStandinInstructorID] IS NULL) OR ([nStandinInstructorID] = @Original_nStandinInstructorID)) AND ((@IsNull_mStandinInstructorFees = 1 AND [mStandinInstructorFees] IS NULL) OR ([mStandinInstructorFees] = @Original_mStandinInstructorFees)) AND ((@IsNull_nVerifyID = 1 AND [nVerifyID] IS NULL) OR ([nVerifyID] = @Original_nVerifyID)) AND ((@IsNull_fCancelled = 1 AND [fCancelled] IS NULL) OR ([fCancelled] = @Original_fCancelled)) AND ((@IsNull_strRemarks = 1 AND [strRemarks] IS NULL) OR ([strRemarks] = @Original_strRemarks)) AND ((@IsNull_mInstructorFees = 1 AND [mInstructorFees] IS NULL) OR ([mInstructorFees] = @Original_mInstructorFees)) AND ((@IsNull_fTraineeClass = 1 AND [fTraineeClass] IS NULL) OR ([fTraineeClass] = @Original_fTraineeClass)) AND ((@IsNull_mInstructorDeduction = 1 AND [mInstructorDeduction] IS NULL) OR ([mInstructorDeduction] = @Original_mInstructorDeduction)) AND ((@IsNull_nTempID = 1 AND [nTempID] IS NULL) OR ([nTempID] = @Original_nTempID)) AND ((@IsNull_nClassScheduleID = 1 AND [nClassScheduleID] IS NULL) OR ([nClassScheduleID] = @Original_nClassScheduleID)));
+SELECT nClassInstanceID, dtDate, dtStartTime, dtEndTime, strClassCode, strBranchCode, nHallNo, fFree, fPeak, fAllowStudentOnPeak, fReservation, nMaxNo, fAllowUOBBooking, nCommissionTypeID, nPermanentInstructorID, nReplacementInstructorID, nReplacementIssueID, nReplacementVerifyID, dtReplacementIssueDate, dtReplacementVerifyDate, nActualInstructorID, dtInstructorLogin, nStandinInstructorID, mStandinInstructorFees, nVerifyID, fCancelled, strRemarks, mInstructorFees, fTraineeClass, mInstructorDeduction, nTempID, nClassScheduleID FROM tblClassInstance WHERE (nClassInstanceID = @nClassInstanceID)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtStartTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtEndTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strClassCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strClassCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fFree" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fAllowStudentOnPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fReservation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fAllowUOBBooking" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nCommissionTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nCommissionTypeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nPermanentInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nPermanentInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtReplacementIssueDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtReplacementVerifyDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtInstructorLogin" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mStandinInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fCancelled" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strRemarks" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fTraineeClass" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mInstructorDeduction" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nClassInstanceID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassInstanceID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtStartTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtStartTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtStartTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtEndTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtEndTime" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEndTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strClassCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strClassCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nHallNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nHallNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fFree" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fFree" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fFree" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fPeak" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPeak" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fAllowStudentOnPeak" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fAllowStudentOnPeak" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowStudentOnPeak" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fReservation" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fReservation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fReservation" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nMaxNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nMaxNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fAllowUOBBooking" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fAllowUOBBooking" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fAllowUOBBooking" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nCommissionTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nCommissionTypeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nPermanentInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nPermanentInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementIssueID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementIssueID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nReplacementVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nReplacementVerifyID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtReplacementIssueDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtReplacementIssueDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementIssueDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtReplacementVerifyDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtReplacementVerifyDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtReplacementVerifyDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nActualInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nActualInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtInstructorLogin" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtInstructorLogin" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtInstructorLogin" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nStandinInstructorID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStandinInstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mStandinInstructorFees" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mStandinInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mStandinInstructorFees" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nVerifyID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nVerifyID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fCancelled" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fCancelled" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fCancelled" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strRemarks" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strRemarks" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strRemarks" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mInstructorFees" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mInstructorFees" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorFees" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fTraineeClass" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fTraineeClass" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTraineeClass" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mInstructorDeduction" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mInstructorDeduction" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mInstructorDeduction" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nTempID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nTempID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nClassScheduleID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nClassScheduleID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="nClassInstanceID" ColumnName="nClassInstanceID" DataSourceName="ACMS.dbo.tblClassInstance" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@nClassInstanceID" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="nClassInstanceID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nClassInstanceID" DataSetColumn="nClassInstanceID" />
+              <Mapping SourceColumn="dtDate" DataSetColumn="dtDate" />
+              <Mapping SourceColumn="dtStartTime" DataSetColumn="dtStartTime" />
+              <Mapping SourceColumn="dtEndTime" DataSetColumn="dtEndTime" />
+              <Mapping SourceColumn="strClassCode" DataSetColumn="strClassCode" />
+              <Mapping SourceColumn="strBranchCode" DataSetColumn="strBranchCode" />
+              <Mapping SourceColumn="nHallNo" DataSetColumn="nHallNo" />
+              <Mapping SourceColumn="fFree" DataSetColumn="fFree" />
+              <Mapping SourceColumn="fPeak" DataSetColumn="fPeak" />
+              <Mapping SourceColumn="fAllowStudentOnPeak" DataSetColumn="fAllowStudentOnPeak" />
+              <Mapping SourceColumn="fReservation" DataSetColumn="fReservation" />
+              <Mapping SourceColumn="nMaxNo" DataSetColumn="nMaxNo" />
+              <Mapping SourceColumn="fAllowUOBBooking" DataSetColumn="fAllowUOBBooking" />
+              <Mapping SourceColumn="nCommissionTypeID" DataSetColumn="nCommissionTypeID" />
+              <Mapping SourceColumn="nPermanentInstructorID" DataSetColumn="nPermanentInstructorID" />
+              <Mapping SourceColumn="nReplacementInstructorID" DataSetColumn="nReplacementInstructorID" />
+              <Mapping SourceColumn="nReplacementIssueID" DataSetColumn="nReplacementIssueID" />
+              <Mapping SourceColumn="nReplacementVerifyID" DataSetColumn="nReplacementVerifyID" />
+              <Mapping SourceColumn="dtReplacementIssueDate" DataSetColumn="dtReplacementIssueDate" />
+              <Mapping SourceColumn="dtReplacementVerifyDate" DataSetColumn="dtReplacementVerifyDate" />
+              <Mapping SourceColumn="nActualInstructorID" DataSetColumn="nActualInstructorID" />
+              <Mapping SourceColumn="dtInstructorLogin" DataSetColumn="dtInstructorLogin" />
+              <Mapping SourceColumn="nStandinInstructorID" DataSetColumn="nStandinInstructorID" />
+              <Mapping SourceColumn="mStandinInstructorFees" DataSetColumn="mStandinInstructorFees" />
+              <Mapping SourceColumn="nVerifyID" DataSetColumn="nVerifyID" />
+              <Mapping SourceColumn="fCancelled" DataSetColumn="fCancelled" />
+              <Mapping SourceColumn="strRemarks" DataSetColumn="strRemarks" />
+              <Mapping SourceColumn="mInstructorFees" DataSetColumn="mInstructorFees" />
+              <Mapping SourceColumn="fTraineeClass" DataSetColumn="fTraineeClass" />
+              <Mapping SourceColumn="mInstructorDeduction" DataSetColumn="mInstructorDeduction" />
+              <Mapping SourceColumn="nTempID" DataSetColumn="nTempID" />
+              <Mapping SourceColumn="nClassScheduleID" DataSetColumn="nClassScheduleID" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsClassAttendance" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsClassAttendance" msprop:Generator_DataSetName="dsClassAttendance">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblClassInstance" msprop:Generator_UserTableName="tblClassInstance" msprop:Generator_RowDeletedName="tblClassInstanceRowDeleted" msprop:Generator_RowChangedName="tblClassInstanceRowChanged" msprop:Generator_RowClassName="tblClassInstanceRow" msprop:Generator_RowChangingName="tblClassInstanceRowChanging" msprop:Generator_RowEvArgName="tblClassInstanceRowChangeEvent" msprop:Generator_RowEvHandlerName="tblClassInstanceRowChangeEventHandler" msprop:Generator_TableClassName="tblClassInstanceDataTable" msprop:Generator_TableVarName="tabletblClassInstance" msprop:Generator_RowDeletingName="tblClassInstanceRowDeleting" msprop:Generator_TablePropName="tblClassInstance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nClassInstanceID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="nClassInstanceID" msprop:Generator_ColumnPropNameInRow="nClassInstanceID" msprop:Generator_ColumnVarNameInTable="columnnClassInstanceID" msprop:Generator_ColumnPropNameInTable="nClassInstanceIDColumn" type="xs:int" />
+              <xs:element name="dtDate" msprop:Generator_UserColumnName="dtDate" msprop:Generator_ColumnPropNameInRow="dtDate" msprop:Generator_ColumnVarNameInTable="columndtDate" msprop:Generator_ColumnPropNameInTable="dtDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dtStartTime" msprop:Generator_UserColumnName="dtStartTime" msprop:Generator_ColumnPropNameInRow="dtStartTime" msprop:Generator_ColumnVarNameInTable="columndtStartTime" msprop:Generator_ColumnPropNameInTable="dtStartTimeColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dtEndTime" msprop:Generator_UserColumnName="dtEndTime" msprop:Generator_ColumnPropNameInRow="dtEndTime" msprop:Generator_ColumnVarNameInTable="columndtEndTime" msprop:Generator_ColumnPropNameInTable="dtEndTimeColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="strClassCode" msprop:Generator_UserColumnName="strClassCode" msprop:Generator_ColumnPropNameInRow="strClassCode" msprop:Generator_ColumnVarNameInTable="columnstrClassCode" msprop:Generator_ColumnPropNameInTable="strClassCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="strBranchCode" msprop:Generator_UserColumnName="strBranchCode" msprop:Generator_ColumnPropNameInRow="strBranchCode" msprop:Generator_ColumnVarNameInTable="columnstrBranchCode" msprop:Generator_ColumnPropNameInTable="strBranchCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nHallNo" msprop:Generator_UserColumnName="nHallNo" msprop:Generator_ColumnPropNameInRow="nHallNo" msprop:Generator_ColumnVarNameInTable="columnnHallNo" msprop:Generator_ColumnPropNameInTable="nHallNoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="fFree" msprop:Generator_UserColumnName="fFree" msprop:Generator_ColumnPropNameInRow="fFree" msprop:Generator_ColumnVarNameInTable="columnfFree" msprop:Generator_ColumnPropNameInTable="fFreeColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fPeak" msprop:Generator_UserColumnName="fPeak" msprop:Generator_ColumnPropNameInRow="fPeak" msprop:Generator_ColumnVarNameInTable="columnfPeak" msprop:Generator_ColumnPropNameInTable="fPeakColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fAllowStudentOnPeak" msprop:Generator_UserColumnName="fAllowStudentOnPeak" msprop:Generator_ColumnPropNameInRow="fAllowStudentOnPeak" msprop:Generator_ColumnVarNameInTable="columnfAllowStudentOnPeak" msprop:Generator_ColumnPropNameInTable="fAllowStudentOnPeakColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fReservation" msprop:Generator_UserColumnName="fReservation" msprop:Generator_ColumnPropNameInRow="fReservation" msprop:Generator_ColumnVarNameInTable="columnfReservation" msprop:Generator_ColumnPropNameInTable="fReservationColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nMaxNo" msprop:Generator_UserColumnName="nMaxNo" msprop:Generator_ColumnPropNameInRow="nMaxNo" msprop:Generator_ColumnVarNameInTable="columnnMaxNo" msprop:Generator_ColumnPropNameInTable="nMaxNoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="fAllowUOBBooking" msprop:Generator_UserColumnName="fAllowUOBBooking" msprop:Generator_ColumnPropNameInRow="fAllowUOBBooking" msprop:Generator_ColumnVarNameInTable="columnfAllowUOBBooking" msprop:Generator_ColumnPropNameInTable="fAllowUOBBookingColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nCommissionTypeID" msprop:Generator_UserColumnName="nCommissionTypeID" msprop:Generator_ColumnPropNameInRow="nCommissionTypeID" msprop:Generator_ColumnVarNameInTable="columnnCommissionTypeID" msprop:Generator_ColumnPropNameInTable="nCommissionTypeIDColumn" type="xs:int" />
+              <xs:element name="nPermanentInstructorID" msprop:Generator_UserColumnName="nPermanentInstructorID" msprop:Generator_ColumnPropNameInRow="nPermanentInstructorID" msprop:Generator_ColumnVarNameInTable="columnnPermanentInstructorID" msprop:Generator_ColumnPropNameInTable="nPermanentInstructorIDColumn" type="xs:int" />
+              <xs:element name="nReplacementInstructorID" msprop:Generator_UserColumnName="nReplacementInstructorID" msprop:Generator_ColumnPropNameInRow="nReplacementInstructorID" msprop:Generator_ColumnVarNameInTable="columnnReplacementInstructorID" msprop:Generator_ColumnPropNameInTable="nReplacementInstructorIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="nReplacementIssueID" msprop:Generator_UserColumnName="nReplacementIssueID" msprop:Generator_ColumnPropNameInRow="nReplacementIssueID" msprop:Generator_ColumnVarNameInTable="columnnReplacementIssueID" msprop:Generator_ColumnPropNameInTable="nReplacementIssueIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="nReplacementVerifyID" msprop:Generator_UserColumnName="nReplacementVerifyID" msprop:Generator_ColumnPropNameInRow="nReplacementVerifyID" msprop:Generator_ColumnVarNameInTable="columnnReplacementVerifyID" msprop:Generator_ColumnPropNameInTable="nReplacementVerifyIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="dtReplacementIssueDate" msprop:Generator_UserColumnName="dtReplacementIssueDate" msprop:Generator_ColumnPropNameInRow="dtReplacementIssueDate" msprop:Generator_ColumnVarNameInTable="columndtReplacementIssueDate" msprop:Generator_ColumnPropNameInTable="dtReplacementIssueDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dtReplacementVerifyDate" msprop:Generator_UserColumnName="dtReplacementVerifyDate" msprop:Generator_ColumnPropNameInRow="dtReplacementVerifyDate" msprop:Generator_ColumnVarNameInTable="columndtReplacementVerifyDate" msprop:Generator_ColumnPropNameInTable="dtReplacementVerifyDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nActualInstructorID" msprop:Generator_UserColumnName="nActualInstructorID" msprop:Generator_ColumnPropNameInRow="nActualInstructorID" msprop:Generator_ColumnVarNameInTable="columnnActualInstructorID" msprop:Generator_ColumnPropNameInTable="nActualInstructorIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="dtInstructorLogin" msprop:Generator_UserColumnName="dtInstructorLogin" msprop:Generator_ColumnPropNameInRow="dtInstructorLogin" msprop:Generator_ColumnVarNameInTable="columndtInstructorLogin" msprop:Generator_ColumnPropNameInTable="dtInstructorLoginColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nStandinInstructorID" msprop:Generator_UserColumnName="nStandinInstructorID" msprop:Generator_ColumnPropNameInRow="nStandinInstructorID" msprop:Generator_ColumnVarNameInTable="columnnStandinInstructorID" msprop:Generator_ColumnPropNameInTable="nStandinInstructorIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="mStandinInstructorFees" msprop:Generator_UserColumnName="mStandinInstructorFees" msprop:Generator_ColumnPropNameInRow="mStandinInstructorFees" msprop:Generator_ColumnVarNameInTable="columnmStandinInstructorFees" msprop:Generator_ColumnPropNameInTable="mStandinInstructorFeesColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nVerifyID" msprop:Generator_UserColumnName="nVerifyID" msprop:Generator_ColumnPropNameInRow="nVerifyID" msprop:Generator_ColumnVarNameInTable="columnnVerifyID" msprop:Generator_ColumnPropNameInTable="nVerifyIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="fCancelled" msprop:Generator_UserColumnName="fCancelled" msprop:Generator_ColumnPropNameInRow="fCancelled" msprop:Generator_ColumnVarNameInTable="columnfCancelled" msprop:Generator_ColumnPropNameInTable="fCancelledColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="strRemarks" msprop:Generator_UserColumnName="strRemarks" msprop:Generator_ColumnPropNameInRow="strRemarks" msprop:Generator_ColumnVarNameInTable="columnstrRemarks" msprop:Generator_ColumnPropNameInTable="strRemarksColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mInstructorFees" msprop:Generator_UserColumnName="mInstructorFees" msprop:Generator_ColumnPropNameInRow="mInstructorFees" msprop:Generator_ColumnVarNameInTable="columnmInstructorFees" msprop:Generator_ColumnPropNameInTable="mInstructorFeesColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fTraineeClass" msprop:Generator_UserColumnName="fTraineeClass" msprop:Generator_ColumnPropNameInRow="fTraineeClass" msprop:Generator_ColumnVarNameInTable="columnfTraineeClass" msprop:Generator_ColumnPropNameInTable="fTraineeClassColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="mInstructorDeduction" msprop:Generator_UserColumnName="mInstructorDeduction" msprop:Generator_ColumnPropNameInRow="mInstructorDeduction" msprop:Generator_ColumnVarNameInTable="columnmInstructorDeduction" msprop:Generator_ColumnPropNameInTable="mInstructorDeductionColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nTempID" msprop:Generator_UserColumnName="nTempID" msprop:Generator_ColumnPropNameInRow="nTempID" msprop:Generator_ColumnVarNameInTable="columnnTempID" msprop:Generator_ColumnPropNameInTable="nTempIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="nClassScheduleID" msprop:Generator_UserColumnName="nClassScheduleID" msprop:Generator_ColumnPropNameInRow="nClassScheduleID" msprop:Generator_ColumnVarNameInTable="columnnClassScheduleID" msprop:Generator_ColumnPropNameInTable="nClassScheduleIDColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblClassInstance" />
+      <xs:field xpath="mstns:nClassInstanceID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,786 @@
+C:\ACMSComm\ACMS\bin\Debug\ACMS.exe.config
+C:\ACMSComm\ACMS\obj\Debug\ACMS.exe
+C:\ACMSComm\ACMS\obj\Debug\ACMS.pdb
+C:\ACMSComm\ACMS\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMSComm\ACMS\obj\Debug\ACMS.csproj.ResolveComReference.cache
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmCloseShift.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmDepositMoney.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmLockerMaintenance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmMemberCard.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmOpenShift.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmPaymentCode.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmRosterMain.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessProduct.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRIPLService.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRPTPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAProduct.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmTransferLocker.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.VerifyCloseShift.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmVerifyEmployee.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.LoginOpenShift.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptRoster.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptShiftSettlement.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormAssignReplacementInstructor.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormCancelClassAttendance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormCancelClassInstance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormChangeClass.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInClassAttendanceModule.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewNormalClassReservation.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.InstructorLogin.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.VerifyClassInstances.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormDeleteMemberCreditPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormTransferMemberCreditPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormUpdateMemberCreditPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewCreditPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormEditCustomerVoice.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewCustomerVoice.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewCVAction.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmBranch.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmClassSchedule.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSLogin.frmException.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmRoster.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinDetails.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinReply.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.Home.rptBulletin.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.InterBranchTransfer.frmNewInterBranchTransfer.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewRedemption.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInMembershipModule.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewMemberPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewMemberPackageExtension.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewPromotionMemberPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewServiceSessionPT.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewServiceSessionSPA_IPL.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormTransferMemberPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormUpdateClassAttendance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormUpdateMemberPackageExtension.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionPT.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionSPA_IPL.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmEditActivities.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewActivities.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmBlockMembershipID.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmDeleteMember.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmIntroduceFriend.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewMember.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmRequestTransfer.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmResetMembershipID.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmSearchMember.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ucMemberID.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.XtraReportMemberCard.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.OpenCarton.OpenCarton.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormChangesReceiptSalesPerson.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormSalesConvertion.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.frmMain.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.MyPrintControl.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptIBT.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptStockRequest.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionAdjustment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionSelection.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.SearchPromotion.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmDeleteSalonUse.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmNewSalonUse.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmBinNo.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByDescription.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByItemCode.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByStyle.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmStockSearch.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmNewStockRequest.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmProcessStockRequest.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmRejectStockRequest.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmSearchProduct.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmLogin.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmGIRO_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmIPPReceipt.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmIPP_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmIPP_Received.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmIPP_Send.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmIPP_Update.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmIPP_View.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmManager.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_Package.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmMD_PackageAdd.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_PackageGroup.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmMD_PackageGroupAdd.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmMD_SalesCommission.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmMemberCard.resources
+C:\ACMSComm\ACMS\obj\Debug\Acms.WinForm.AcmsManager.frmPackage_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchEmployee.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchMember.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmAppointment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmApprovedOvertime.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmLeave.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmOvertimeMain.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRoster.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterMain.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterNew.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetMain.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetUpdate.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.AllIncomeAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.Form1.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAccountsReport.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAllIncome.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysisByVariable.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassDetail.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassInstructor.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCommission.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPComSalesRanking.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCustomerVoice.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPDayClassAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPFitnessDailyBranchSales.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPGymAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPIncomeAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorDetails.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorFees.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInsturctorSalary.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLateness.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLeave.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPMtMSales.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPNewMember.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPOperation.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionAnalysis.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionReport.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionSalesPkg.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSalesMangement.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaDailyBranchSales.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaFitness.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffReport.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.RPStaffSalesPerformance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffTimeOff.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStock.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStockSalon.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBank.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBranch.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmClass.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCommission.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCompany.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmDepartment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmEmployee.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmInventory.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Edit.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmLeave.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotion.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotionItem.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Edit.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmService.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmTerminalUser.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmUserRights.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmMemberCard.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmRoadShow.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Operation.ServerSource.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmCommissionDetails.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmServiceReimbursement.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.TimeSheet_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.Attendance.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddBillFreebie.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddCreditPackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddItemFreebiesAndDiscount.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddRewards.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddSalesPersonAndTherapist.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormBillDiscount.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormExtendLocker.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardAction.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardReceiptSelection.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormGetService.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.frmIPP_Add.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormLockerAction.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMakePayment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMineralWaterClosingDayCount.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormNewLocker.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormPayOutstanding.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormPOS2.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormReturnLocker.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTemp.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTender.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpCredit.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpSingleTreatment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.FormUpgradePackage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.GIROpkg.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSPOS2.UpdateMemberGiro.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Appointment.frmAppointment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Contacts.frmContacts.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.CV.frmAssignCV.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmNewCV.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.CV.frmNewCVAction.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.frmChangePassword.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmStaff.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeave.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeaveDetail.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewMemo2.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewReceipient2.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmReplies.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroup.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroupEntries.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportAppointment.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportCV.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportMemo.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.Timesheet.frmOvertime.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.ACMSStaff.frmTimeSheetDetail.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.frmTimeCard.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.csproj.GenerateResource.Cache
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af-ZA.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af.resources
+C:\ACMSComm\ACMS\obj\Debug\ACMS.exe.licenses
+C:\ACMSComm\ACMS\bin\Debug\ACMS.exe
+C:\ACMSComm\ACMS\bin\Debug\ACMS.pdb
+C:\ACMSComm\ACMS\bin\Debug\af-ZA\ACMS.resources.dll
+C:\ACMSComm\ACMS\bin\Debug\af\ACMS.resources.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMS.Control.dll
+C:\ACMSComm\ACMS\bin\Debug\Acms.Core.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMS.Utils.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMS.XtraUtils.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMSDAL.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMSLogic.dll
+C:\ACMSComm\ACMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\ACMSComm\ACMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\ACMSComm\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMSComm\ACMS\bin\Debug\AesWinApp.dll
+C:\ACMSComm\ACMS\bin\Debug\ACMSDAL.pdb
+C:\ACMSComm\ACMS\bin\Debug\AesWinApp.pdb
+C:\ACMSComm\ACMS\bin\Debug\ACMS.XtraUtils.pdb
+C:\ACMSComm\ACMS\bin\Debug\ACMS.Control.pdb
+C:\ACMSComm\ACMS\bin\Debug\ACMSLogic.pdb
+C:\ACMSComm\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMSComm\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMSComm\ACMS\bin\Debug\Acms.Core.pdb
+C:\ACMSComm\ACMS\bin\Debug\ACMS.Utils.pdb
+C:\ACMSComm\ACMS\obj\Debug\af-ZA\ACMS.resources.dll
+C:\ACMSComm\ACMS\obj\Debug\af\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.exe.config
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.exe
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.exe
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\af-ZA\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\af\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.Control.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.XtraUtils.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.XtraUtils.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.Control.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\Interop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\bin\Debug\AxInterop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\Interop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\AxInterop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.csproj.ResolveComReference.cache
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmCloseShift.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmDepositMoney.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmLockerMaintenance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmOpenShift.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmPaymentCode.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmRosterMain.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRIPLService.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRPTPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmTransferLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.VerifyCloseShift.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmVerifyEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.LoginOpenShift.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptShiftSettlement.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormAssignReplacementInstructor.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormCancelClassAttendance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormCancelClassInstance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormChangeClass.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInClassAttendanceModule.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewNormalClassReservation.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.InstructorLogin.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.VerifyClassInstances.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormDeleteMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormTransferMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormUpdateMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormEditCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewCVAction.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmBranch.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmClassSchedule.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSLogin.frmException.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinReply.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.Home.rptBulletin.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.InterBranchTransfer.frmNewInterBranchTransfer.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewRedemption.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInMembershipModule.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewMemberPackageExtension.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewPromotionMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewServiceSessionPT.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewServiceSessionSPA_IPL.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormTransferMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormUpdateClassAttendance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormUpdateMemberPackageExtension.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionPT.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionSPA_IPL.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmEditActivities.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewActivities.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmBlockMembershipID.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmDeleteMember.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmIntroduceFriend.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewMember.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmRequestTransfer.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmResetMembershipID.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmSearchMember.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ucMemberID.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.XtraReportMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.OpenCarton.OpenCarton.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormChangesReceiptSalesPerson.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormSalesConvertion.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.frmMain.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.MyPrintControl.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptIBT.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionAdjustment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionSelection.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.SearchPromotion.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmDeleteSalonUse.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmNewSalonUse.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmBinNo.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByDescription.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByItemCode.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByStyle.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmStockSearch.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmNewStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmProcessStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmRejectStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmSearchProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmLogin.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmGIRO_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmIPPReceipt.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmIPP_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmIPP_Received.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmIPP_Send.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmIPP_Update.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmIPP_View.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmManager.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_Package.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmMD_PackageAdd.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_PackageGroup.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmMD_PackageGroupAdd.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmMD_SalesCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\Acms.WinForm.AcmsManager.frmPackage_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchMember.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmApprovedOvertime.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmOvertimeMain.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterMain.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterNew.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetMain.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetUpdate.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.AllIncomeAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.Form1.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAccountsReport.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAllIncome.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysisByVariable.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassInstructor.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPComSalesRanking.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPDayClassAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPFitnessDailyBranchSales.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPGymAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPIncomeAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorFees.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInsturctorSalary.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLateness.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPMtMSales.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPNewMember.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPOperation.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionReport.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionSalesPkg.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSalesMangement.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaDailyBranchSales.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaFitness.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffReport.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.RPStaffSalesPerformance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffTimeOff.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStock.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStockSalon.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBank.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBranch.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmClass.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCompany.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmDepartment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmInventory.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Edit.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotion.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotionItem.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Edit.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmService.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmTerminalUser.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmUserRights.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmRoadShow.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Operation.ServerSource.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmCommissionDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmServiceReimbursement.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.TimeSheet_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.Attendance.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddBillFreebie.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddItemFreebiesAndDiscount.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddRewards.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddSalesPersonAndTherapist.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormBillDiscount.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormExtendLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardAction.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardReceiptSelection.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormGetService.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.frmIPP_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormLockerAction.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMakePayment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMineralWaterClosingDayCount.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormNewLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormPayOutstanding.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormPOS2.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormReturnLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTemp.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTender.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpCredit.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpSingleTreatment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.FormUpgradePackage.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.GIROpkg.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSPOS2.UpdateMemberGiro.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Appointment.frmAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Contacts.frmContacts.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.CV.frmAssignCV.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmNewCV.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.CV.frmNewCVAction.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.frmChangePassword.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmStaff.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeaveDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewMemo2.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewReceipient2.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmReplies.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroup.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroupEntries.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportCV.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportMemo.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.Timesheet.frmOvertime.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.frmTimeSheetDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\DevExpress.XtraScheduler.Demos.TutorialControl.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\DevExpress.XtraScheduler.Demos.DateNavigatorModule.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.frmTodolist.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.frmVideoPlayer.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.MyCustomEditForm.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\DevExpress.XtraTreeList.Demos.TreeListDragDrop.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\DevExpress.XtraTreeList.Demos.ExportForm.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.frmTimeCard.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.Properties.Resources.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af-ZA.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af.resources
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\ACMS.exe.licenses
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\af-ZA\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\ACMS\obj\Debug\af\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.exe.config
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.exe
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.exe
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\af-ZA\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\af\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.Control.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Acms.Core.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.XtraUtils.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMSLogic.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\AesWinApp.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\AesWinApp.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.XtraUtils.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.Control.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMSLogic.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Acms.Core.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\Interop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\bin\Debug\AxInterop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\Interop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\AxInterop.WMPLib.dll
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.csproj.ResolveComReference.cache
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmCloseShift.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmDepositMoney.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmLockerMaintenance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmOpenShift.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmPaymentCode.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmRosterMain.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRFitnessProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRIPLService.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRPTPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmSRSPAProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmTransferLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.VerifyCloseShift.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.frmVerifyEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.LoginOpenShift.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.BranchTransaction.rptShiftSettlement.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormAssignReplacementInstructor.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormCancelClassAttendance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormCancelClassInstance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormChangeClass.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInClassAttendanceModule.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewNormalClassReservation.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.InstructorLogin.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.VerifyClassInstances.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormDeleteMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormTransferMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormUpdateMemberCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormEditCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewCVAction.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmBranch.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmClassSchedule.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSLogin.frmException.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.Home.frmBranchBulletinReply.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.Home.rptBulletin.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.InterBranchTransfer.frmNewInterBranchTransfer.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewRedemption.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewClassAttendanceInMembershipModule.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewMemberPackageExtension.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewPromotionMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewServiceSessionPT.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewServiceSessionSPA_IPL.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormTransferMemberPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormUpdateClassAttendance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormUpdateMemberPackageExtension.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionPT.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormUpdateServiceSessionSPA_IPL.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmEditActivities.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewActivities.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmBlockMembershipID.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmDeleteMember.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmIntroduceFriend.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmNewMember.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmRequestTransfer.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmResetMembershipID.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmSearchMember.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ucMemberID.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.XtraReportMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.OpenCarton.OpenCarton.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormChangesReceiptSalesPerson.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormSalesConvertion.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.frmMain.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.MyPrintControl.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptIBT.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.Printing.rptStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionAdjustment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.frmNewPromotionSelection.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.PromotionAdjustment.SearchPromotion.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmDeleteSalonUse.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.SalonUse.frmNewSalonUse.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmBinNo.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByDescription.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByItemCode.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmSearchByStyle.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockInventory.frmStockSearch.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmNewStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmProcessStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmRejectStockRequest.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSBranch.StockRequest.frmSearchProduct.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmLogin.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmGIRO_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmIPPReceipt.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmIPP_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmIPP_Received.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmIPP_Send.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmIPP_Update.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmIPP_View.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmManager.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_Package.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmMD_PackageAdd.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmMd_PackageGroup.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmMD_PackageGroupAdd.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmMD_SalesCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\Acms.WinForm.AcmsManager.frmPackage_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.frmSearchMember.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmApprovedOvertime.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmOvertimeMain.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRoster.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterMain.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmRosterNew.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetMain.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.frmTimeSheetUpdate.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.AllIncomeAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.Form1.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAccountsReport.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPAllIncome.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassAnalysisByVariable.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPClassInstructor.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPComSalesRanking.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPCustomerVoice.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPDayClassAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPFitnessDailyBranchSales.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPGymAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPIncomeAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInstructorFees.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPInsturctorSalary.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLateness.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPMtMSales.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPNewMember.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPOperation.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionAnalysis.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionReport.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPPromotionSalesPkg.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSalesMangement.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaDailyBranchSales.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPSpaFitness.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffReport.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Human_Resource.Reports.RPStaffSalesPerformance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStaffTimeOff.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStock.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Reports.RPStockSalon.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBank.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmBranch.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmClass.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCommission.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmCompany.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmDepartment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmEmployee.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmInventory.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmItem_Edit.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotion.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmPromotionItem.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmReward_Edit.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmService.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmTerminalUser.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.MasterData.frmUserRights.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmMemberCard.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Operation.frmRoadShow.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Operation.ServerSource.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmCommissionDetails.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSManager.Payroll.frmServiceReimbursement.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.TimeSheet_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.Attendance.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddBillFreebie.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddCreditPackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddItemFreebiesAndDiscount.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddRewards.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormAddSalesPersonAndTherapist.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormBillDiscount.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormExtendLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardAction.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormForgetCardReceiptSelection.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormGetService.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.frmIPP_Add.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormLockerAction.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMakePayment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormMineralWaterClosingDayCount.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormNewLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormPayOutstanding.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormPOS2.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormReturnLocker.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTemp.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTender.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpCredit.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormTopUpSingleTreatment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.FormUpgradePackage.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.GIROpkg.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSPOS2.UpdateMemberGiro.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Appointment.frmAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Contacts.frmContacts.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.CV.frmAssignCV.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmNewCV.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.CV.frmNewCVAction.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.frmChangePassword.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmStaff.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeave.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Leave.frmLeaveDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewMemo2.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmNewReceipient2.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Memo.frmReplies.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroup.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.ReceipientGroup.frmReceipientGroupEntries.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportAppointment.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportCV.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Report.ReportMemo.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.Timesheet.frmOvertime.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.frmTimeSheetDetail.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\DevExpress.XtraScheduler.Demos.TutorialControl.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\DevExpress.XtraScheduler.Demos.DateNavigatorModule.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.frmTodolist.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.frmVideoPlayer.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.ACMSStaff.To_Do_List.MyCustomEditForm.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\DevExpress.XtraTreeList.Demos.TreeListDragDrop.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\DevExpress.XtraTreeList.Demos.ExportForm.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.frmTimeCard.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.Properties.Resources.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af-ZA.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.FormNewMemberCreditPackageUsage.af.resources
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\ACMS.exe.licenses
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\af-ZA\ACMS.resources.dll
+C:\ACMS Source\ACMS2005\ACMS\obj\Debug\af\ACMS.resources.dll

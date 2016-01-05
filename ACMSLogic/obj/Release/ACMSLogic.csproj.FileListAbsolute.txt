@@ -1,0 +1,112 @@
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\Acms.Core.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\AesWinApp.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2008\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS2008\ACMSLogic\obj\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\Acms.Core.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\AesWinApp.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS2009Jan08\ACMSLogic\obj\Release\ACMSLogic.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\Acms.Core.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\AesWinApp.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\Acms.Core.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\AesWinApp.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\ACMS Source\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\Acms.Core.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\AesWinApp.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Properties.Resources.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.Resource1.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\Users\StevenKong\Desktop\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\ACMSLogic.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\Acms.Core.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\AesWinApp.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Properties.Resources.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ClassAttendanceReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberCreditPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.MemberPackageExpiryReport.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.ReportClassAttendanceReminder.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.Receipt.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Report.XtraReport1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.Resource1.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.TextFilePrintDocument.resources
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.csproj.GenerateResource.Cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll.licenses
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMSLogic\obj\Release\ACMSLogic.dll

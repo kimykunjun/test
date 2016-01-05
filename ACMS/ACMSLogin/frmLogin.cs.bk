@@ -1,0 +1,665 @@
+using System.Diagnostics;
+using Microsoft.VisualBasic;
+using System;
+using System.Data;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Collections;
+using ACMSLogic;
+using ACMSDAL;
+using System.Data.SqlClient;
+//using System.Data.OleDb;
+
+//TODO:Irwan
+//using Rp = Acms.Core.Repository;
+//using Fc = Acms.Core.Factory;
+using Do = Acms.Core.Domain;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Text;
+using System.Security.Cryptography;
+using System.IO;
+using System.Reflection;
+using System.Configuration;
+//using log4net;
+
+namespace ACMS
+{
+	
+	public class frmLogin : System.Windows.Forms.Form
+	{
+        private bool isRequiredUpdate;
+		private bool isFinishInitialize;
+		[STAThread]
+		static void Main()
+		{
+			//log4net.Config.XmlConfigurator.Configure();
+			Application.ThreadException += new System.Threading.ThreadExceptionEventHandler(Application_ThreadException);
+			Application.EnableVisualStyles();
+			Application.DoEvents();
+			Application.Run(new frmLogin());
+		}
+		
+		#region " Windows Form Designer generated code "
+		
+		public frmLogin() 
+		{
+			
+			//This call is required by the Windows Form Designer.
+			InitializeComponent();
+			
+			//Add any initialization after the InitializeComponent() call
+			
+		}
+		
+		//Form overrides dispose to clean up the component list.
+		protected override void Dispose (bool disposing)
+		{
+			if (disposing)
+			{
+				if (!(components == null))
+				{
+					components.Dispose();
+				}
+			}
+			base.Dispose(disposing);
+		}
+		
+		//Required by the Windows Form Designer
+		private System.ComponentModel.Container components = null;
+		
+		//NOTE: The following procedure is required by the Windows Form Designer
+		//It can be modified using the Windows Form Designer.
+		//Do not modify it using the code editor.
+		internal System.Windows.Forms.Label Label1;
+		internal System.Windows.Forms.Label Label41;
+        internal System.Windows.Forms.Label Label2;
+		internal DevExpress.XtraEditors.SimpleButton btnLogin;
+		internal DevExpress.XtraEditors.SimpleButton btnCancel;
+        internal DevExpress.XtraEditors.TextEdit txtUsername;
+		internal System.Windows.Forms.Label label4;
+        private DevExpress.XtraEditors.ComboBoxEdit cmbLanguage;
+        private CheckBox cbRoadShow;
+		internal DevExpress.XtraEditors.TextEdit txtPassword;
+		[System.Diagnostics.DebuggerStepThrough()]private void InitializeComponent ()
+		{
+            this.Label1 = new System.Windows.Forms.Label();
+            this.Label41 = new System.Windows.Forms.Label();
+            this.txtUsername = new DevExpress.XtraEditors.TextEdit();
+            this.btnLogin = new DevExpress.XtraEditors.SimpleButton();
+            this.Label2 = new System.Windows.Forms.Label();
+            this.txtPassword = new DevExpress.XtraEditors.TextEdit();
+            this.btnCancel = new DevExpress.XtraEditors.SimpleButton();
+            this.label4 = new System.Windows.Forms.Label();
+            this.cmbLanguage = new DevExpress.XtraEditors.ComboBoxEdit();
+            this.cbRoadShow = new System.Windows.Forms.CheckBox();
+            ((System.ComponentModel.ISupportInitialize)(this.txtUsername.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtPassword.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbLanguage.Properties)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // Label1
+            // 
+            this.Label1.BackColor = System.Drawing.Color.Navy;
+            this.Label1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Label1.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.Label1.Location = new System.Drawing.Point(0, 0);
+            this.Label1.Name = "Label1";
+            this.Label1.Size = new System.Drawing.Size(426, 50);
+            this.Label1.TabIndex = 5;
+            this.Label1.Text = "LOGIN";
+            this.Label1.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
+            // 
+            // Label41
+            // 
+            this.Label41.AutoSize = true;
+            this.Label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label41.Location = new System.Drawing.Point(104, 75);
+            this.Label41.Name = "Label41";
+            this.Label41.Size = new System.Drawing.Size(97, 16);
+            this.Label41.TabIndex = 7;
+            this.Label41.Text = "Employee ID";
+            // 
+            // txtUsername
+            // 
+            this.txtUsername.EditValue = "";
+            this.txtUsername.Location = new System.Drawing.Point(192, 72);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsername.Properties.Appearance.Options.UseFont = true;
+            this.txtUsername.Size = new System.Drawing.Size(152, 22);
+            this.txtUsername.TabIndex = 0;
+            this.txtUsername.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtUsername_KeyDown);
+            // 
+            // btnLogin
+            // 
+            this.btnLogin.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.btnLogin.Appearance.Options.UseFont = true;
+            this.btnLogin.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
+            this.btnLogin.Location = new System.Drawing.Point(192, 136);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(72, 20);
+            this.btnLogin.TabIndex = 3;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
+            // Label2
+            // 
+            this.Label2.AutoSize = true;
+            this.Label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label2.Location = new System.Drawing.Point(104, 102);
+            this.Label2.Name = "Label2";
+            this.Label2.Size = new System.Drawing.Size(76, 16);
+            this.Label2.TabIndex = 10;
+            this.Label2.Text = "Password";
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.EditValue = "";
+            this.txtPassword.Location = new System.Drawing.Point(192, 99);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassword.Properties.Appearance.Options.UseFont = true;
+            this.txtPassword.Properties.PasswordChar = '*';
+            this.txtPassword.Size = new System.Drawing.Size(152, 22);
+            this.txtPassword.TabIndex = 1;
+            this.txtPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPassword_KeyDown);
+            // 
+            // btnCancel
+            // 
+            this.btnCancel.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.btnCancel.Appearance.Options.UseFont = true;
+            this.btnCancel.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
+            this.btnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnCancel.Location = new System.Drawing.Point(272, 136);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(72, 20);
+            this.btnCancel.TabIndex = 4;
+            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(362, 56);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(60, 13);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "Version 1.0";
+            // 
+            // cmbLanguage
+            // 
+            this.cmbLanguage.EditValue = "EN";
+            this.cmbLanguage.Location = new System.Drawing.Point(107, 161);
+            this.cmbLanguage.Name = "cmbLanguage";
+            this.cmbLanguage.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.cmbLanguage.Properties.Items.AddRange(new object[] {
+            "EN",
+            "CN"});
+            this.cmbLanguage.Size = new System.Drawing.Size(100, 20);
+            this.cmbLanguage.TabIndex = 15;
+            // 
+            // cbRoadShow
+            // 
+            this.cbRoadShow.AutoSize = true;
+            this.cbRoadShow.Location = new System.Drawing.Point(51, 139);
+            this.cbRoadShow.Name = "cbRoadShow";
+            this.cbRoadShow.Size = new System.Drawing.Size(88, 17);
+            this.cbRoadShow.TabIndex = 16;
+            this.cbRoadShow.Text = "Road Show?";
+            this.cbRoadShow.UseVisualStyleBackColor = true;
+            // 
+            // frmLogin
+            // 
+            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+            this.CancelButton = this.btnCancel;
+            this.ClientSize = new System.Drawing.Size(426, 193);
+            this.ControlBox = false;
+            this.Controls.Add(this.cbRoadShow);
+            this.Controls.Add(this.cmbLanguage);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.Label2);
+            this.Controls.Add(this.Label41);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.txtUsername);
+            this.Controls.Add(this.Label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "frmLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ACMS Login";
+            this.Load += new System.EventHandler(this.frmLogin_Load);
+            this.Activated += new System.EventHandler(this.frmLogin_Activated);
+            ((System.ComponentModel.ISupportInitialize)(this.txtUsername.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtPassword.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbLanguage.Properties)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+		}
+		
+		#endregion
+
+        class ChecksumFile
+        {
+            public string filename { get; set; }
+            public string checksums { get; set; }
+        }
+
+        public void checksum()
+        {
+            isRequiredUpdate = false;
+            //sourcePath is Server
+            string sourcePath = ConfigurationSettings.AppSettings["ACMSUpdateSourcePath"];
+            //targetPath is Local
+            string targetPath = System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath);
+
+            string update = targetPath + "\\updateCheck.exe";
+            
+            int countServer = Directory.GetFiles(sourcePath, "*.*", SearchOption.AllDirectories).Length;
+            int countLocal = Directory.GetFiles(targetPath, "*.*", SearchOption.AllDirectories).Length;
+
+            string[] filesServer = Directory.GetFiles(sourcePath, "*.*", SearchOption.AllDirectories);
+            string[] filesLocal = Directory.GetFiles(targetPath, "*.*", SearchOption.AllDirectories);
+
+            List<ChecksumFile> serverList = new List<ChecksumFile>();
+
+            //populate server file into serverList
+            for (int i = 0; i < countServer; i++)
+            {
+                using (var md5 = MD5.Create())
+                {
+                    using (var stream = File.OpenRead(filesServer[i]))
+                    {
+                        string checkval = BitConverter.ToString(md5.ComputeHash(stream)).Replace("-", string.Empty);
+                        ChecksumFile nchecksum = new ChecksumFile { filename = filesServer[i], checksums = checkval };
+                        serverList.Add(nchecksum);
+                        stream.Close();
+                    }
+
+                }
+            }
+
+            List<ChecksumFile> localList = new List<ChecksumFile>();
+
+            //populate local file into localList
+            for (int i = 0; i < countLocal; i++)
+            {
+                using (var md5 = MD5.Create())
+                {
+                    using (var stream = File.OpenRead(filesLocal[i]))
+                    {
+                        string checkval = BitConverter.ToString(md5.ComputeHash(stream)).Replace("-", string.Empty);
+                        ChecksumFile nchecksum = new ChecksumFile { filename = filesLocal[i], checksums = checkval };
+                        localList.Add(nchecksum);
+                        stream.Close();
+                    }
+                }
+            }
+
+            //check for extra file in local
+            foreach (ChecksumFile local in localList)
+            {
+                ChecksumFile result2 = serverList.Find(
+                delegate(ChecksumFile server)
+                {
+                    return Path.GetFileName(server.filename) == Path.GetFileName(local.filename);                    
+                }
+                );                
+                if (result2 == null)
+                {
+                    isRequiredUpdate = true;                    
+                    break;
+                }
+            }
+
+            if (!isRequiredUpdate)
+            {
+                foreach (ChecksumFile server in serverList)
+                {
+                    string tFile = targetPath + "\\" + Path.GetFileName(server.filename);
+
+                    //check for missing file in local
+                    ChecksumFile result1 = localList.Find(
+                    delegate(ChecksumFile local)
+                    {
+                        return Path.GetFileName(local.filename) == Path.GetFileName(server.filename);
+                    }
+                    );
+                    if (result1 == null)
+                    {
+                        isRequiredUpdate = true;                        
+                        break;
+                    }
+
+                    //check for different hash value of folder
+                    ChecksumFile result = localList.Find(
+                    delegate(ChecksumFile local)
+                    {
+                        return local.checksums == server.checksums;
+                    }
+                    );
+                    if (result == null)
+                    {
+                        isRequiredUpdate = true;                        
+                        break;
+                    }
+                }
+            }
+
+            if (isRequiredUpdate == true)
+            {
+                MessageBox.Show("Latest Version Detected. Restarting ACMS...");
+                //this.isFinishInitialize = false;
+                System.Diagnostics.Process.Start(update);
+            }
+        }
+
+		private void frmLogin_Load (object sender, System.EventArgs e)
+		{
+			//Init form
+            cbRoadShow.Visible = false;
+			modInitForms.fLogin = this;
+		}
+		
+		public void loginCallFromBranch()
+		{
+			btnLogin_Click(null,new EventArgs());
+		}
+		
+		public void ClearLoginText()
+		{
+			this.txtUsername.Text="";
+			this.txtPassword.Text="";
+			this.isFinishInitialize = false;
+		}
+
+		private void btnLogin_Click (System.Object sender, System.EventArgs e)
+		{
+			#region Disable Code
+			//Check login information from database
+			//			ACMSLogic.User oUser = new User();
+			//			bool chkUserLogin = false;
+			//		
+			//			chkUserLogin = System.Convert.ToBoolean(oUser.Login(txtUsername.Text, txtPassword.Text));
+			//			
+			//			if (chkUserLogin)
+			//			{
+			//				if (cmbModule.Text == "ACMS Branch")
+			//				{
+			//					//Show AMCS Branch
+			//					if (modInitForms.fBranch == null)
+			//					{
+			//						modInitForms.fBranch = new frmBranch();
+			//						modInitForms.fBranch.initData(oUser);
+			//						modInitForms.fBranch.Show();
+			//					}
+			//					
+			//					modInitForms.fLogin.Hide();
+			//				}
+			//				
+			//				if (cmbModule.Text == "ACMS POS")
+			//				{
+			//					//Show AMCS POS
+			//					if (modInitForms.fPOS == null)
+			//					{
+			//						modInitForms.fPOS = new frmPOS();
+			//						modInitForms.fPOS.Show();
+			//					}
+			//					
+			//					modInitForms.fLogin.Hide();
+			//				}
+			//				
+			//				if (cmbModule.Text == "ACMS Staff")
+			//				{
+			//					//Show AMCS POS
+			//					if (modInitForms.fStaff == null)
+			//					{
+			//						modInitForms.fStaff = new frmStaff();
+			//						modInitForms.fStaff.Show();
+			//					}
+			//					
+			//					modInitForms.fLogin.Hide();
+			//				}
+			//			}
+			//			else
+			//			{
+			//				MessageBox.Show(this, "Incorrect username and password, please try again");
+			//			}
+			#endregion
+			//DateTime start = DateTime.Now;
+			if(this.txtUsername.Text=="" | this.txtPassword.Text=="")
+			{
+				ACMS.Utils.UI.ShowErrorMessage(this,"Empty Username & Password!","Error");
+			}
+
+			else
+			{
+				try
+				{
+					ACMSLogic.Login.Login login = new ACMSLogic.Login.Login();
+					//Do.Employee emplogin = login.GetEmployeeByIdAndPassword(this.txtUsername.Text, this.txtPassword.Text);
+
+					//MessageBox.Show(this, emplogin.Id.ToString()+" "+emplogin.Department.Id+" "+emplogin.RightsLevel.RightsLevelEntrys.Count.ToString());
+
+					//Rp.EmployeeRepository er = new Rp.EmployeeRepository();
+					Do.Employee emp = login.GetEmployeeByIdAndPassword(this.txtUsername.Text, this.txtPassword.Text);//er.GetEmployeeByIdAndPassword(this.txtUsername.Text, this.txtPassword.Text);
+
+                    System.Security.Principal.WindowsIdentity userLogin = System.Security.Principal.WindowsIdentity.GetCurrent();
+                    //System.Security.Principal.WindowsIdentity userLogin = "AFPL\EdithGan";
+
+					if 	(login.Check_Concurrent()==false)
+					{
+						ACMS.Utils.UI.ShowErrorMessage(this,"Number of Login Exceed Users Limit!","Authorisation");
+						
+					}
+					else
+					{
+						//Rp.TerminalUserRepository tup = new Rp.TerminalUserRepository();
+						if(emp!=null)
+						{
+					//userLogin.Name="AFPL\EdithGan";
+							Acms.     Core.Domain.TerminalUser tu = login.GetTerminalUserByUserId(userLogin.Name) as Acms.Core.Domain.TerminalUser;//tup.GetTerminalUserByUserId(userLogin.Name) as Acms.Core.Domain.TerminalUser;
+                            //Acms.Core.Domain.TerminalUser tu = login.GetTerminalUserByUserId("AFPL\\TO-Terminal2") as Acms.Core.Domain.TerminalUser;
+                            //Acms.Core.Domain.TerminalUser tu = login.GetTerminalUserByUserId("AFPL\\TO-Terminal2") as Acms.Core.Domain.TerminalUser;
+
+							//Show AMCS Branch
+							bool Valid = numberUser();
+							//bool Valid = true;
+							if(emp.CanAccess("AB_LOGIN",tu.Branch.Id) && Valid)		  
+							{
+								//smell tandas code
+								ACMSDAL.TblTerminalUser UserLog = new TblTerminalUser();
+								UserLog.StrTerminalUserCode =  userLogin.Name;					
+								UserLog.UpdateSession(true, DateTime.Now);
+
+								modInitForms.fLogin.Hide();	
+								ACMSLogic.User.BranchCode = tu.Branch.Id;
+								ACMSLogic.User.EmployeeID = emp.Id;
+
+                                //cbRoadShow.Checked = true;
+                                if (cbRoadShow.Checked)
+                                {
+                                    ACMSLogic.User.RoadShow = "RS";//jackie 13032012
+                                }
+                                else
+                                    ACMSLogic.User.RoadShow = tu.Branch.Id;
+                                     if (emp.Department != null)
+									ACMSLogic.User.DepartmentID = emp.Department.Id;
+								if (emp.StrEmployeeName != null)
+									ACMSLogic.User.EmployeeName = emp.StrEmployeeName;
+								if (emp.JobPosition.Id != null)
+									ACMSLogic.User.JobPositionCode = emp.JobPosition.Id;
+								if (emp.RightsLevel != null)
+                                    ACMSLogic.User.RightsLevelID = emp.RightsLevel.Id;
+
+								try
+								{
+									ClassAttendance.CreateClassInstance();
+									PackageCode.CreateUnLinkPackage();
+								}
+								catch (Exception ex)
+								{
+								return;
+								}
+									ACMSLogic.User oUser = new User();
+								
+									if (modInitForms.fBranch != null)
+								{
+									modInitForms.fBranch.IsLogin = true;
+									modInitForms.fBranch.Close();
+									modInitForms.fBranch.Dispose();
+									if (modInitForms.fStaff != null)
+									{
+										modInitForms.fStaff.Close();
+										modInitForms.fStaff.Dispose();
+									}
+									if (modInitForms.fManager != null)
+									{
+										modInitForms.fManager.Close();
+										modInitForms.fManager.Dispose();
+									}
+								}
+                                modInitForms.fBranch = new frmBranch(cmbLanguage.EditValue.ToString());
+								modInitForms.fBranch.SetEmployeeRecord(emp);
+								modInitForms.fBranch.SetTerminalUser(tu);
+								modInitForms.fBranch.OpenDayShift();
+						
+								//						if (UnclosedShift == true)
+								//							MessageBox.Show("There is unclosed shift. Please close the shift.");
+
+								modInitForms.fBranch.initData(oUser);
+								modInitForms.fBranch.Show();
+						
+								//DateTime end = DateTime.Now;
+								//TimeSpan diff = end.Subtract(start);
+								//MessageBox.Show(diff.TotalSeconds.ToString(),"Time");
+					
+							}
+							else if (emp.CanAccess("AB_TIMECARD_LOGIN",tu.Branch.Id))
+							{
+								modInitForms.fLogin.Hide();
+								//Show AMCS Time Card
+								if (modInitForms.fTimeCard == null)
+								{
+									modInitForms.fTimeCard = new frmTimeCard(tu.Branch.Id);
+									modInitForms.fTimeCard.Show();
+								}
+							}
+							else
+							{
+								MessageBox.Show(this, "Invalid username and password or you don't have access to this Branch, please try again");
+							}	
+						}
+						else
+						{
+							MessageBox.Show(this, "Invalid username and password, Please try again");
+						}
+					}
+				}		
+				catch(Exception ex)
+				{
+					return;
+				}
+			
+		}
+		}  
+	
+		private void btnCancel_Click (System.Object sender, System.EventArgs e)
+		{
+			//Close only if Branch Form nothing
+			if (modInitForms.fBranch == null)
+			{
+				//Terminate Application
+				Application.Exit();
+			}
+			else
+			{
+				this.Hide();
+			}
+		}
+
+		public bool numberUser()
+		{
+			bool status = false;
+			DataTable NumUser = new DataTable();
+			ACMSDAL.TblTerminalUser UserLog = new TblTerminalUser();
+			NumUser = UserLog.ValidLogin();
+			if (NumUser.Rows.Count < 100)
+			{
+				status = true;
+			}
+			else
+			{
+					//int Limit = 5;
+				int Now = DateTime.Now.Minute;
+				int Loged;
+				//int DeathTime;
+				for (int i=0; i <=NumUser.Rows.Count-1;i++)
+				{
+					Loged = Convert.ToDateTime(NumUser.Rows[i]["SessionTime"]).Minute;
+					if ((Now>Loged && Now - Loged > 5)||(Loged>Now && (Now + 60 - Loged)>5))
+					{				 
+						
+						UserLog.StrTerminalUserCode =  NumUser.Rows[i]["strTerminalUserCode"].ToString();					
+						UserLog.UpdateSession(false, DateTime.Now);
+						status = true;						
+					}
+					
+				}
+				
+			}
+			return status;
+			
+		}
+		private static void Application_ThreadException(object sender, System.Threading.ThreadExceptionEventArgs e)
+		{
+//			MessageBox.Show(
+//				e.Exception.ToString(), "ERROR",
+//				MessageBoxButtons.OK, MessageBoxIcon.Error);
+			ACMS.ACMSLogin.frmException form = new ACMS.ACMSLogin.frmException(e.Exception.Message, e.Exception.ToString());
+			form.ShowDialog();
+			form.Dispose();
+		}
+
+		private void frmLogin_Activated(object sender, System.EventArgs e)
+		{
+			if (!this.isFinishInitialize)
+			{
+				txtUsername.Focus();
+				this.isFinishInitialize = true;
+                string allowUpdate = ConfigurationSettings.AppSettings["AllowVersionUpdate"];
+                if (allowUpdate.ToUpper() == "YES")
+                {
+                    checksum();
+                }
+			}
+		}
+
+		private void txtUsername_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+		{
+			if(e.KeyCode.ToString()=="Return")
+			{
+				//to add send key
+                //SendKeys.Send("%{TAB}");
+                //this.isFinishInitialize = true;
+                txtPassword.Focus();
+			}
+		}
+
+		private void txtPassword_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+		{
+			if(e.KeyCode.ToString()=="Return")
+			{
+				//to add send key
+                //SendKeys.Send("{TAB}");
+                btnLogin_Click(sender, e);
+			}
+		}
+	}
+	
+}

@@ -1,0 +1,30 @@
+C:\ACMS Source\ACMS2008\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2008\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2008\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2008\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2008\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2008\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ACMS\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StevenKong\Desktop\ACMS\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DerekWoo\Desktop\ACMS_20140109\ACMS\ACMS.Utils\obj\Release\ACMS.Utils.dll

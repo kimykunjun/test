@@ -1,0 +1,42 @@
+C:\ACMSComm\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMSComm\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMSComm\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMSComm\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMSComm\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\BackUp2005\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\BackUp2005\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\BackUp2005\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\BackUp2005\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\BackUp2005\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMSDAL\obj\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSDAL\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSDAL\obj\Release\ACMSDAL.dll

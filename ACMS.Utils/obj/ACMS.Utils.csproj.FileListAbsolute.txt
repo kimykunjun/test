@@ -1,0 +1,84 @@
+C:\ACMSComm\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMSComm\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMSComm\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMSComm\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMSComm\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMSComm\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMSComm\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMSComm\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMSComm\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMSComm\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\BackUp2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\BackUp2005\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\BackUp2005\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMS Source\BackUp2005\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\ACMS.Utils\obj\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Debug\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Debug\ACMS.Utils.pdb
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\ACMS.Utils.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\ACMS.Utils\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMS.Utils\obj\Release\ACMS.Utils.dll

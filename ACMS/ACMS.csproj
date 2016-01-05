@@ -1,0 +1,2609 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91E52180-B872-458C-830F-42E1191DB7DA}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ACMS</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ACMS</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccAuxPath>
+    </SccAuxPath>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib">
+      <Name>AxInterop.AcroPDFLib</Name>
+      <HintPath>AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Tutorials.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3.Core, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v8.3.Core, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v8.3.Import, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.Core, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.Extensions, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.OutlookExchange, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.VCalendarExchange, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.3, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.3.Design, Version=8.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Interop.AcroPDFLib">
+      <Name>Interop.AcroPDFLib</Name>
+      <HintPath>Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.IMAGEREADYLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.VisualC" />
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SigPlusNET, Version=2.0.0.36, Culture=neutral, PublicKeyToken=6aef07010bb0624f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Debug\SigPlusNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="Telerik.WinControls, Version=2012.3.1017.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.Scheduler, Version=2012.3.1017.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2012.3.1017.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="TelerikCommon, Version=2012.3.1017.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Xceed.Editors, Version=2.5.9175.12420, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+    <Reference Include="Xceed.Grid, Version=3.8.9175.12420, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+    <Reference Include="Xceed.UI, Version=1.3.9175.12420, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+    <Reference Include="Xceed.Validation, Version=1.2.9175.12420, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+    <ProjectReference Include="..\ACMS.Control\ACMS.Control.csproj">
+      <Name>ACMS.Control</Name>
+      <Project>{5CD13CC4-C9A9-4234-80A7-23F8C5F5DB80}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Acms.Core\Acms.Core.csproj">
+      <Name>Acms.Core</Name>
+      <Project>{7ABFB4A2-1943-424D-958B-F757E0D57DCD}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ACMS.Utils\ACMS.Utils.csproj">
+      <Name>ACMS.Utils</Name>
+      <Project>{689208F2-E826-4616-8E0E-41851DCA39CE}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ACMS.XtraUtils\ACMS.XtraUtils.csproj">
+      <Name>ACMS.XtraUtils</Name>
+      <Project>{410EBFAC-22E4-4C34-8DCE-F0996A2A85F7}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ACMSDAL\ACMSDAL.csproj">
+      <Project>{15C97DBD-25FE-4886-A4AF-5654B82A3932}</Project>
+      <Name>ACMSDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ACMSLogic\ACMSLogic.csproj">
+      <Project>{ECBA2DEF-9664-42D0-A0D1-8A4884549A90}</Project>
+      <Name>ACMSLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft Data Access Application Block\Microsoft.ApplicationBlocks.Data.csproj">
+      <Name>Microsoft.ApplicationBlocks.Data</Name>
+      <Project>{30933672-466E-4F67-A111-ABF267539146}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SIGPLUSLib">
+      <Guid>{69A40DA0-4D42-11D0-86B0-0000C025864A}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>24</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ACMSBranch\Spa Booking\vssver.scc" />
+    <None Include="ACMSDataSet.xsc">
+      <DependentUpon>ACMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet.xss">
+      <DependentUpon>ACMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet1.xsc">
+      <DependentUpon>ACMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet1.xss">
+      <DependentUpon>ACMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet2.xsc">
+      <DependentUpon>ACMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet2.xss">
+      <DependentUpon>ACMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet3.xsc">
+      <DependentUpon>ACMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet3.xss">
+      <DependentUpon>ACMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet4.xsc">
+      <DependentUpon>ACMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet4.xss">
+      <DependentUpon>ACMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet5.xsc">
+      <DependentUpon>ACMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet5.xss">
+      <DependentUpon>ACMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet6.xsc">
+      <DependentUpon>ACMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="ACMSDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACMSDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACMSDataSet6.xss">
+      <DependentUpon>ACMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Dataset\Branch\dsRewardTransaction.xsc">
+      <DependentUpon>dsRewardTransaction.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\Branch\dsRewardTransaction.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRewardTransaction.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\Branch\dsRewardTransaction.xss">
+      <DependentUpon>dsRewardTransaction.xsd</DependentUpon>
+    </None>
+    <None Include="dcClassIns.xsc">
+      <DependentUpon>dcClassIns.xsd</DependentUpon>
+    </None>
+    <None Include="dcClassIns.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dcClassIns.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dcClassIns.xss">
+      <DependentUpon>dcClassIns.xsd</DependentUpon>
+    </None>
+    <None Include="dsAllIncomeDetail.xsc">
+      <DependentUpon>dsAllIncomeDetail.xsd</DependentUpon>
+    </None>
+    <None Include="dsAllIncomeDetail.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsAllIncomeDetail.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsAllIncomeDetail.xss">
+      <DependentUpon>dsAllIncomeDetail.xsd</DependentUpon>
+    </None>
+    <None Include="dsClassAttendance.xsc">
+      <DependentUpon>dsClassAttendance.xsd</DependentUpon>
+    </None>
+    <None Include="dsClassAttendance.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsClassAttendance.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsClassAttendance.xss">
+      <DependentUpon>dsClassAttendance.xsd</DependentUpon>
+    </None>
+    <None Include="dsClassInstance.xsc">
+      <DependentUpon>dsClassInstance.xsd</DependentUpon>
+    </None>
+    <None Include="dsClassInstance.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsClassInstance.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsClassInstance.xss">
+      <DependentUpon>dsClassInstance.xsd</DependentUpon>
+    </None>
+    <None Include="dsCreditPackageRestrition.xsc">
+      <DependentUpon>dsCreditPackageRestrition.xsd</DependentUpon>
+    </None>
+    <None Include="dsCreditPackageRestrition.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCreditPackageRestrition.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsCreditPackageRestrition.xss">
+      <DependentUpon>dsCreditPackageRestrition.xsd</DependentUpon>
+    </None>
+    <None Include="dsEmployee.xsc">
+      <DependentUpon>dsEmployee.xsd</DependentUpon>
+    </None>
+    <None Include="dsEmployee.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsEmployee.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsEmployee.xss">
+      <DependentUpon>dsEmployee.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\DSPromotion.xsc">
+      <DependentUpon>DSPromotion.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\DSPromotion.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSPromotion.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Dataset\DSPromotion.xss">
+      <DependentUpon>DSPromotion.xsd</DependentUpon>
+    </None>
+    <None Include="DSWorkFlow.xsc">
+      <DependentUpon>DSWorkFlow.xsd</DependentUpon>
+    </None>
+    <None Include="DSWorkFlow.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSWorkFlow.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSWorkFlow.xss">
+      <DependentUpon>DSWorkFlow.xsd</DependentUpon>
+    </None>
+    <None Include="dsWorkFLowDetail.xsc">
+      <DependentUpon>dsWorkFLowDetail.xsd</DependentUpon>
+    </None>
+    <None Include="dsWorkFLowDetail.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsWorkFLowDetail.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsWorkFLowDetail.xss">
+      <DependentUpon>dsWorkFLowDetail.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="ACMSStaff\WorkFlow\Image\copy.ico" />
+    <Content Include="ACMSStaff\WorkFlow\Image\delete.ico" />
+    <Content Include="ACMSStaff\WorkFlow\Image\move.ico" />
+    <Content Include="App.ico" />
+    <Content Include="AxInterop.AcroPDFLib.dll" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="Interop.AcroPDFLib.dll" />
+    <Content Include="MemberCard.mdb" />
+    <None Include="Resources\Final_Leisure_logo-01.png" />
+    <None Include="Resources\CLEAR.bmp" />
+    <None Include="Resources\OK.bmp" />
+    <Content Include="Resources\loading.gif" />
+    <Content Include="Resources\open-file-icon.png" />
+    <None Include="Resources\please.bmp" />
+    <None Include="Resources\Sign.bmp" />
+    <Content Include="Resources\Void.bmp" />
+    <Content Include="Resources\Void.png" />
+    <None Include="Resources\accounting_write_72.png" />
+    <Compile Include="ACMSBranch\BranchTransaction\frmCloseShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmDepositMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmLockerMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmMemberCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmOpenShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmPaymentCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmRosterMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRCrossSalesPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRFitnessPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRFitnessProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRIPLService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRMerge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRPTPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRSPAPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmSRSPAProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmTransferLocker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmVerifyCloseShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\frmVerifyEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\LoginOpenShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\rptRoster.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\BranchTransaction\rptShiftSettlement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormAssignReplacementInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormCancelClassAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormCancelClassInstance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormChangeClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormNewClassAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\FormNewNormalClassReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\InstructorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Class Attendance\VerifyClassInstances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Credit Package\FormDeleteMemberCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Credit Package\FormNewMemberCreditPackageUsage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Credit Package\FormTransferMemberCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Credit Package\FormUpdateMemberCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Credit Package\frmNewCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Customer Voice\FormEditCustomerVoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Customer Voice\FormNewCustomerVoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Customer Voice\FormNewCVAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\CreditAc.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\CreditAc.designer.cs">
+      <DependentUpon>CreditAc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\CreditAcJoin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\CreditAcJoin.designer.cs">
+      <DependentUpon>CreditAcJoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\DigSignature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\DigSignature.designer.cs">
+      <DependentUpon>DigSignature.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\DNCDigSignature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\PackageAccountRpt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\PackageAccountRpt.designer.cs">
+      <DependentUpon>PackageAccountRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\PackageAccountRptJoin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\PackageAccountRptJoin.designer.cs">
+      <DependentUpon>PackageAccountRptJoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\RedemptionRpt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\DigitalSignature\RedemptionRpt.designer.cs">
+      <DependentUpon>RedemptionRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\frmBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\frmClassSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\frmException.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\frmRoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Home\frmBranchBulletinDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Home\frmBranchBulletinReply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Home\rptBulletin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\InterBranchTransfer\frmNewInterBranchTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\InterBranchTransfer\IBTProductTransfer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Loyalty Program\FormNewRedemption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormConvertMemberCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormConvertMemberPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewClassAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewMemberCreditPackageExtension.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewMemberPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewMemberPackageExtension.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewPromotionMemberPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewServiceSessionPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormNewServiceSessionSPA_IPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormPaymentPlanToOverdueList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormTop5Spa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormTop5Spa.Designer.cs">
+      <DependentUpon>FormTop5Spa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormTransferMemberPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormUpdateClassAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormUpdateMemberPackageExtension.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormUpdateServiceSessionPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Member Package\FormUpdateServiceSessionSPA_IPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberActivities\frmEditActivties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberActivities\frmNewActivities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmBlockMembershipID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmDeleteMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmDNCConsent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmIntroduceFriend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmIntroduceFriendReferral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmNewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmRequestTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmResetMembershipID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\frmSearchMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\ucMemberID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\ucNonMemberID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\MemberRecord\XtraReportMemberCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\OpenCarton\OpenCarton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Payment\FormChangesReceiptSalesPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Payment\FormRefund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Payment\FormRefund.Designer.cs">
+      <DependentUpon>FormRefund.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSBranch\Payment\FormSalesConvertion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Printing\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Printing\MyPrintControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Printing\rptIBT.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Printing\rptStockRequest.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\PromotionAdjustment\frmNewPromotionAdjustment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\PromotionAdjustment\frmNewPromotionSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\PromotionAdjustment\SearchPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\SalonUse\frmDeleteSalonUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\SalonUse\frmNewSalonUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormCancelServiceSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormMarkService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormNewSpaBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormNewSpaBooking_Advance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormNewUOBSpaBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\FormSpaBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\Spa Booking\SpaBooking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockInventory\frmBinNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockInventory\frmSearchByDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockInventory\frmSearchByItemCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockInventory\frmSearchByStyle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockInventory\frmStockSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockRequest\frmNewStockRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockRequest\frmProcessStockRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockRequest\frmRejectStockRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockRequest\frmSearchProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSBranch\StockRequest\SearchProduct.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ACMSDataSet.cs">
+      <DependentUpon>ACMSDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet5.cs">
+      <DependentUpon>ACMSDataSet5.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACMSDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSLogin\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmGIRO_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPPReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPP_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPP_Received.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPP_Send.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPP_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmIPP_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMd_Package.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMD_PackageAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMd_PackageGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMD_PackageGroupAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMD_SalesCommission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmMemberCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmPackage_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmSearchEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\frmSearchMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmPHMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmApprovedOvertime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmOvertimeMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmRoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmRosterMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmRosterNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmTimeSheetMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\frmTimeSheetUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\AllIncomeAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPActivePackageSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPAccountsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPAllIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPAllIncomeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPAllIncomeDetail.Designer.cs">
+      <DependentUpon>RPAllIncomeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPCashCardReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPCashCardReport.Designer.cs">
+      <DependentUpon>RPCashCardReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassAnalysisByVariable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassDayComparison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassDayComparison.Designer.cs">
+      <DependentUpon>RPClassDayComparison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPClassInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPCommission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPComSalesRanking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPCustomerVoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPDayClassAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPFitnessDailyBranchSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPGymAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPIncomeAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPInstructorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPInstructorFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPInsturctorSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPLateness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPMtMSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPNewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPPromotionAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPPromotionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPPromotionSalesPkg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPSalesMangement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPSpaDailyBranchSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPSpaFitness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPStaffReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPStaffSalesPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPStaffTimeOff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Reports\RPStockSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Human Resource\Timesheet.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmCashVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmCashVoucher.Designer.cs">
+      <DependentUpon>frmCashVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmCommission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmItem_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmItem_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmPromotionItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmReward.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmReward_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmReward_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmRoadShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmSalesTarget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmTerminalUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\MasterData\frmUserRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Operation\frmMemberCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Operation\frmMemberCardPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Operation\ServerSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Payroll\frmCommissionDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\Payroll\frmServiceReimbursement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSManager\TimeSheet_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\fmProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\fmProgress.designer.cs">
+      <DependentUpon>fmProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormAddBillFreebie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormAddCreditPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormAddItemFreebiesAndDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormAddRewards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormAddSalesPersonAndTherapist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormBillDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormCashVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormConvertPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormExtendLocker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormForgetCardAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormForgetCardReceiptSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormGetService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormIPP_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormLockerAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormMakePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormMineralWaterClosingDayCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormNewLocker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormPaymentPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormPayOutStanding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormPOS2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormReturnLocker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormTemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormTender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormTopUpCredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormTopUpSingleTreatment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormUpgradePackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FormUpgradePackageNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\FrmGIROFit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSPOS2\UpdateMemberGiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Contacts\Appointment\frmAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Contacts\Appointment\VerifyAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Contacts\frmContacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\CV\frmAssignCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\CV\frmNewCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\CV\frmNewCVAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Leave\frmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Leave\frmLeaveDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Memo\frmNewMemo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Memo\frmNewReceipient2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Memo\frmReplies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\ReceipientGroup\frmReceipientGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\ReceipientGroup\frmReceipientGroupEntries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Report\ReportAppointment.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Report\ReportCV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Report\ReportMemo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Timesheet\frmOvertime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\Timesheet\frmTimeSheetDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\Controls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\DateNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\DateNavigator.Designer.cs">
+      <DependentUpon>DateNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\DemosRegistration.cs" />
+    <Compile Include="ACMSStaff\To-Do-List\DemoUtils.cs" />
+    <Compile Include="ACMSStaff\To-Do-List\frmPDFviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\frmPDFviewer.Designer.cs">
+      <DependentUpon>frmPDFviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\frmTodolist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\frmTodolist.Designer.cs">
+      <DependentUpon>frmTodolist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\frmVideoPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\frmVideoPlayer.Designer.cs">
+      <DependentUpon>frmVideoPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\MyCustomEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\To-Do-List\MyCustomEditForm.Designer.cs">
+      <DependentUpon>MyCustomEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\ucWorkFlow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\ucWorkFlow.Designer.cs">
+      <DependentUpon>ucWorkFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\DemoControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\DragDrop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\DragDrop.Designer.cs">
+      <DependentUpon>DragDrop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\DragObject.cs" />
+    <Compile Include="ACMSStaff\WorkFlow\ExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\ExportForm.Designer.cs">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\MyCustomEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACMSStaff\WorkFlow\MyCustomEditForm.Designer.cs">
+      <DependentUpon>MyCustomEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACMSTimeCard\frmTimeCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\connSQLServer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Forms.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dataset\Branch\dsRewardTransaction.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRewardTransaction.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\DSPromotion.cs">
+      <DependentUpon>DSPromotion.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dcClassIns.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dcClassIns.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsAllIncomeDetail.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsAllIncomeDetail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsClassAttendance.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsClassAttendance.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsClassInstance.cs">
+      <DependentUpon>dsClassInstance.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsClassInstance.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsClassInstance.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsCreditPackageRestrition.cs">
+      <DependentUpon>dsCreditPackageRestrition.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsCreditPackageRestrition.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCreditPackageRestrition.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsEmployee.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsEmployee.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\DSPromotion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSPromotion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSWorkFlow.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSWorkFlow.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsWorkFLowDetail.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsWorkFLowDetail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Util\ObjectAdapter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Util\Properties.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Util\Strings.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmCloseShift.resx">
+      <DependentUpon>frmCloseShift.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmDepositMoney.resx">
+      <DependentUpon>frmDepositMoney.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmLockerMaintenance.resx">
+      <DependentUpon>frmLockerMaintenance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmMemberCard.resx">
+      <DependentUpon>frmMemberCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmOpenShift.resx">
+      <DependentUpon>frmOpenShift.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmPaymentCode.resx">
+      <DependentUpon>frmPaymentCode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmRosterMain.resx">
+      <DependentUpon>frmRosterMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRCrossSalesPackage.resx">
+      <DependentUpon>frmSRCrossSalesPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRFitnessPackage.resx">
+      <DependentUpon>frmSRFitnessPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRFitnessProduct.resx">
+      <DependentUpon>frmSRFitnessProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRIPLService.resx">
+      <DependentUpon>frmSRIPLService.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRMerge.resx">
+      <DependentUpon>frmSRMerge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRPTPackage.resx">
+      <DependentUpon>frmSRPTPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRSPAPackage.resx">
+      <DependentUpon>frmSRSPAPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmSRSPAProduct.resx">
+      <DependentUpon>frmSRSPAProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmTransferLocker.resx">
+      <DependentUpon>frmTransferLocker.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmVerifyCloseShift.resx">
+      <DependentUpon>frmVerifyCloseShift.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\frmVerifyEmployee.resx">
+      <DependentUpon>frmVerifyEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\LoginOpenShift.resx">
+      <DependentUpon>LoginOpenShift.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\rptRoster.resx">
+      <DependentUpon>rptRoster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\BranchTransaction\rptShiftSettlement.resx">
+      <DependentUpon>rptShiftSettlement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormAssignReplacementInstructor.resx">
+      <DependentUpon>FormAssignReplacementInstructor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormCancelClassAttendance.resx">
+      <DependentUpon>FormCancelClassAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormCancelClassInstance.resx">
+      <DependentUpon>FormCancelClassInstance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormChangeClass.resx">
+      <DependentUpon>FormChangeClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormNewClassAttendance.resx">
+      <DependentUpon>FormNewClassAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\FormNewNormalClassReservation.resx">
+      <DependentUpon>FormNewNormalClassReservation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\InstructorLogin.resx">
+      <DependentUpon>InstructorLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Class Attendance\VerifyClassInstances.resx">
+      <DependentUpon>VerifyClassInstances.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormDeleteMemberCreditPackage.resx">
+      <DependentUpon>FormDeleteMemberCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormNewMemberCreditPackageUsage.af-ZA.resx">
+      <DependentUpon>FormNewMemberCreditPackageUsage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormNewMemberCreditPackageUsage.af.resx">
+      <DependentUpon>FormNewMemberCreditPackageUsage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormNewMemberCreditPackageUsage.resx">
+      <DependentUpon>FormNewMemberCreditPackageUsage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormTransferMemberCreditPackage.resx">
+      <DependentUpon>FormTransferMemberCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\FormUpdateMemberCreditPackage.resx">
+      <DependentUpon>FormUpdateMemberCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Credit Package\frmNewCreditPackage.resx">
+      <DependentUpon>frmNewCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Customer Voice\FormEditCustomerVoice.resx">
+      <DependentUpon>FormEditCustomerVoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Customer Voice\FormNewCustomerVoice.resx">
+      <DependentUpon>FormNewCustomerVoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Customer Voice\FormNewCVAction.resx">
+      <DependentUpon>FormNewCVAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\CreditAc.resx">
+      <DependentUpon>CreditAc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\CreditAcJoin.resx">
+      <DependentUpon>CreditAcJoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\DigSignature.resx">
+      <DependentUpon>DigSignature.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\DNCDigSignature.resx">
+      <DependentUpon>DNCDigSignature.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\PackageAccountRpt.resx">
+      <DependentUpon>PackageAccountRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\PackageAccountRptJoin.resx">
+      <DependentUpon>PackageAccountRptJoin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\DigitalSignature\RedemptionRpt.resx">
+      <DependentUpon>RedemptionRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\frmBranch.resx">
+      <DependentUpon>frmBranch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\frmClassSchedule.resx">
+      <DependentUpon>frmClassSchedule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\frmException.resx">
+      <DependentUpon>frmException.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\frmRoster.resx">
+      <DependentUpon>frmRoster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Home\frmBranchBulletinDetails.resx">
+      <DependentUpon>frmBranchBulletinDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Home\frmBranchBulletinReply.resx">
+      <DependentUpon>frmBranchBulletinReply.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Home\rptBulletin.resx">
+      <DependentUpon>rptBulletin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\InterBranchTransfer\frmNewInterBranchTransfer.resx">
+      <DependentUpon>frmNewInterBranchTransfer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Loyalty Program\FormNewRedemption.resx">
+      <DependentUpon>FormNewRedemption.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormConvertMemberCreditPackage.resx">
+      <DependentUpon>FormConvertMemberCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormConvertMemberPackage.resx">
+      <DependentUpon>FormConvertMemberPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewClassAttendance.resx">
+      <DependentUpon>FormNewClassAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewMemberCreditPackageExtension.resx">
+      <DependentUpon>FormNewMemberCreditPackageExtension.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewMemberPackage.resx">
+      <DependentUpon>FormNewMemberPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewMemberPackageExtension.resx">
+      <DependentUpon>FormNewMemberPackageExtension.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewPromotionMemberPackage.resx">
+      <DependentUpon>FormNewPromotionMemberPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewServiceSessionPT.resx">
+      <DependentUpon>FormNewServiceSessionPT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormNewServiceSessionSPA_IPL.resx">
+      <DependentUpon>FormNewServiceSessionSPA_IPL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormPaymentPlanToOverdueList.resx">
+      <DependentUpon>FormPaymentPlanToOverdueList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormTop5Spa.resx">
+      <DependentUpon>FormTop5Spa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormTransferMemberPackage.resx">
+      <DependentUpon>FormTransferMemberPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormUpdateClassAttendance.resx">
+      <DependentUpon>FormUpdateClassAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormUpdateMemberPackageExtension.resx">
+      <DependentUpon>FormUpdateMemberPackageExtension.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormUpdateServiceSessionPT.resx">
+      <DependentUpon>FormUpdateServiceSessionPT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Member Package\FormUpdateServiceSessionSPA_IPL.resx">
+      <DependentUpon>FormUpdateServiceSessionSPA_IPL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberActivities\frmEditActivties.resx">
+      <DependentUpon>frmEditActivties.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberActivities\frmNewActivities.resx">
+      <DependentUpon>frmNewActivities.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmBlockMembershipID.resx">
+      <DependentUpon>frmBlockMembershipID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmDeleteMember.resx">
+      <DependentUpon>frmDeleteMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmDNCConsent.resx">
+      <DependentUpon>frmDNCConsent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmIntroduceFriend.resx">
+      <DependentUpon>frmIntroduceFriend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmIntroduceFriendReferral.resx">
+      <DependentUpon>frmIntroduceFriendReferral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmNewMember.resx">
+      <DependentUpon>frmNewMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmRequestTransfer.resx">
+      <DependentUpon>frmRequestTransfer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmResetMembershipID.resx">
+      <DependentUpon>frmResetMembershipID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\frmSearchMember.resx">
+      <DependentUpon>frmSearchMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\ucMemberID.resx">
+      <DependentUpon>ucMemberID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\ucNonMemberID.resx">
+      <DependentUpon>ucNonMemberID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\MemberRecord\XtraReportMemberCard.resx">
+      <DependentUpon>XtraReportMemberCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\OpenCarton\OpenCarton.resx">
+      <DependentUpon>OpenCarton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Payment\FormChangesReceiptSalesPerson.resx">
+      <DependentUpon>FormChangesReceiptSalesPerson.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Payment\FormRefund.resx">
+      <DependentUpon>FormRefund.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Payment\FormSalesConvertion.resx">
+      <DependentUpon>FormSalesConvertion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Printing\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Printing\MyPrintControl.resx">
+      <DependentUpon>MyPrintControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Printing\rptIBT.resx">
+      <DependentUpon>rptIBT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Printing\rptStockRequest.resx">
+      <DependentUpon>rptStockRequest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\PromotionAdjustment\frmNewPromotionAdjustment.resx">
+      <DependentUpon>frmNewPromotionAdjustment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\PromotionAdjustment\frmNewPromotionSelection.resx">
+      <DependentUpon>frmNewPromotionSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\PromotionAdjustment\SearchPromotion.resx">
+      <DependentUpon>SearchPromotion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\SalonUse\frmDeleteSalonUse.resx">
+      <DependentUpon>frmDeleteSalonUse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\SalonUse\frmNewSalonUse.resx">
+      <DependentUpon>frmNewSalonUse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormCancelServiceSession.resx">
+      <DependentUpon>FormCancelServiceSession.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormMarkService.resx">
+      <DependentUpon>FormMarkService.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormNewSpaBooking.resx">
+      <DependentUpon>FormNewSpaBooking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormNewSpaBooking_Advance.resx">
+      <DependentUpon>FormNewSpaBooking_Advance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormNewUOBSpaBooking.resx">
+      <DependentUpon>FormNewUOBSpaBooking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\FormSpaBooking.resx">
+      <DependentUpon>FormSpaBooking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\Spa Booking\SpaBooking.resx">
+      <DependentUpon>SpaBooking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockInventory\frmBinNo.resx">
+      <DependentUpon>frmBinNo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockInventory\frmSearchByDescription.resx">
+      <DependentUpon>frmSearchByDescription.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockInventory\frmSearchByItemCode.resx">
+      <DependentUpon>frmSearchByItemCode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockInventory\frmSearchByStyle.resx">
+      <DependentUpon>frmSearchByStyle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockInventory\frmStockSearch.resx">
+      <DependentUpon>frmStockSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockRequest\frmNewStockRequest.resx">
+      <DependentUpon>frmNewStockRequest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockRequest\frmProcessStockRequest.resx">
+      <DependentUpon>frmProcessStockRequest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockRequest\frmRejectStockRequest.resx">
+      <DependentUpon>frmRejectStockRequest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSBranch\StockRequest\frmSearchProduct.resx">
+      <DependentUpon>frmSearchProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSLogin\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmGIRO_Add.resx">
+      <DependentUpon>frmGIRO_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPPReceipt.resx">
+      <DependentUpon>frmIPPReceipt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPP_Add.resx">
+      <DependentUpon>frmIPP_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPP_Received.resx">
+      <DependentUpon>frmIPP_Received.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPP_Send.resx">
+      <DependentUpon>frmIPP_Send.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPP_Update.resx">
+      <DependentUpon>frmIPP_Update.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmIPP_View.resx">
+      <DependentUpon>frmIPP_View.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmManager.resx">
+      <DependentUpon>frmManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMd_Package.resx">
+      <DependentUpon>frmMd_Package.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMD_PackageAdd.resx">
+      <DependentUpon>frmMD_PackageAdd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMd_PackageGroup.resx">
+      <DependentUpon>frmMd_PackageGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMD_PackageGroupAdd.resx">
+      <DependentUpon>frmMD_PackageGroupAdd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMD_SalesCommission.resx">
+      <DependentUpon>frmMD_SalesCommission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmMemberCard.resx">
+      <DependentUpon>frmMemberCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmPackage_Add.resx">
+      <DependentUpon>frmPackage_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmSearchEmployee.resx">
+      <DependentUpon>frmSearchEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\frmSearchMember.resx">
+      <DependentUpon>frmSearchMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmPHMain.resx">
+      <DependentUpon>frmPHMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmAppointment.resx">
+      <DependentUpon>frmAppointment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmApprovedOvertime.resx">
+      <DependentUpon>frmApprovedOvertime.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmLeave.resx">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmOvertimeMain.resx">
+      <DependentUpon>frmOvertimeMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmRoster.resx">
+      <DependentUpon>frmRoster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmRosterMain.resx">
+      <DependentUpon>frmRosterMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmRosterNew.resx">
+      <DependentUpon>frmRosterNew.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmTimeSheetMain.resx">
+      <DependentUpon>frmTimeSheetMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\frmTimeSheetUpdate.resx">
+      <DependentUpon>frmTimeSheetUpdate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\AllIncomeAnalysis.resx">
+      <DependentUpon>AllIncomeAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPActivePackageSales.resx">
+      <DependentUpon>RPActivePackageSales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPAccountsReport.resx">
+      <DependentUpon>RPAccountsReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPAllIncome.resx">
+      <DependentUpon>RPAllIncome.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPAllIncomeDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RPAllIncomeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPCashCardReport.resx">
+      <DependentUpon>RPCashCardReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPClassAnalysis.resx">
+      <DependentUpon>RPClassAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPClassAnalysisByVariable.resx">
+      <DependentUpon>RPClassAnalysisByVariable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPClassDayComparison.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RPClassDayComparison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPClassDetail.resx">
+      <DependentUpon>RPClassDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPClassInstructor.resx">
+      <DependentUpon>RPClassInstructor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPCommission.resx">
+      <DependentUpon>RPCommission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPComSalesRanking.resx">
+      <DependentUpon>RPComSalesRanking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPCustomerVoice.resx">
+      <DependentUpon>RPCustomerVoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPDayClassAnalysis.resx">
+      <DependentUpon>RPDayClassAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPFitnessDailyBranchSales.resx">
+      <DependentUpon>RPFitnessDailyBranchSales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPGymAnalysis.resx">
+      <DependentUpon>RPGymAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPIncomeAnalysis.resx">
+      <DependentUpon>RPIncomeAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPInstructorDetails.resx">
+      <DependentUpon>RPInstructorDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPInstructorFees.resx">
+      <DependentUpon>RPInstructorFees.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPInsturctorSalary.resx">
+      <DependentUpon>RPInsturctorSalary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPLateness.resx">
+      <DependentUpon>RPLateness.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPLeave.resx">
+      <DependentUpon>RPLeave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPMtMSales.resx">
+      <DependentUpon>RPMtMSales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPNewMember.resx">
+      <DependentUpon>RPNewMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPOperation.resx">
+      <DependentUpon>RPOperation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPPromotionAnalysis.resx">
+      <DependentUpon>RPPromotionAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPPromotionReport.resx">
+      <DependentUpon>RPPromotionReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPPromotionSalesPkg.resx">
+      <DependentUpon>RPPromotionSalesPkg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPSalesMangement.resx">
+      <DependentUpon>RPSalesMangement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPSpaDailyBranchSales.resx">
+      <DependentUpon>RPSpaDailyBranchSales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPSpaFitness.resx">
+      <DependentUpon>RPSpaFitness.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPStaffReport.resx">
+      <DependentUpon>RPStaffReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPStaffSalesPerformance.resx">
+      <DependentUpon>RPStaffSalesPerformance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPStaffTimeOff.resx">
+      <DependentUpon>RPStaffTimeOff.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPStock.resx">
+      <DependentUpon>RPStock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Human Resource\Reports\RPStockSalon.resx">
+      <DependentUpon>RPStockSalon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmBank.resx">
+      <DependentUpon>frmBank.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmBranch.resx">
+      <DependentUpon>frmBranch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmCashVoucher.resx">
+      <DependentUpon>frmCashVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmClass.resx">
+      <DependentUpon>frmClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmCommission.resx">
+      <DependentUpon>frmCommission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmInventory.resx">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmItem_Add.resx">
+      <DependentUpon>frmItem_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmItem_Edit.resx">
+      <DependentUpon>frmItem_Edit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmLeave.resx">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmPackage.resx">
+      <DependentUpon>frmPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmPromotion.resx">
+      <DependentUpon>frmPromotion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmPromotionItem.resx">
+      <DependentUpon>frmPromotionItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmReceipt.resx">
+      <DependentUpon>frmReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmReward.resx">
+      <DependentUpon>frmReward.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmReward_Add.resx">
+      <DependentUpon>frmReward_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmReward_Edit.resx">
+      <DependentUpon>frmReward_Edit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmRoadShow.resx">
+      <DependentUpon>frmRoadShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmSalesTarget.resx">
+      <DependentUpon>frmSalesTarget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmService.resx">
+      <DependentUpon>frmService.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmTerminalUser.resx">
+      <DependentUpon>frmTerminalUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\MasterData\frmUserRights.resx">
+      <DependentUpon>frmUserRights.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Operation\frmMemberCard.resx">
+      <DependentUpon>frmMemberCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Operation\frmMemberCardPhoto.resx">
+      <DependentUpon>frmMemberCardPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Operation\ServerSource.resx">
+      <DependentUpon>ServerSource.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Payroll\frmCommissionDetails.resx">
+      <DependentUpon>frmCommissionDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\Payroll\frmServiceReimbursement.resx">
+      <DependentUpon>frmServiceReimbursement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSManager\TimeSheet_Add.resx">
+      <DependentUpon>TimeSheet_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\fmProgress.resx">
+      <DependentUpon>fmProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormAddBillFreebie.resx">
+      <DependentUpon>FormAddBillFreebie.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormAddCreditPackage.resx">
+      <DependentUpon>FormAddCreditPackage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormAddItemFreebiesAndDiscount.resx">
+      <DependentUpon>FormAddItemFreebiesAndDiscount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormAddRewards.resx">
+      <DependentUpon>FormAddRewards.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormAddSalesPersonAndTherapist.resx">
+      <DependentUpon>FormAddSalesPersonAndTherapist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormBillDiscount.resx">
+      <DependentUpon>FormBillDiscount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormCashVoucher.resx">
+      <DependentUpon>FormCashVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormConvertPackage.resx">
+      <DependentUpon>FormConvertPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormExtendLocker.resx">
+      <DependentUpon>FormExtendLocker.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormForgetCardAction.resx">
+      <DependentUpon>FormForgetCardAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormForgetCardReceiptSelection.resx">
+      <DependentUpon>FormForgetCardReceiptSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormGetService.resx">
+      <DependentUpon>FormGetService.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormIPP_Add.resx">
+      <DependentUpon>FormIPP_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormLockerAction.resx">
+      <DependentUpon>FormLockerAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormMakePayment.resx">
+      <DependentUpon>FormMakePayment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormMineralWaterClosingDayCount.resx">
+      <DependentUpon>FormMineralWaterClosingDayCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormNewLocker.resx">
+      <DependentUpon>FormNewLocker.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormPaymentPlan.resx">
+      <DependentUpon>FormPaymentPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormPayOutStanding.resx">
+      <DependentUpon>FormPayOutStanding.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormPOS2.resx">
+      <DependentUpon>FormPOS2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormReturnLocker.resx">
+      <DependentUpon>FormReturnLocker.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormTemp.resx">
+      <DependentUpon>FormTemp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormTender.resx">
+      <DependentUpon>FormTender.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormTopUpCredit.resx">
+      <DependentUpon>FormTopUpCredit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormTopUpSingleTreatment.resx">
+      <DependentUpon>FormTopUpSingleTreatment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormUpgradePackage.resx">
+      <DependentUpon>FormUpgradePackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FormUpgradePackageNew.resx">
+      <DependentUpon>FormUpgradePackageNew.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\FrmGIROFit.resx">
+      <DependentUpon>FrmGIROFit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSPOS2\UpdateMemberGiro.resx">
+      <DependentUpon>UpdateMemberGiro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Contacts\Appointment\frmAppointment.resx">
+      <DependentUpon>frmAppointment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Contacts\Appointment\VerifyAppointment.resx">
+      <DependentUpon>VerifyAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Contacts\frmContacts.resx">
+      <DependentUpon>frmContacts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\CV\frmAssignCV.resx">
+      <DependentUpon>frmAssignCV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\CV\frmNewCV.resx">
+      <DependentUpon>frmNewCV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\CV\frmNewCVAction.resx">
+      <DependentUpon>frmNewCVAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Leave\frmLeave.resx">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Leave\frmLeaveDetail.resx">
+      <DependentUpon>frmLeaveDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Memo\frmNewMemo2.resx">
+      <DependentUpon>frmNewMemo2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Memo\frmNewReceipient2.resx">
+      <DependentUpon>frmNewReceipient2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Memo\frmReplies.resx">
+      <DependentUpon>frmReplies.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\ReceipientGroup\frmReceipientGroup.resx">
+      <DependentUpon>frmReceipientGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\ReceipientGroup\frmReceipientGroupEntries.resx">
+      <DependentUpon>frmReceipientGroupEntries.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Report\ReportAppointment.resx">
+      <DependentUpon>ReportAppointment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Report\ReportCV.resx">
+      <DependentUpon>ReportCV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Report\ReportMemo.resx">
+      <DependentUpon>ReportMemo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Timesheet\frmOvertime.resx">
+      <DependentUpon>frmOvertime.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\Timesheet\frmTimeSheetDetail.resx">
+      <DependentUpon>frmTimeSheetDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\Controls.resx">
+      <DependentUpon>Controls.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\DateNavigator.resx">
+      <DependentUpon>DateNavigator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\frmPDFviewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPDFviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\frmTodolist.resx">
+      <DependentUpon>frmTodolist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\frmVideoPlayer.resx">
+      <DependentUpon>frmVideoPlayer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\To-Do-List\MyCustomEditForm.resx">
+      <DependentUpon>MyCustomEditForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\WorkFlow\DragDrop.resx">
+      <DependentUpon>DragDrop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\WorkFlow\ExportForm.resx">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\WorkFlow\MyCustomEditForm.resx">
+      <DependentUpon>MyCustomEditForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSStaff\WorkFlow\ucWorkFlow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucWorkFlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACMSTimeCard\frmTimeCard.resx">
+      <DependentUpon>frmTimeCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dataset\Member\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>call "$(DevEnvDir)..\tools\vsvars32.bat"
+link.exe /EDIT /TSAWARE:NO "$(TargetDir)ACMS.exe"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

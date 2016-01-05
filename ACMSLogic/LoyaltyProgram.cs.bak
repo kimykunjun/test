@@ -1,0 +1,176 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using ACMSDAL;
+
+namespace ACMSLogic
+{
+	/// <summary>
+	/// Summary description for LoyaltyProgram.
+	/// </summary>
+	public class LoyaltyProgram
+	{
+		private DataTable myDataTable;
+		private TblRewardsTransaction myRewardsTrans;
+ 
+
+		public LoyaltyProgram()
+		{
+			//
+			// TODO: Add constructor logic here
+			//
+			myRewardsTrans = new TblRewardsTransaction();
+			myDataTable = new DataTable();
+		}
+
+		public DataTable Table
+		{
+			get {return myDataTable;}
+		}
+
+		public DataTable GetRewardsTransaction(string strMembershipID)
+		{
+			myRewardsTrans.StrMembershipID = strMembershipID;
+			myDataTable = myRewardsTrans.SelectAllWstrMembershipIDLogic();
+			
+			if (!myDataTable.Columns.Contains("strDescription"))
+			{
+				DataColumn colDesc = new DataColumn("strDescription", typeof(string));
+				myDataTable.Columns.Add(colDesc);
+			}
+
+			foreach (DataRow r in myDataTable.Rows)
+			{
+				if (r["nTypeID"].ToString() == "0")
+				{
+					r["strDescription"] = "Introduce A Friend";
+				}
+				else if (r["nTypeID"].ToString() == "1")
+				{
+					r["strDescription"] = "Receipt (for purchase)";
+				}
+				else if (r["nTypeID"].ToString() == "2")
+				{
+					r["strDescription"] = "Redemption";
+				}
+				else if (r["nTypeID"].ToString() == "3")
+				{
+					r["strDescription"] = "Void receipt";
+				}
+			}
+			return myDataTable;
+		}
+		
+		public void DeleteRedemption(int nTransactionID, int qtyOfItemToRestoreAfterDelete)
+		{
+			TblRewardsTransaction rewardTrans = new TblRewardsTransaction();
+			rewardTrans.NTransactionID = nTransactionID;
+			rewardTrans.SelectOne();
+
+			if (rewardTrans.NTypeID != 2)
+				throw new Exception("You have no right to delete this record. It is not a redemption.");
+
+			string itemCode = rewardTrans.StrReferenceNo.IsNull ? "" : rewardTrans.StrReferenceNo.Value;
+
+			TblProductInventory productInvent = new TblProductInventory();
+			productInvent.StrProductCode = itemCode;
+			productInvent.SelectOne();
+
+			productInvent.NQuantity = ACMS.Convert.ToInt32(productInvent.NQuantity) + qtyOfItemToRestoreAfterDelete;
+
+			ACMSDAL.ConnectionProvider connProvider = new ConnectionProvider();
+
+			try
+			{
+				
+				rewardTrans.MainConnectionProvider = connProvider;
+				productInvent.MainConnectionProvider = connProvider;
+
+				connProvider.OpenConnection();
+				connProvider.BeginTransaction("DeleteRedemption");
+				rewardTrans.Delete();
+				productInvent.Update();
+
+				connProvider.CommitTransaction();
+			}
+			catch (Exception)
+			{
+				connProvider.RollbackTransaction("DeleteRedemption");
+				throw;
+			}
+			finally
+			{
+				if (connProvider.CurrentTransaction != null)
+					connProvider.CurrentTransaction.Dispose();
+
+				if (connProvider.DBConnection != null)
+				{
+					if (connProvider.DBConnection.State == ConnectionState.Open)
+						connProvider.DBConnection.Close();
+				}
+				rewardTrans.MainConnactionIsCreatedLocal = true;
+				productInvent.MainConnactionIsCreatedLocal = true;
+			}
+			
+		}
+
+
+		public void NewRedemption(string strMembershipID, string itemCode, int qtyOfItemCodeToRedempt)
+		{
+			TblRewardsCatalogue catalogue = new TblRewardsCatalogue();
+			catalogue.StrItemCode = itemCode;
+			catalogue.SelectOne();
+
+			TblRewardsTransaction rewardTrans = new TblRewardsTransaction();
+			rewardTrans.StrMembershipID = strMembershipID;
+			rewardTrans.DtDate = DateTime.Now;
+			rewardTrans.NTypeID = 2;
+			rewardTrans.StrReferenceNo = itemCode;
+			rewardTrans.NEmployeeID = User.EmployeeID;
+			rewardTrans.StrBranchCode = User.BranchCode;
+
+			if (!catalogue.DRewardsPoints.IsNull)
+				rewardTrans.DRewardsPoints = - catalogue.DRewardsPoints.Value; 
+			
+			TblProductInventory productInvent = new TblProductInventory();
+			productInvent.StrProductCode = itemCode;
+			productInvent.SelectOne();
+
+			productInvent.NQuantity = ACMS.Convert.ToInt32(productInvent.NQuantity) - qtyOfItemCodeToRedempt;
+
+			ACMSDAL.ConnectionProvider connProvider = new ConnectionProvider();
+
+			try
+			{
+				
+				rewardTrans.MainConnectionProvider = connProvider;
+				productInvent.MainConnectionProvider = connProvider;
+
+				connProvider.OpenConnection();
+				connProvider.BeginTransaction("Redemption");
+				rewardTrans.Insert();
+				productInvent.Update();
+
+				connProvider.CommitTransaction();
+			}
+			catch (Exception)
+			{
+				connProvider.RollbackTransaction("Redemption");
+				throw;
+			}
+			finally
+			{
+				if (connProvider.CurrentTransaction != null)
+					connProvider.CurrentTransaction.Dispose();
+
+				if (connProvider.DBConnection != null)
+				{
+					if (connProvider.DBConnection.State == ConnectionState.Open)
+						connProvider.DBConnection.Close();
+				}
+				rewardTrans.MainConnactionIsCreatedLocal = true;
+				productInvent.MainConnactionIsCreatedLocal = true;
+			}
+		}
+	}
+}

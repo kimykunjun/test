@@ -1,0 +1,542 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using ACMSDAL;
+
+
+namespace ACMSLogic
+{
+	/// <summary>
+	/// Summary description for CreditAccount.
+	/// </summary>
+	/// 
+	public class CreditAccount
+	{
+		private TblMemberCreditPackage myCreditPkg;
+		private DataTable myDataTable;
+
+		public CreditAccount()
+		{
+			//
+			// TODO: Add constructor logic here
+			//
+
+			Init();
+		}
+		
+		private void Init()
+		{
+			myCreditPkg = new TblMemberCreditPackage();
+			
+		}
+
+		public void Refresh(string strMembershipID)
+		{
+			myDataTable = myCreditPkg.GetValidMemberCreditPackage(strMembershipID);
+			
+			if (myDataTable != null)
+			{
+				if (!myDataTable.Columns.Contains("Balance"))
+				{
+					DataColumn colBalance = new DataColumn("Balance", System.Type.GetType("System.Decimal"));
+					myDataTable.Columns.Add(colBalance);
+				}
+                if (!myDataTable.Columns.Contains("strBalNew"))
+                {
+                    DataColumn colFNew = new DataColumn("strBalNew", System.Type.GetType("System.String"));
+                    myDataTable.Columns.Add(colFNew);
+                }
+				MemberPackage memberPackage = new MemberPackage();
+				//Select Sum (mCreditPackageUsagePrice) From tblMemberPackage 
+				//Where nCreditPackageID = A.nCreditPackageID and nStatusID <> 2 Group by nCreditPackageID
+				int nCreditPackageID = 0;
+				foreach (DataRow r in myDataTable.Rows)
+				{
+					nCreditPackageID = ACMS.Convert.ToInt32(r["nCreditPackageID"]);
+					r["Balance"] = ACMS.Convert.ToDecimal(r["mCreditAmount"]) + ACMS.Convert.ToDecimal(r["mTopupAmount"]) -
+						memberPackage.GetCreditPackageUsagePrice(nCreditPackageID);
+                    r["strBalNew"] = 0;
+				}
+			}
+		}
+
+		public DataView GetValidCreditPackage(string strMembershipID)
+		{
+			DataTable table = myCreditPkg.GetValid_NonExpiry_MemberCreditPackage(strMembershipID);
+
+			if (table != null)
+			{
+				if (!table.Columns.Contains("Balance"))
+				{
+					DataColumn colBalance = new DataColumn("Balance", System.Type.GetType("System.Decimal"));
+					table.Columns.Add(colBalance);
+				}
+				MemberPackage memberPackage = new MemberPackage();
+				//Select Sum (mCreditPackageUsagePrice) From tblMemberPackage 
+				//Where nCreditPackageID = A.nCreditPackageID and nStatusID <> 2 Group by nCreditPackageID
+				int nCreditPackageID = 0;
+				foreach (DataRow r in table.Rows)
+				{
+					nCreditPackageID = ACMS.Convert.ToInt32(r["nCreditPackageID"]);
+					r["Balance"] = ACMS.Convert.ToDecimal(r["mCreditAmount"]) + ACMS.Convert.ToDecimal(r["mTopupAmount"]) -
+						memberPackage.GetCreditPackageUsagePrice(nCreditPackageID);
+				}
+				
+				table.DefaultView.RowFilter = "Balance > 0";
+				return table.DefaultView;
+				
+			}
+			else
+				return null;
+
+		}
+
+		public DataTable New()
+		{
+			myCreditPkg.NCreditPackageID = -1;
+			DataTable table = myCreditPkg.SelectOne();
+			DataRow row = table.NewRow();
+			row["dtLastEditDate"] = ACMS.Convert.ToDateTime(System.DateTime.Today);
+			row["dtPurchaseDate"] = ACMS.Convert.ToDateTime(System.DateTime.Today);
+			row["nEmployeeID"] = User.EmployeeID;
+			row["nStatusID"] = 0;
+			table.Rows.Add(row);
+
+			return table;
+		}
+
+		public static void InitMemberCreditPackageRowInPOS(DataRow memberCreditPackageRow, string strReceiptNo,
+			string strMembershipID, string strCreditPackageCode, bool isFree)
+		{
+			TblCreditPackage creditPackage = new TblCreditPackage();
+			creditPackage.StrCreditPackageCode = strCreditPackageCode;
+			creditPackage.SelectOne();
+
+			int validMonths = creditPackage.NValidMonths.IsNull ? 0 : creditPackage.NValidMonths.Value;
+			memberCreditPackageRow["strMembershipID"] = strMembershipID;
+			memberCreditPackageRow["strCreditPackageCode"] = strCreditPackageCode;
+			memberCreditPackageRow["dtPurchaseDate"] = System.DateTime.Today.Date;
+			memberCreditPackageRow["dtExpiryDate"] = System.DateTime.Today.AddMonths(validMonths).AddDays(-1);
+			memberCreditPackageRow["fFree"] = isFree ? 1 : 0;
+			memberCreditPackageRow["strReceiptNo"] = strReceiptNo;
+			memberCreditPackageRow["nStatusID"] = 0;
+			memberCreditPackageRow["nEmployeeID"] = ACMSLogic.User.EmployeeID;
+			memberCreditPackageRow["dtLastEditDate"] = System.DateTime.Now;
+			memberCreditPackageRow["mTopupAmount"] = 0;
+
+		}
+		
+		public void TransferMemberCreditPackage(int nCreditPackageID, string newStrMemberShipID, string remark)
+		{
+			myCreditPkg.NCreditPackageID = nCreditPackageID;
+			myCreditPkg.SelectOne();
+			myCreditPkg.StrRemarks = remark;
+			TblAudit audit = new TblAudit();
+			audit.NAuditTypeID = AuditTypeID.TransferMemberCreditPackage;
+			audit.NEmployeeID = User.EmployeeID;
+			audit.DtDate = DateTime.Now;
+			audit.StrReference= nCreditPackageID.ToString();
+			audit.StrAuditEntry= "Old Owner : " + myCreditPkg.StrMembershipID + " New Owner : " + newStrMemberShipID; 
+			myCreditPkg.StrMembershipID = newStrMemberShipID;
+			
+			TblMemberPackage sqlMemberPackage = new TblMemberPackage();
+			
+			ACMSDAL.ConnectionProvider connProvider = new ConnectionProvider();
+
+			try
+			{
+					
+				myCreditPkg.MainConnectionProvider = connProvider;
+				audit.MainConnectionProvider = connProvider;
+				sqlMemberPackage.MainConnectionProvider = connProvider;
+
+				sqlMemberPackage.NCreditPackageID = nCreditPackageID;
+				DataTable memberPackageTable = sqlMemberPackage.SelectAllWnCreditPackageIDLogic();
+				
+				foreach (DataRow row in memberPackageTable.Rows)
+				{
+					row["strMembershipID"] = newStrMemberShipID;
+				}
+
+				connProvider.OpenConnection();
+				connProvider.BeginTransaction("TransferMemberCreditPackage");
+				
+				myCreditPkg.Update();
+				sqlMemberPackage.SaveData(memberPackageTable);
+				audit.Insert();
+
+				connProvider.CommitTransaction();
+			}
+			catch (Exception)
+			{
+				connProvider.RollbackTransaction("TransferMemberCreditPackage");
+				throw;
+			}
+			finally
+			{
+				if (connProvider.CurrentTransaction != null)
+					connProvider.CurrentTransaction.Dispose();
+				if (connProvider.DBConnection != null)
+				{
+					if (connProvider.DBConnection.State == ConnectionState.Open)
+						connProvider.DBConnection.Close();
+				}
+				myCreditPkg.MainConnactionIsCreatedLocal = true;
+				audit.MainConnactionIsCreatedLocal = true;
+			}
+		}
+
+		public bool Delete(int creditPackageID)
+		{
+			myCreditPkg.NCreditPackageID = creditPackageID;
+			myCreditPkg.SelectOne();
+			myCreditPkg.NStatusID = 2;
+			TblAudit audit = new TblAudit();
+			audit.NAuditTypeID = AuditTypeID.DeleteMemberCreditPackage;
+			audit.NEmployeeID = User.EmployeeID;
+			audit.StrAuditEntry = " Delete member credit Package " + creditPackageID.ToString();
+			audit.StrReference = creditPackageID.ToString();
+			
+			ACMSDAL.ConnectionProvider connProvider = new ConnectionProvider();
+
+			try
+			{
+				
+				myCreditPkg.MainConnectionProvider = connProvider;
+				audit.MainConnectionProvider = connProvider;
+				connProvider.OpenConnection();
+				connProvider.BeginTransaction("DeleteMemberCreditPackage");
+				
+				myCreditPkg.Update();
+				audit.Insert();
+
+				connProvider.CommitTransaction();
+				return true;
+			}
+			catch (Exception)
+			{
+				connProvider.RollbackTransaction("DeleteMemberCreditPackage");
+				throw;
+			}
+			finally
+			{
+				if (connProvider.CurrentTransaction != null)
+					connProvider.CurrentTransaction.Dispose();
+				if (connProvider.DBConnection != null)
+				{
+					if (connProvider.DBConnection.State == ConnectionState.Open)
+						connProvider.DBConnection.Close();
+				}
+				myCreditPkg.MainConnactionIsCreatedLocal = true;
+				audit.MainConnactionIsCreatedLocal = true;
+			}
+		}
+		
+		/// <summary>
+		/// 2.2..3.4) Update Member Credit Package
+		/// </summary>
+		/// <param name="nCreditPackgeID"></param>
+		/// <param name="packageExpiryDate"></param>
+		public void UpdateMemberCreditPackage(int nCreditPackgeID, DateTime packageExpiryDate)
+		{
+			myCreditPkg.NCreditPackageID = nCreditPackgeID;
+			myCreditPkg.SelectOne();
+			myCreditPkg.DtExpiryDate = packageExpiryDate;
+			myCreditPkg.NEmployeeID = User.EmployeeID;
+			myCreditPkg.DtLastEditDate = DateTime.Now;
+			myCreditPkg.Update();
+		}
+
+		
+		/// <summary>
+		/// 2.2.3.6) view Credit Package Usage.
+		/// </summary>
+		/// <param name="nCreditPackageID"></param>
+		/// <param name="strMembershipID"></param>
+		/// <returns></returns>
+		public DataTable GetValidCreditPackageUsage(int nCreditPackageID, string strMembershipID)
+		{
+			TblMemberPackage memberPackage = new TblMemberPackage();
+            DataTable table = memberPackage.GetValidCreditPackageUsage(nCreditPackageID, strMembershipID);
+            ACMSLogic.MemberPackage.CalculateCreditMemberPackageBalance(table); 
+           // string strPackageCode = table.Rows[0]["StrPackageCode"].ToString();
+           // ACMSLogic.MemberPackage.CalculateMemberPackageBalance(strPackageCode, strMembershipID, table);
+
+      		return table;
+		}
+		
+		/// <summary>
+		/// Use Member Credit Package means use the credit to buy the package and then store in the tblMemberPackage
+		/// be aware some package is not allow to purchase using credit package. Must check tblCreditPackageRestriction
+		/// </summary>
+		/// <returns></returns>
+		public string[,]  UseMemberCreditPackage(string[,] strPackageCode,
+            int nCreditPackageID, string strSignID, string remark)
+		{
+			ACMSDAL.ConnectionProvider connProvider = new ConnectionProvider();
+            DataRow[] rows, row1s = new DataRow[strPackageCode.Length / 2];
+            string [,] strUsage = new string[strPackageCode.Length / 2,3];
+           //DataColumn[] dc = new DataColumn["Usage",System.Type.GetType("System.Int")];
+            
+			try
+			{
+				TblMemberCreditPackage memberCreditPackage = new TblMemberCreditPackage();
+				
+				connProvider.OpenConnection();
+				connProvider.BeginTransaction("UseMemberCreditPackage");
+				
+				memberCreditPackage.MainConnectionProvider = connProvider;
+				memberCreditPackage.NCreditPackageID = nCreditPackageID;
+				DataTable table = memberCreditPackage.SelectOne();
+			
+				if (table == null || table.Rows.Count == 0)
+					throw new Exception("This member credit package been deleted by others");
+
+				if (ACMS.Convert.ToInt32(table.Rows[0]["nStatusID"]) > 0)
+					throw new Exception("This member credit package has been deleted by others or this member credit package has expired.");
+
+				string strCreditPackageCode = memberCreditPackage.StrCreditPackageCode.Value;
+				string strMembershipID = memberCreditPackage.StrMembershipID.Value;
+				TblCreditPackageRestriction restriction = new TblCreditPackageRestriction();
+				restriction.StrCreditPackageCode = strCreditPackageCode;
+			
+				DataTable restricttable = restriction.SelectAllWstrCreditPackageCodeLogic();
+                DataColumn colQuantity = new DataColumn("colQuantity", System.Type.GetType("System.Int32"));
+                restricttable.Columns.Add(colQuantity);
+
+				bool isAllowDiscount = false;                
+
+				if (restricttable.Rows.Count == 0)
+					throw new Exception("No allow to use credit package for this package.");
+				else
+				{
+                    
+                    for (int j = 0; j < strPackageCode.Length / 2; j++)
+                    {
+                        rows = restricttable.Select("strPackageCode = '" + strPackageCode[j,0] + "'", "strCreditPackageCode");
+                        rows[0]["colQuantity"] = strPackageCode[j, 1];
+                        row1s[j] = rows[0];                
+                                               
+                    }
+					if (row1s.Length == 0)
+						throw new Exception("No allow to use credit package for this package.");
+                    // check later as got two package now
+                    //else
+                    //{
+                    //    isAllowDiscount = ACMS.Convert.ToBoolean(row1s[0]["fAllowDiscount"]);
+                    //}
+				}
+		
+				// Must Check balance is enough to buy a Package or not
+				TblCreditPackage creditPackage = new TblCreditPackage();
+				creditPackage.StrCreditPackageCode = memberCreditPackage.StrCreditPackageCode.Value;
+				creditPackage.SelectOne();
+
+				decimal creditPackageValue = ACMS.Convert.ToDecimal(creditPackage.MCreditAmount);
+
+				decimal mmbCreditPackageTopupAmt = ACMS.Convert.ToDecimal(memberCreditPackage.MTopupAmount);
+			
+				decimal totalCreditUsage = GetCreditUsageFromMemberPackage(nCreditPackageID);
+			
+				decimal balance =  (creditPackageValue + mmbCreditPackageTopupAmt) - totalCreditUsage;
+
+				if (balance < 0) throw new Exception(string.Format("Balance for Member Credit Package : {0} is not enough.\n Please topup your credit.", nCreditPackageID.ToString()));
+
+				// Need to know here whether it is 1st use
+				TblMemberPackage mp = new TblMemberPackage();
+				mp.MainConnectionProvider = connProvider;
+				mp.NCreditPackageID = nCreditPackageID;
+				DataTable temptable = mp.SelectAllWnCreditPackageIDLogic();
+			
+				bool is1stUseCreditPck = false;
+				if (temptable.Rows.Count == 0)
+				{
+					//means news insert
+					is1stUseCreditPck = true;
+				}
+                int i=0;
+                foreach (DataRow drPackage in row1s)
+                {
+                   
+
+                    for (int x = 0; x < ACMS.Convert.ToInt32(drPackage[3]); x++) // quantity
+                    {
+                        MemberPackage memberPackage = new MemberPackage();
+                        DataTable memberPackageTable = memberPackage.New(false, strMembershipID);
+                        DataRow memberPackageRow = memberPackageTable.Rows[0];
+                        memberPackageRow["nCreditPackageID"] = nCreditPackageID;
+                        memberPackageRow["strMembershipID"] = strMembershipID;
+                        memberPackageRow["dtPurchaseDate"] = DateTime.Now;
+                        memberPackageRow["strRemarks"] = remark;
+                        memberPackageRow["nStatusID"] = 0;
+
+                        memberPackageRow["strPackageCode"] = drPackage["strPackageCode"];//strPackageCode;
+                        TblPackage package = new TblPackage();
+                        package.StrPackageCode = drPackage["strPackageCode"].ToString(); // strPackageCode;
+                        package.SelectOne();
+                        decimal creditUsage = 0;
+                        decimal packageListPrice = ACMS.Convert.ToDecimal(package.MListPrice);                        
+
+                        if (ACMS.Convert.ToBoolean(drPackage["fAllowDiscount"]))
+                        {
+                            double discountPercent = creditPackage.DCreditDiscount.Value;
+                            // calcualte usage * quantity
+                            creditUsage = packageListPrice - (packageListPrice * (decimal)discountPercent / 100);
+                        }
+                        else
+                        {
+                            creditUsage = packageListPrice;
+                        }
+                        decimal previousBal = balance;
+                        balance = decimal.Parse(previousBal.ToString("N2")) - decimal.Parse(creditUsage.ToString("N2"));
+                        if (balance < 0)
+                            throw new Exception(string.Format("Balance for Member Credit Package : {0} is not enough. \n Please topup your credit.", nCreditPackageID.ToString()));
+
+                        memberPackageRow["mCreditPackageUsagePrice"] = creditUsage;
+                        memberPackageRow["strRemarks"] = memberPackageRow["strRemarks"] + " " + x;
+
+                        mp.SaveData(memberPackageTable);
+                        strUsage[i, 0] = package.StrDescription.ToString();
+                        strUsage[i, 1] = creditUsage.ToString();
+                    }
+                        
+                        strUsage[i, 2] = drPackage[3].ToString();
+                        i++;
+                    
+                }
+
+				if (is1stUseCreditPck)
+				{
+					memberCreditPackage.NCreditPackageID = nCreditPackageID;
+					memberCreditPackage.DtStartDate = DateTime.Now.Date;
+					memberCreditPackage.DtExpiryDate = DateTime.Now.Date.AddMonths(ACMS.Convert.ToInt32(creditPackage.NValidMonths)).AddDays(-1);
+					memberCreditPackage.Update();
+				}
+
+				connProvider.CommitTransaction();
+			}
+			catch (Exception)
+			{
+				connProvider.RollbackTransaction("UseMemberCreditPackage");
+				throw;
+			}
+			finally
+			{
+				if (connProvider.CurrentTransaction != null)
+					connProvider.CurrentTransaction.Dispose();
+				if (connProvider.DBConnection != null)
+				{
+					if (connProvider.DBConnection.State == ConnectionState.Open)
+						connProvider.DBConnection.Close();
+				}
+			}
+            return strUsage;
+		}
+
+		public DataTable GetPrintBalanceTable(int nCreditPackageID)
+		{
+			TblMemberCreditPackage memberCreditPackage = new TblMemberCreditPackage();
+			memberCreditPackage.NCreditPackageID = nCreditPackageID;
+			DataTable table = memberCreditPackage.SelectOne();
+
+			TblCreditPackage creditPackage = new TblCreditPackage();
+			creditPackage.StrCreditPackageCode = memberCreditPackage.StrCreditPackageCode.Value;
+			creditPackage.SelectOne();
+
+			decimal creditPackageValue = ACMS.Convert.ToDecimal(creditPackage.MCreditAmount);
+
+			decimal mmbCreditPackageTopupAmt = ACMS.Convert.ToDecimal(memberCreditPackage.MTopupAmount);
+			
+			decimal totalCreditUsage = GetCreditUsageFromMemberPackage(nCreditPackageID);
+			
+			decimal balance =  (creditPackageValue + mmbCreditPackageTopupAmt) - totalCreditUsage;
+
+			DataTable tableToReturn = new DataTable();
+
+			DataColumn colCreditPackageID = new DataColumn("nCreditPackageID", System.Type.GetType("System.Int32"));
+			DataColumn colBalance = new DataColumn("Balance", System.Type.GetType("System.Decimal"));
+			DataColumn colExpiryDate = new DataColumn("ExpiryDate", System.Type.GetType("System.DateTime"));
+
+			tableToReturn.Columns.Add(colBalance);
+			tableToReturn.Columns.Add(colCreditPackageID);
+			tableToReturn.Columns.Add(colExpiryDate);
+
+			DataRow r = tableToReturn.NewRow();
+			r["nCreditPackageID"] = nCreditPackageID;
+			r["Balance"] = balance;
+			r["ExpiryDate"] = memberCreditPackage.DtExpiryDate.Value;
+
+			return tableToReturn;
+		}
+		
+		public void DeleteCreditPackageUsage(int nPackageID)
+		{
+            TblServiceSession ssUsage = new TblServiceSession();
+            ssUsage.NPackageID = nPackageID;
+            DataTable tblUsage = ssUsage.SelectAllWnPackageIDLogic();
+            if (tblUsage.Rows.Count > 0)
+                throw new Exception("You Cant deleted a Used Package.");
+			TblMemberPackage mmbPckg = new TblMemberPackage();
+			mmbPckg.NPackageID = nPackageID;
+			DataTable table = mmbPckg.SelectOne();
+			
+			if (table == null || table.Rows.Count == 0)
+				throw new Exception("The Data has been deleted from database.");
+
+			mmbPckg.NStatusID = 2;
+
+			mmbPckg.Update();
+		}
+
+		private decimal GetCreditUsageFromMemberPackage(int nCreditPackageID)
+		{
+			ACMSDAL.TblMemberPackage memberPackage = new TblMemberPackage();
+			string cmdText = "Select Sum(mCreditPackageUsagePrice) from TblMemberPackage Where (nStatusID = 0 or nStatusID = 1) AND " + 
+				" nCreditPackageID = @nCreditPackageID Group By nCreditPackageID";
+ 
+			object obj = memberPackage.ExecuteScalar(cmdText, new string [] {"@nCreditPackageID"}, new object[] {nCreditPackageID});
+			if (obj == null)
+				return 0;
+			else
+			{
+				if (obj is DataRow)
+				{
+					DataRow r = (DataRow) obj;
+					decimal mCreditPackageUsagePrice = ACMS.Convert.ToDecimal(r["mCreditPackageUsagePrice"]);
+					return mCreditPackageUsagePrice;
+				}
+				else
+				{
+					decimal mCreditPackageUsagePrice = ACMS.Convert.ToDecimal(obj);
+					return mCreditPackageUsagePrice;
+				}
+			}
+		}
+
+
+		public void PrintCreditAccountExpiryReport(DataTable sourceTable, string memberName)
+		{
+			if (!sourceTable.Columns.Contains("MemberName"))
+			{
+				DataColumn colMemberName = new DataColumn("MemberName", typeof(string));
+				sourceTable.Columns.Add(colMemberName);
+			}
+			sourceTable.Rows[0]["MemberName"] = memberName;
+
+			ACMSLogic.Report.MemberCreditPackageExpiryReport report = new ACMSLogic.Report.MemberCreditPackageExpiryReport();
+			report.DataSource=sourceTable;
+			report.CreateDataBindings();
+			report.Print();
+		}
+
+		public void Save(DataTable table)
+		{
+			myCreditPkg.SaveData(table);
+		}
+
+		public DataTable Table
+		{
+			get { return myDataTable; }
+		}
+	}
+}

@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsEmployee" targetNamespace="http://tempuri.org/dsEmployee.xsd" xmlns:mstns="http://tempuri.org/dsEmployee.xsd" xmlns="http://tempuri.org/dsEmployee.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ACMSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ACMSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ACMS.Properties.Settings.GlobalReference.Default.ACMSConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblEmployeeTableAdapter" GeneratorDataComponentClassName="tblEmployeeTableAdapter" Name="tblEmployee" UserDataComponentName="tblEmployeeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ACMSConnectionString (Settings)" DbObjectName="ACMS.dbo.tblEmployee" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM [dbo].[tblEmployee] WHERE (([nEmployeeID] = @Original_nEmployeeID) AND ((@IsNull_strEmployeeName = 1 AND [strEmployeeName] IS NULL) OR ([strEmployeeName] = @Original_strEmployeeName)) AND ((@IsNull_strPassword = 1 AND [strPassword] IS NULL) OR ([strPassword] = @Original_strPassword)) AND ([strJobPositionCode] = @Original_strJobPositionCode) AND ([strBranchCode] = @Original_strBranchCode) AND ((@IsNull_dtEmployeeStartDate = 1 AND [dtEmployeeStartDate] IS NULL) OR ([dtEmployeeStartDate] = @Original_dtEmployeeStartDate)) AND ([nRightsLevelID] = @Original_nRightsLevelID) AND ((@IsNull_mFitnessPackageTarget = 1 AND [mFitnessPackageTarget] IS NULL) OR ([mFitnessPackageTarget] = @Original_mFitnessPackageTarget)) AND ((@IsNull_mFitnessProductTarget = 1 AND [mFitnessProductTarget] IS NULL) OR ([mFitnessProductTarget] = @Original_mFitnessProductTarget)) AND ((@IsNull_mSpaPackageTarget = 1 AND [mSpaPackageTarget] IS NULL) OR ([mSpaPackageTarget] = @Original_mSpaPackageTarget)) AND ((@IsNull_mSpaProductTarget = 1 AND [mSpaProductTarget] IS NULL) OR ([mSpaProductTarget] = @Original_mSpaProductTarget)) AND ((@IsNull_mPTPackageTarget = 1 AND [mPTPackageTarget] IS NULL) OR ([mPTPackageTarget] = @Original_mPTPackageTarget)) AND ((@IsNull_nInstructorTypeID = 1 AND [nInstructorTypeID] IS NULL) OR ([nInstructorTypeID] = @Original_nInstructorTypeID)) AND ((@IsNull_nServiceCommLevel = 1 AND [nServiceCommLevel] IS NULL) OR ([nServiceCommLevel] = @Original_nServiceCommLevel)) AND ((@IsNull_strContactNo = 1 AND [strContactNo] IS NULL) OR ([strContactNo] = @Original_strContactNo)) AND ((@IsNull_fPartTime = 1 AND [fPartTime] IS NULL) OR ([fPartTime] = @Original_fPartTime)) AND ((@IsNull_nStatusID = 1 AND [nStatusID] IS NULL) OR ([nStatusID] = @Original_nStatusID)) AND ((@IsNull_nDepartmentID = 1 AND [nDepartmentID] IS NULL) OR ([nDepartmentID] = @Original_nDepartmentID)) AND ((@IsNull_fProbation = 1 AND [fProbation] IS NULL) OR ([fProbation] = @Original_fProbation)) AND ((@IsNull_fMaternityLeave = 1 AND [fMaternityLeave] IS NULL) OR ([fMaternityLeave] = @Original_fMaternityLeave)) AND ((@IsNull_fChildcareLeave = 1 AND [fChildcareLeave] IS NULL) OR ([fChildcareLeave] = @Original_fChildcareLeave)) AND ([fRegistrationFee] = @Original_fRegistrationFee) AND ([fPtInstructor] = @Original_fPtInstructor) AND ([fSalesPerson] = @Original_fSalesPerson) AND ([fServiceCommission] = @Original_fServiceCommission) AND ([fInstructor] = @Original_fInstructor) AND ((@IsNull_fMemoGroup = 1 AND [fMemoGroup] IS NULL) OR ([fMemoGroup] = @Original_fMemoGroup)) AND ([nLeaveGroup] = @Original_nLeaveGroup) AND ((@IsNull_fSpaConsult = 1 AND [fSpaConsult] IS NULL) OR ([fSpaConsult] = @Original_fSpaConsult)) AND ((@IsNull_fTherapist = 1 AND [fTherapist] IS NULL) OR ([fTherapist] = @Original_fTherapist)) AND ((@IsNull_fMSE = 1 AND [fMSE] IS NULL) OR ([fMSE] = @Original_fMSE)) AND ((@IsNull_strRemark = 1 AND [strRemark] IS NULL) OR ([strRemark] = @Original_strRemark)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nEmployeeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nEmployeeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strEmployeeName" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strEmployeeName" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strPassword" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strPassword" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strJobPositionCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strJobPositionCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtEmployeeStartDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtEmployeeStartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nRightsLevelID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nRightsLevelID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mFitnessPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mFitnessPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mFitnessProductTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mFitnessProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mSpaPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mSpaPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mSpaProductTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mSpaProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mPTPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mPTPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strContactNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strContactNo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fPartTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPartTime" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nStatusID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_nStatusID" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fProbation" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fProbation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMaternityLeave" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMaternityLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fChildcareLeave" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fChildcareLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fRegistrationFee" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fRegistrationFee" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPtInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPtInstructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fSalesPerson" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSalesPerson" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fServiceCommission" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fServiceCommission" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fInstructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMemoGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMemoGroup" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nLeaveGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nLeaveGroup" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fSpaConsult" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fSpaConsult" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fTherapist" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fTherapist" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMSE" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMSE" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strRemark" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_strRemark" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO [dbo].[tblEmployee] ([nEmployeeID], [strEmployeeName], [strPassword], [strJobPositionCode], [strBranchCode], [dtEmployeeStartDate], [nRightsLevelID], [mFitnessPackageTarget], [mFitnessProductTarget], [mSpaPackageTarget], [mSpaProductTarget], [mPTPackageTarget], [nInstructorTypeID], [nServiceCommLevel], [strContactNo], [fPartTime], [nStatusID], [nDepartmentID], [fProbation], [fMaternityLeave], [fChildcareLeave], [fRegistrationFee], [fPtInstructor], [fSalesPerson], [fServiceCommission], [fInstructor], [fMemoGroup], [nLeaveGroup], [fSpaConsult], [fTherapist], [fMSE], [strRemark]) VALUES (@nEmployeeID, @strEmployeeName, @strPassword, @strJobPositionCode, @strBranchCode, @dtEmployeeStartDate, @nRightsLevelID, @mFitnessPackageTarget, @mFitnessProductTarget, @mSpaPackageTarget, @mSpaProductTarget, @mPTPackageTarget, @nInstructorTypeID, @nServiceCommLevel, @strContactNo, @fPartTime, @nStatusID, @nDepartmentID, @fProbation, @fMaternityLeave, @fChildcareLeave, @fRegistrationFee, @fPtInstructor, @fSalesPerson, @fServiceCommission, @fInstructor, @fMemoGroup, @nLeaveGroup, @fSpaConsult, @fTherapist, @fMSE, @strRemark);
+SELECT nEmployeeID, strEmployeeName, strPassword, strJobPositionCode, strBranchCode, dtEmployeeStartDate, nRightsLevelID, mFitnessPackageTarget, mFitnessProductTarget, mSpaPackageTarget, mSpaProductTarget, mPTPackageTarget, nInstructorTypeID, nServiceCommLevel, strContactNo, fPartTime, nStatusID, nDepartmentID, fProbation, fMaternityLeave, fChildcareLeave, fRegistrationFee, fPtInstructor, fSalesPerson, fServiceCommission, fInstructor, fMemoGroup, nLeaveGroup, fSpaConsult, fTherapist, fMSE, strRemark FROM tblEmployee WHERE (nEmployeeID = @nEmployeeID)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nEmployeeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nEmployeeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strEmployeeName" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strPassword" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strJobPositionCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strJobPositionCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtEmployeeStartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nRightsLevelID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nRightsLevelID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mFitnessPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mFitnessProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mSpaPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mSpaProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mPTPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strContactNo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPartTime" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@nStatusID" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fProbation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMaternityLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fChildcareLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fRegistrationFee" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fRegistrationFee" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPtInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPtInstructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fSalesPerson" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSalesPerson" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fServiceCommission" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fServiceCommission" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fInstructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMemoGroup" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nLeaveGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nLeaveGroup" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fSpaConsult" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fTherapist" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMSE" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@strRemark" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT nEmployeeID, strEmployeeName, strPassword, strJobPositionCode, strBranchCode, dtEmployeeStartDate, nRightsLevelID, mFitnessPackageTarget, mFitnessProductTarget, mSpaPackageTarget, mSpaProductTarget, mPTPackageTarget, nInstructorTypeID, nServiceCommLevel, strContactNo, fPartTime, nStatusID, nDepartmentID, fProbation, fMaternityLeave, fChildcareLeave, fRegistrationFee, fPtInstructor, fSalesPerson, fServiceCommission, fInstructor, fMemoGroup, nLeaveGroup, fSpaConsult, fTherapist, fMSE, strRemark FROM dbo.tblEmployee where nDepartmentID = @nDepartment</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="nDepartment" ColumnName="nDepartmentID" DataSourceName="ACMS.dbo.tblEmployee" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@nDepartment" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="nDepartmentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE [dbo].[tblEmployee] SET [nEmployeeID] = @nEmployeeID, [strEmployeeName] = @strEmployeeName, [strPassword] = @strPassword, [strJobPositionCode] = @strJobPositionCode, [strBranchCode] = @strBranchCode, [dtEmployeeStartDate] = @dtEmployeeStartDate, [nRightsLevelID] = @nRightsLevelID, [mFitnessPackageTarget] = @mFitnessPackageTarget, [mFitnessProductTarget] = @mFitnessProductTarget, [mSpaPackageTarget] = @mSpaPackageTarget, [mSpaProductTarget] = @mSpaProductTarget, [mPTPackageTarget] = @mPTPackageTarget, [nInstructorTypeID] = @nInstructorTypeID, [nServiceCommLevel] = @nServiceCommLevel, [strContactNo] = @strContactNo, [fPartTime] = @fPartTime, [nStatusID] = @nStatusID, [nDepartmentID] = @nDepartmentID, [fProbation] = @fProbation, [fMaternityLeave] = @fMaternityLeave, [fChildcareLeave] = @fChildcareLeave, [fRegistrationFee] = @fRegistrationFee, [fPtInstructor] = @fPtInstructor, [fSalesPerson] = @fSalesPerson, [fServiceCommission] = @fServiceCommission, [fInstructor] = @fInstructor, [fMemoGroup] = @fMemoGroup, [nLeaveGroup] = @nLeaveGroup, [fSpaConsult] = @fSpaConsult, [fTherapist] = @fTherapist, [fMSE] = @fMSE, [strRemark] = @strRemark WHERE (([nEmployeeID] = @Original_nEmployeeID) AND ((@IsNull_strEmployeeName = 1 AND [strEmployeeName] IS NULL) OR ([strEmployeeName] = @Original_strEmployeeName)) AND ((@IsNull_strPassword = 1 AND [strPassword] IS NULL) OR ([strPassword] = @Original_strPassword)) AND ([strJobPositionCode] = @Original_strJobPositionCode) AND ([strBranchCode] = @Original_strBranchCode) AND ((@IsNull_dtEmployeeStartDate = 1 AND [dtEmployeeStartDate] IS NULL) OR ([dtEmployeeStartDate] = @Original_dtEmployeeStartDate)) AND ([nRightsLevelID] = @Original_nRightsLevelID) AND ((@IsNull_mFitnessPackageTarget = 1 AND [mFitnessPackageTarget] IS NULL) OR ([mFitnessPackageTarget] = @Original_mFitnessPackageTarget)) AND ((@IsNull_mFitnessProductTarget = 1 AND [mFitnessProductTarget] IS NULL) OR ([mFitnessProductTarget] = @Original_mFitnessProductTarget)) AND ((@IsNull_mSpaPackageTarget = 1 AND [mSpaPackageTarget] IS NULL) OR ([mSpaPackageTarget] = @Original_mSpaPackageTarget)) AND ((@IsNull_mSpaProductTarget = 1 AND [mSpaProductTarget] IS NULL) OR ([mSpaProductTarget] = @Original_mSpaProductTarget)) AND ((@IsNull_mPTPackageTarget = 1 AND [mPTPackageTarget] IS NULL) OR ([mPTPackageTarget] = @Original_mPTPackageTarget)) AND ((@IsNull_nInstructorTypeID = 1 AND [nInstructorTypeID] IS NULL) OR ([nInstructorTypeID] = @Original_nInstructorTypeID)) AND ((@IsNull_nServiceCommLevel = 1 AND [nServiceCommLevel] IS NULL) OR ([nServiceCommLevel] = @Original_nServiceCommLevel)) AND ((@IsNull_strContactNo = 1 AND [strContactNo] IS NULL) OR ([strContactNo] = @Original_strContactNo)) AND ((@IsNull_fPartTime = 1 AND [fPartTime] IS NULL) OR ([fPartTime] = @Original_fPartTime)) AND ((@IsNull_nStatusID = 1 AND [nStatusID] IS NULL) OR ([nStatusID] = @Original_nStatusID)) AND ((@IsNull_nDepartmentID = 1 AND [nDepartmentID] IS NULL) OR ([nDepartmentID] = @Original_nDepartmentID)) AND ((@IsNull_fProbation = 1 AND [fProbation] IS NULL) OR ([fProbation] = @Original_fProbation)) AND ((@IsNull_fMaternityLeave = 1 AND [fMaternityLeave] IS NULL) OR ([fMaternityLeave] = @Original_fMaternityLeave)) AND ((@IsNull_fChildcareLeave = 1 AND [fChildcareLeave] IS NULL) OR ([fChildcareLeave] = @Original_fChildcareLeave)) AND ([fRegistrationFee] = @Original_fRegistrationFee) AND ([fPtInstructor] = @Original_fPtInstructor) AND ([fSalesPerson] = @Original_fSalesPerson) AND ([fServiceCommission] = @Original_fServiceCommission) AND ([fInstructor] = @Original_fInstructor) AND ((@IsNull_fMemoGroup = 1 AND [fMemoGroup] IS NULL) OR ([fMemoGroup] = @Original_fMemoGroup)) AND ([nLeaveGroup] = @Original_nLeaveGroup) AND ((@IsNull_fSpaConsult = 1 AND [fSpaConsult] IS NULL) OR ([fSpaConsult] = @Original_fSpaConsult)) AND ((@IsNull_fTherapist = 1 AND [fTherapist] IS NULL) OR ([fTherapist] = @Original_fTherapist)) AND ((@IsNull_fMSE = 1 AND [fMSE] IS NULL) OR ([fMSE] = @Original_fMSE)) AND ((@IsNull_strRemark = 1 AND [strRemark] IS NULL) OR ([strRemark] = @Original_strRemark)));
+SELECT nEmployeeID, strEmployeeName, strPassword, strJobPositionCode, strBranchCode, dtEmployeeStartDate, nRightsLevelID, mFitnessPackageTarget, mFitnessProductTarget, mSpaPackageTarget, mSpaProductTarget, mPTPackageTarget, nInstructorTypeID, nServiceCommLevel, strContactNo, fPartTime, nStatusID, nDepartmentID, fProbation, fMaternityLeave, fChildcareLeave, fRegistrationFee, fPtInstructor, fSalesPerson, fServiceCommission, fInstructor, fMemoGroup, nLeaveGroup, fSpaConsult, fTherapist, fMSE, strRemark FROM tblEmployee WHERE (nEmployeeID = @nEmployeeID)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nEmployeeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nEmployeeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strEmployeeName" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strPassword" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strJobPositionCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strJobPositionCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@dtEmployeeStartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nRightsLevelID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nRightsLevelID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mFitnessPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mFitnessProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mSpaPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mSpaProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@mPTPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@strContactNo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPartTime" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@nStatusID" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fProbation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMaternityLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fChildcareLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fRegistrationFee" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fRegistrationFee" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fPtInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPtInstructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fSalesPerson" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSalesPerson" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fServiceCommission" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fServiceCommission" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fInstructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMemoGroup" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@nLeaveGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nLeaveGroup" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fSpaConsult" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fTherapist" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@fMSE" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@strRemark" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nEmployeeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nEmployeeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strEmployeeName" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strEmployeeName" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strEmployeeName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strPassword" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strPassword" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strPassword" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strJobPositionCode" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strJobPositionCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_strBranchCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="strBranchCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_dtEmployeeStartDate" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="@Original_dtEmployeeStartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="0" SourceColumn="dtEmployeeStartDate" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nRightsLevelID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nRightsLevelID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mFitnessPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mFitnessPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mFitnessProductTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mFitnessProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mFitnessProductTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mSpaPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mSpaPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mSpaProductTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mSpaProductTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mSpaProductTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_mPTPackageTarget" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Currency" Direction="Input" ParameterName="@Original_mPTPackageTarget" Precision="0" ProviderType="Money" Scale="0" Size="0" SourceColumn="mPTPackageTarget" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nInstructorTypeID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nInstructorTypeID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nServiceCommLevel" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nServiceCommLevel" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strContactNo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_strContactNo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="strContactNo" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fPartTime" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPartTime" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPartTime" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nStatusID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_nStatusID" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="nStatusID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nDepartmentID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nDepartmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fProbation" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fProbation" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fProbation" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMaternityLeave" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMaternityLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMaternityLeave" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fChildcareLeave" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fChildcareLeave" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fChildcareLeave" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fRegistrationFee" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fRegistrationFee" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fPtInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fPtInstructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fSalesPerson" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSalesPerson" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fServiceCommission" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fServiceCommission" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fInstructor" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fInstructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMemoGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMemoGroup" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMemoGroup" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_nLeaveGroup" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nLeaveGroup" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fSpaConsult" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fSpaConsult" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fSpaConsult" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fTherapist" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fTherapist" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fTherapist" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_fMSE" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_fMSE" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="fMSE" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_strRemark" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_strRemark" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="strRemark" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nEmployeeID" DataSetColumn="nEmployeeID" />
+              <Mapping SourceColumn="strEmployeeName" DataSetColumn="strEmployeeName" />
+              <Mapping SourceColumn="strPassword" DataSetColumn="strPassword" />
+              <Mapping SourceColumn="strJobPositionCode" DataSetColumn="strJobPositionCode" />
+              <Mapping SourceColumn="strBranchCode" DataSetColumn="strBranchCode" />
+              <Mapping SourceColumn="dtEmployeeStartDate" DataSetColumn="dtEmployeeStartDate" />
+              <Mapping SourceColumn="nRightsLevelID" DataSetColumn="nRightsLevelID" />
+              <Mapping SourceColumn="mFitnessPackageTarget" DataSetColumn="mFitnessPackageTarget" />
+              <Mapping SourceColumn="mFitnessProductTarget" DataSetColumn="mFitnessProductTarget" />
+              <Mapping SourceColumn="mSpaPackageTarget" DataSetColumn="mSpaPackageTarget" />
+              <Mapping SourceColumn="mSpaProductTarget" DataSetColumn="mSpaProductTarget" />
+              <Mapping SourceColumn="mPTPackageTarget" DataSetColumn="mPTPackageTarget" />
+              <Mapping SourceColumn="nInstructorTypeID" DataSetColumn="nInstructorTypeID" />
+              <Mapping SourceColumn="nServiceCommLevel" DataSetColumn="nServiceCommLevel" />
+              <Mapping SourceColumn="strContactNo" DataSetColumn="strContactNo" />
+              <Mapping SourceColumn="fPartTime" DataSetColumn="fPartTime" />
+              <Mapping SourceColumn="nStatusID" DataSetColumn="nStatusID" />
+              <Mapping SourceColumn="nDepartmentID" DataSetColumn="nDepartmentID" />
+              <Mapping SourceColumn="fProbation" DataSetColumn="fProbation" />
+              <Mapping SourceColumn="fMaternityLeave" DataSetColumn="fMaternityLeave" />
+              <Mapping SourceColumn="fChildcareLeave" DataSetColumn="fChildcareLeave" />
+              <Mapping SourceColumn="fRegistrationFee" DataSetColumn="fRegistrationFee" />
+              <Mapping SourceColumn="fPtInstructor" DataSetColumn="fPtInstructor" />
+              <Mapping SourceColumn="fSalesPerson" DataSetColumn="fSalesPerson" />
+              <Mapping SourceColumn="fServiceCommission" DataSetColumn="fServiceCommission" />
+              <Mapping SourceColumn="fInstructor" DataSetColumn="fInstructor" />
+              <Mapping SourceColumn="fMemoGroup" DataSetColumn="fMemoGroup" />
+              <Mapping SourceColumn="nLeaveGroup" DataSetColumn="nLeaveGroup" />
+              <Mapping SourceColumn="fSpaConsult" DataSetColumn="fSpaConsult" />
+              <Mapping SourceColumn="fTherapist" DataSetColumn="fTherapist" />
+              <Mapping SourceColumn="fMSE" DataSetColumn="fMSE" />
+              <Mapping SourceColumn="strRemark" DataSetColumn="strRemark" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsEmployee" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsEmployee" msprop:Generator_DataSetName="dsEmployee">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblEmployee" msprop:Generator_UserTableName="tblEmployee" msprop:Generator_RowDeletedName="tblEmployeeRowDeleted" msprop:Generator_RowChangedName="tblEmployeeRowChanged" msprop:Generator_RowClassName="tblEmployeeRow" msprop:Generator_RowChangingName="tblEmployeeRowChanging" msprop:Generator_RowEvArgName="tblEmployeeRowChangeEvent" msprop:Generator_RowEvHandlerName="tblEmployeeRowChangeEventHandler" msprop:Generator_TableClassName="tblEmployeeDataTable" msprop:Generator_TableVarName="tabletblEmployee" msprop:Generator_RowDeletingName="tblEmployeeRowDeleting" msprop:Generator_TablePropName="tblEmployee">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nEmployeeID" msprop:Generator_UserColumnName="nEmployeeID" msprop:Generator_ColumnVarNameInTable="columnnEmployeeID" msprop:Generator_ColumnPropNameInRow="nEmployeeID" msprop:Generator_ColumnPropNameInTable="nEmployeeIDColumn" type="xs:int" />
+              <xs:element name="strEmployeeName" msprop:Generator_UserColumnName="strEmployeeName" msprop:Generator_ColumnVarNameInTable="columnstrEmployeeName" msprop:Generator_ColumnPropNameInRow="strEmployeeName" msprop:Generator_ColumnPropNameInTable="strEmployeeNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="strPassword" msprop:Generator_UserColumnName="strPassword" msprop:Generator_ColumnVarNameInTable="columnstrPassword" msprop:Generator_ColumnPropNameInRow="strPassword" msprop:Generator_ColumnPropNameInTable="strPasswordColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="strJobPositionCode" msprop:Generator_UserColumnName="strJobPositionCode" msprop:Generator_ColumnVarNameInTable="columnstrJobPositionCode" msprop:Generator_ColumnPropNameInRow="strJobPositionCode" msprop:Generator_ColumnPropNameInTable="strJobPositionCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="strBranchCode" msprop:Generator_UserColumnName="strBranchCode" msprop:Generator_ColumnVarNameInTable="columnstrBranchCode" msprop:Generator_ColumnPropNameInRow="strBranchCode" msprop:Generator_ColumnPropNameInTable="strBranchCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dtEmployeeStartDate" msprop:Generator_UserColumnName="dtEmployeeStartDate" msprop:Generator_ColumnVarNameInTable="columndtEmployeeStartDate" msprop:Generator_ColumnPropNameInRow="dtEmployeeStartDate" msprop:Generator_ColumnPropNameInTable="dtEmployeeStartDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nRightsLevelID" msprop:Generator_UserColumnName="nRightsLevelID" msprop:Generator_ColumnVarNameInTable="columnnRightsLevelID" msprop:Generator_ColumnPropNameInRow="nRightsLevelID" msprop:Generator_ColumnPropNameInTable="nRightsLevelIDColumn" type="xs:int" />
+              <xs:element name="mFitnessPackageTarget" msprop:Generator_UserColumnName="mFitnessPackageTarget" msprop:Generator_ColumnVarNameInTable="columnmFitnessPackageTarget" msprop:Generator_ColumnPropNameInRow="mFitnessPackageTarget" msprop:Generator_ColumnPropNameInTable="mFitnessPackageTargetColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="mFitnessProductTarget" msprop:Generator_UserColumnName="mFitnessProductTarget" msprop:Generator_ColumnVarNameInTable="columnmFitnessProductTarget" msprop:Generator_ColumnPropNameInRow="mFitnessProductTarget" msprop:Generator_ColumnPropNameInTable="mFitnessProductTargetColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="mSpaPackageTarget" msprop:Generator_UserColumnName="mSpaPackageTarget" msprop:Generator_ColumnVarNameInTable="columnmSpaPackageTarget" msprop:Generator_ColumnPropNameInRow="mSpaPackageTarget" msprop:Generator_ColumnPropNameInTable="mSpaPackageTargetColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="mSpaProductTarget" msprop:Generator_UserColumnName="mSpaProductTarget" msprop:Generator_ColumnVarNameInTable="columnmSpaProductTarget" msprop:Generator_ColumnPropNameInRow="mSpaProductTarget" msprop:Generator_ColumnPropNameInTable="mSpaProductTargetColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="mPTPackageTarget" msprop:Generator_UserColumnName="mPTPackageTarget" msprop:Generator_ColumnVarNameInTable="columnmPTPackageTarget" msprop:Generator_ColumnPropNameInRow="mPTPackageTarget" msprop:Generator_ColumnPropNameInTable="mPTPackageTargetColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nInstructorTypeID" msprop:Generator_UserColumnName="nInstructorTypeID" msprop:Generator_ColumnVarNameInTable="columnnInstructorTypeID" msprop:Generator_ColumnPropNameInRow="nInstructorTypeID" msprop:Generator_ColumnPropNameInTable="nInstructorTypeIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="nServiceCommLevel" msprop:Generator_UserColumnName="nServiceCommLevel" msprop:Generator_ColumnVarNameInTable="columnnServiceCommLevel" msprop:Generator_ColumnPropNameInRow="nServiceCommLevel" msprop:Generator_ColumnPropNameInTable="nServiceCommLevelColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="strContactNo" msprop:Generator_UserColumnName="strContactNo" msprop:Generator_ColumnVarNameInTable="columnstrContactNo" msprop:Generator_ColumnPropNameInRow="strContactNo" msprop:Generator_ColumnPropNameInTable="strContactNoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fPartTime" msprop:Generator_UserColumnName="fPartTime" msprop:Generator_ColumnVarNameInTable="columnfPartTime" msprop:Generator_ColumnPropNameInRow="fPartTime" msprop:Generator_ColumnPropNameInTable="fPartTimeColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nStatusID" msprop:Generator_UserColumnName="nStatusID" msprop:Generator_ColumnVarNameInTable="columnnStatusID" msprop:Generator_ColumnPropNameInRow="nStatusID" msprop:Generator_ColumnPropNameInTable="nStatusIDColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nDepartmentID" msprop:Generator_UserColumnName="nDepartmentID" msprop:Generator_ColumnVarNameInTable="columnnDepartmentID" msprop:Generator_ColumnPropNameInRow="nDepartmentID" msprop:Generator_ColumnPropNameInTable="nDepartmentIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="fProbation" msprop:Generator_UserColumnName="fProbation" msprop:Generator_ColumnVarNameInTable="columnfProbation" msprop:Generator_ColumnPropNameInRow="fProbation" msprop:Generator_ColumnPropNameInTable="fProbationColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fMaternityLeave" msprop:Generator_UserColumnName="fMaternityLeave" msprop:Generator_ColumnVarNameInTable="columnfMaternityLeave" msprop:Generator_ColumnPropNameInRow="fMaternityLeave" msprop:Generator_ColumnPropNameInTable="fMaternityLeaveColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fChildcareLeave" msprop:Generator_UserColumnName="fChildcareLeave" msprop:Generator_ColumnVarNameInTable="columnfChildcareLeave" msprop:Generator_ColumnPropNameInRow="fChildcareLeave" msprop:Generator_ColumnPropNameInTable="fChildcareLeaveColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fRegistrationFee" msprop:Generator_UserColumnName="fRegistrationFee" msprop:Generator_ColumnVarNameInTable="columnfRegistrationFee" msprop:Generator_ColumnPropNameInRow="fRegistrationFee" msprop:Generator_ColumnPropNameInTable="fRegistrationFeeColumn" type="xs:boolean" />
+              <xs:element name="fPtInstructor" msprop:Generator_UserColumnName="fPtInstructor" msprop:Generator_ColumnVarNameInTable="columnfPtInstructor" msprop:Generator_ColumnPropNameInRow="fPtInstructor" msprop:Generator_ColumnPropNameInTable="fPtInstructorColumn" type="xs:boolean" />
+              <xs:element name="fSalesPerson" msprop:Generator_UserColumnName="fSalesPerson" msprop:Generator_ColumnVarNameInTable="columnfSalesPerson" msprop:Generator_ColumnPropNameInRow="fSalesPerson" msprop:Generator_ColumnPropNameInTable="fSalesPersonColumn" type="xs:boolean" />
+              <xs:element name="fServiceCommission" msprop:Generator_UserColumnName="fServiceCommission" msprop:Generator_ColumnVarNameInTable="columnfServiceCommission" msprop:Generator_ColumnPropNameInRow="fServiceCommission" msprop:Generator_ColumnPropNameInTable="fServiceCommissionColumn" type="xs:boolean" />
+              <xs:element name="fInstructor" msprop:Generator_UserColumnName="fInstructor" msprop:Generator_ColumnVarNameInTable="columnfInstructor" msprop:Generator_ColumnPropNameInRow="fInstructor" msprop:Generator_ColumnPropNameInTable="fInstructorColumn" type="xs:boolean" />
+              <xs:element name="fMemoGroup" msprop:Generator_UserColumnName="fMemoGroup" msprop:Generator_ColumnVarNameInTable="columnfMemoGroup" msprop:Generator_ColumnPropNameInRow="fMemoGroup" msprop:Generator_ColumnPropNameInTable="fMemoGroupColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nLeaveGroup" msprop:Generator_UserColumnName="nLeaveGroup" msprop:Generator_ColumnVarNameInTable="columnnLeaveGroup" msprop:Generator_ColumnPropNameInRow="nLeaveGroup" msprop:Generator_ColumnPropNameInTable="nLeaveGroupColumn" type="xs:int" />
+              <xs:element name="fSpaConsult" msprop:Generator_UserColumnName="fSpaConsult" msprop:Generator_ColumnVarNameInTable="columnfSpaConsult" msprop:Generator_ColumnPropNameInRow="fSpaConsult" msprop:Generator_ColumnPropNameInTable="fSpaConsultColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fTherapist" msprop:Generator_UserColumnName="fTherapist" msprop:Generator_ColumnVarNameInTable="columnfTherapist" msprop:Generator_ColumnPropNameInRow="fTherapist" msprop:Generator_ColumnPropNameInTable="fTherapistColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="fMSE" msprop:Generator_UserColumnName="fMSE" msprop:Generator_ColumnVarNameInTable="columnfMSE" msprop:Generator_ColumnPropNameInRow="fMSE" msprop:Generator_ColumnPropNameInTable="fMSEColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="strRemark" msprop:Generator_UserColumnName="strRemark" msprop:Generator_ColumnVarNameInTable="columnstrRemark" msprop:Generator_ColumnPropNameInRow="strRemark" msprop:Generator_ColumnPropNameInTable="strRemarkColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblEmployee" />
+      <xs:field xpath="mstns:nEmployeeID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

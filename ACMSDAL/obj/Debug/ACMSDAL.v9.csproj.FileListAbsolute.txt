@@ -1,0 +1,10 @@
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\ACMS Source\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMSDAL\bin\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMSDAL\bin\Debug\ACMSDAL.pdb
+C:\Work\ACMS\ACMSDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ACMS\ACMSDAL\obj\Debug\ACMSDAL.dll
+C:\Work\ACMS\ACMSDAL\obj\Debug\ACMSDAL.pdb

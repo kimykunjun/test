@@ -1,0 +1,52 @@
+C:\ACMSComm\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMSComm\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMSComm\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMSComm\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMSComm\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMSComm\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\BackUp2005\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2005V8.3\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS2009Jan08\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Debug\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Release\ResolveAssemblyReference.cache
+C:\ACMS Source\ACMS\Microsoft Data Access Application Block\obj\Release\Microsoft.ApplicationBlocks.Data.dll

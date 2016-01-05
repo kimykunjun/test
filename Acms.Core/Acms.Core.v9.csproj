@@ -1,0 +1,417 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7ABFB4A2-1943-424D-958B-F757E0D57DCD}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Acms.Core</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Acms.Core</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccAuxPath>
+    </SccAuxPath>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Audit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Bank.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\BankIPPRate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Branch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\BranchReceiptNo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\BranchTarget.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Brand.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CardRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Case.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CaseAction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CaseCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CaseMode.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CaseType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Category.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Class.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ClassAttendance.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ClassInstance.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ClassSchedule.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ClassType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Color.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CommissionScheme.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CommissionSchemeEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Company.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CreditPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\CreditPackageRestriction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Department.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\DiscountCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Employee.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\EmployeeBranchRights.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\EmployeeCommissionScheme.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\GIRO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\GIROBatch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\GIROBatchEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\IBT.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\IBTEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Id.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\InstructorCommission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\InstructorType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\InstructorTypeCommission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\IPP.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ItemPromotion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\JobPosition.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Leave.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\LeaveType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Locker.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\LoyaltyStatus.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Member.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemberCreditPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemberPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Memo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoBulletin.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoGroupEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoRead.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\MemoReceipient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Package.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PackageBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PackageClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PackageGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PackageGroupEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PackageService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Payment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PaymentGroup.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\POSCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Product.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ProductBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ProductInventory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ProductType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Promotion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PromotionBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PromotionFreebie.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PromotionPackage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PromotionReceiptSalesCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\PTCommLevel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Receipt.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ReceiptEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ReceiptFreebie.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ReceiptPayment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Rewards.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\RewardsBranch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\RewardsCatalogue.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\RewardsTransaction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Rights.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\RightsLevel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\RightsLevelEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Roster.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\SalesCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\SalonUse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Service.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ServiceSession.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\ServiceType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Shift.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Size.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\StockRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\StockRequestEntries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Style.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Tax.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\TerminalUser.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\Test.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\TimeCard.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Domain\UpgradeRestriction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
